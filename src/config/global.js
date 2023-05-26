@@ -317,17 +317,221 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Análisis básicos',
+      significado:
+        'es el procedimiento que se efectúa para determinar turbiedad, color aparente, pH, cloro residual libre o residual de desinfectante usado, coliformes totales y <i>Escherichia coli</i>. Resolución 2115 (2007)',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Análisis físico y químico del agua',
+      significado:
+        'son aquellos procedimientos de laboratorio que se efectúan a una muestra de agua para evaluar sus características físicas, químicas o ambas. Resolución 2115 (2007)',
+    },
+    {
+      termino: 'Análisis microbiológico del agua',
+      significado:
+        'son los procedimientos de laboratorio que se efectúan a una muestra de agua para consumo humano para evaluar la presencia o ausencia, tipo y cantidad de microorganismos. Resolución 2115 (2007)',
+    },
+    {
+      termino: 'Bacteria',
+      significado:
+        'grupo de organismos microscópicos unicelulares, rígidos carentes de clorofila, que desempeñan una serie de procesos de tratamiento que incluyen oxidación biológica, fermentaciones, digestión, nitrificación y desnitrificación. Resolución 1096 (2000)',
+    },
+    {
+      termino: 'Calidad del agua',
+      significado:
+        'es el resultado de comparar las características físicas, químicas y microbiológicas encontradas en el agua, con el contenido de las normas que regulan la materia. Decreto 1575 (2007)',
+    },
+    {
+      termino: 'Coliformes',
+      significado:
+        'bacterias Gram Negativas en forma bacilar que fermentan la lactosa a temperatura de 35 a 37ºC, produciendo ácido y gas (CO2) en un plazo de 24 a 48 horas. Se clasifican como aerobias o anaerobias facultativas, son oxidasa negativa, no forman esporas y presentan actividad enzimática de la β galactosidasa. Es un indicador de contaminación microbiológica del agua para consumo humano. Resolución 2115 (2007)',
+    },
+    {
+      termino: 'Concentración',
+      significado:
+        'es la concentración de una sustancia, elemento o compuesto en un líquido, la  relación  existente entre su peso y el volumen del líquido que lo contiene. Resolución 1096 (2000)',
+    },
+    {
+      termino: 'Ensayo de jarras',
+      significado:
+        'ensayo de laboratorio que simula las condiciones en que se realizan los procesos de oxidación química, coagulación, floculación y sedimentación en la planta. Resolución 1096 (2000)',
+    },
+    {
+      termino: '<i>Escherichia coli (E -coli</i>',
+      significado:
+        'bacilo aerobio Gram Negativo no esporulado que se caracteriza por tener enzimas específicas como la β galactosidasa y β glucoronidasa. Es el indicador microbiológico preciso de contaminación fecal en el agua para consumo humano. Resolución 2115 (2007)',
+    },
+    {
+      termino: 'Laboratorio de análisis del agua para consumo humano',
+      significado:
+        'es el establecimiento público o privado, donde se realizan los procedimientos de análisis de las características físicas, químicas y microbiológicas del agua para consumo humano, el cual debe cumplir con los requisitos previstos en el presente decreto. Decreto 1575 (2007)',
+    },
+    {
+      termino: 'pH óptimo',
+      significado:
+        'valor de pH que produce la máxima eficiencia en un proceso determinado. Resolución 1096 (2000)',
+    },
+    {
+      termino: 'Valor aceptable',
+      significado:
+        'es el establecido para la concentración de un componente o sustancia, que garantiza que el agua para consumo humano no representa riesgos conocidos a la salud. Resolución 2115 (2007)',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Cogollo, J. (2011). Clarificación de aguas usando coagulantes polimerizados: caso del hidroxicloruro de aluminio. Dyna. Vol. 78. Núm. 165. Universidad Nacional de Colombia. Medellín, Colombia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Comisión Estatal del Agua de Jalisco (CEA Jalisco). (2013). Operación y mantenimiento de Plantas de Tratamiento de Aguas Residuales con el proceso de lodos activados.',
+      link:
+        'https://www.aguasresiduales.info/revista/libros/operacion-y-mantenimiento-de-plantas-de-tratamiento-de-aguas-residuales-con-el-proceso-de-lodos-activados-tomo-i',
+    },
+    {
+      referencia:
+        'Deloya Martínez, A. (2006). Métodos de análisis físicos y espectrofotométricos para el análisis de aguas residuales Tecnología en Marcha. Vol. 19-2. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2006). Conductividad eléctrica por el método electrométrico en aguas.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2018). Control de preparación de soluciones.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2004). Determinación de oxígeno disuelto por el método yodométrico modificación de azida.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2007). Dureza Total en Agua con EDTA por Volumetría.   ',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2006).  Estandarización de métodos analíticos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2018). Formato captura de datos en campo para agua superficial para aforo y toma de muestras de agua residual industrial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). 2018. Instructivo de ensayo. Determinación de turbidez por nefelometría. SM 2130B.   ',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Salud. (2019). Boletín de Vigilancia de la Calidad del Agua para Consumo Humano. Despacho Dirección Redes en Salud Pública.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Salud (INS). (2015). Lineamiento para la implementación de la resolución 1619 de 2015 del Ministerio de salud y protección social.',
+      link: '',
+    },
+    {
+      referencia:
+        'Marcó, L., Azario, R., Metzler, C y Garcia, M. (2004). La turbidez como indicador básico de calidad de aguas potabilizadoras a partir de fuentes superficiales. Hig. Sanid. Ambiente. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Martínez, M. y Osorio, A. (2018). Validación de un método para el análisis de color real en agua. Revista Facultad de Ciencias, 7(1) ,143-155. DOI.',
+      link: '',
+    },
+    {
+      referencia:
+        'McFarland, M. y Dozier, M. (s.f.) Problemas del agua potable: El hierro y el manganeso.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Educación Nacional. (2015). Orientaciones para la construcción en los establecimientos educativos del manual de normas de seguridad en el laboratorio de química y de física.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (s.f.). Manual de verificación de estándares de calidad en salud pública para laboratorios de análisis de agua para consumo humano, estanques de piscina, estructuras similares y superficie de piscina.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social e Instituto Nacional de Salud (INS). (2016). Grupo Salud Ambiental. Calidad de Agua. Enfermedades Vehiculizadas por Agua e Índice de Riesgo de la Calidad del Agua en Colombia Bogotá D.C. ISBN: 978-958-13-0174-4:1.',
+      link: '',
+    },
+    {
+      referencia:
+        'Orellana, J. (2005). Características del agua potable. Unidad Temática N.º 3. Ingeniería Sanitaria- UTN - FRRO. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Salud (OMS). (2020). Fichas internacionales de seguridad química.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización Panamericana de la Salud - OPS y Centro Panamericano de Ingeniería Sanitaria y Ciencias del Ambiente - Cepis. (2002). <i>Operación y mantenimiento de plantas de tratamiento de agua. Manual de capacitación de operadores.</i> OPS y Cepis.',
+      link: '',
+    },
+    {
+      referencia:
+        'Pérez, J. (1997). Ensayo modificado de jarras para la selección de parámetros de diseño de floculación y sedimentación. Avances en recursos hidráulicos. Número 4.',
+      link: '',
+    },
+    {
+      referencia:
+        'Reutelshöfer, T. (2015). Guía de operación y mantenimiento de lagunas de oxidación en plantas de tratamiento de aguas residuales.',
+      link: '',
+    },
+    {
+      referencia:
+        'Resolución 2115 de junio de 2007. [Ministerio de la Protección Social y Ministerio de Ambiente, Vivienda y Desarrollo Territorial]. Bogotá. Colombia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rodríguez, C. 2008. Uso y control del proceso de coagulación en plantas de tratamiento de agua potable.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rodriguez, J. (2009). Parámetros fisicoquímicos de dureza total  en calcio y magnesio, pH, conductividad  y temperatura del agua potable analizados en conjunto con las  Asociaciones Administradoras del Acueducto (Asadas), de cada distrito de Grecia, cantón de  Alajuela.',
+      link: '',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje (SENA). (2011). Práctica de laboratorio determinación de nitratos. Centro de Gestión Industrial (CGI).',
+      link: '',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje (SENA). (2014). Práctica de laboratorio determinación de nitritos. Centro de Gestión Industrial (CGI).',
+      link: '',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje (SENA). (2014). Práctica de laboratorio determinación de sólidos suspendidos totales, volátiles y fijos. Centro de Gestión Industrial (CGI).',
+      link: '',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje (SENA). (2014). Práctica de laboratorio determinación de potenciometría. Centro de Gestión Industrial (CGI).',
+      link: '',
+    },
+    {
+      referencia:
+        'Solís-Castro, Y; Zúñiga-Zúñiga, L; Mora-Alvarado, D. (s.f.) La conductividad como parámetro predictivo de la dureza del agua en pozos y nacientes de Costa Rica. Tecnología en Marcha. Vol. 31-1. Enero-marzo 2018.',
       link: '',
     },
   ],
