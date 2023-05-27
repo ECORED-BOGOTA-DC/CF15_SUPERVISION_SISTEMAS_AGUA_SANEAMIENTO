@@ -1,15 +1,28 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 85%
+    right: 18%
+    width: 45px
   &-2
+    width: 50px
+    animation: scale 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 20%
+  &-3
+    width: 25px
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 20%
+    right: 62%
+  &-4
+    width: 50px
+    animation: scale 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 85%
+    right: 70%
 
 @keyframes float1
   0%
@@ -17,3 +30,111 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+@keyframes scale
+  0%
+    transform: scale(1)
+
+  100%
+    transform: scale(1.2)
+
+///ESTIOS BANNER-------------
+
+.banner-principal__img
+  width: 470px !important
+  padding-bottom: 0rem !important
+  padding-top: 5rem !important
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important
+
+///ESTILOS INTRODUCCION-------------
+  
+.bg-intro
+  background-image: url("../assets/curso/temas/introduccion/bg-intro.png")
+  background-size: 100% 100%
+
+///ESTILOS GLOBALES------------
+
+//listas--------
+.fa-ul2
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &::before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+//viñetas--------
+.color-vineta1
+  color: #4DB1F0 !important
+
+.color-vineta2
+  background-color: #FFA031 !important
+
+//colores--------
+
+.color-adicional-2
+  border-left-color: #00BCD4
+
+//background---------
+.bgDescarga
+  background-image: url("../assets/curso/temas/tema2/fondo1.png")
+  background-size: 100% 100%
+
+.bgtarjeta
+  background-image: url("../assets/curso/temas/fondo-tarjeta.png")
+  background-size: 100% 100%
+  margin-top: -10%
+  @media screen and ( max-width: 500px )
+    margin-top: 0%
+
+///ESTILOS TEMA 2--------------
+
+//tarjetas-------
+.tarjeta-amarilla
+  background-color: #FFF5E9
+
+.tarjeta-azul
+  background-color: #F0FBFF
+
+//imagenes------
+.img2-tm2
+  margin-bottom: -28%
+  @media screen and ( max-width: 500px )
+    margin-bottom: 0px
+
+.img12-tm2
+  width: 70%
+  position: relative
+  left: 25%
+  margin-bottom: -10%
+  margin-top: -10%
+  @media screen and ( max-width: 500px )
+    width: 100%
+    position: relative
+    left: 0%
+    margin-bottom: 0%
+    margin-top: 0%
+
+//background-------
+
+.bg1-tema2
+  background-image: url("../assets/curso/temas/tema2/bg1.png")
+  background-repeat: no-repeat
+  background-size: 25% 100%
+  @media (max-width: 500px)
+    background-size: 90% 100%
+
+//cajon-color----
+
+.cajon.color-acento-botones 
+    background-color: #98D8D7

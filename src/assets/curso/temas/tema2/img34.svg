@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="63" viewBox="0 0 420 63">
+  <g id="Grupo_1019791" data-name="Grupo 1019791" transform="translate(-705 -17638)">
+    <g id="Rectángulo_348623" data-name="Rectángulo 348623" transform="translate(705 17638)" fill="#f6f6f6" stroke="#9b9b9b" stroke-width="2">
+      <rect width="420" height="63" stroke="none"/>
+      <rect x="1" y="1" width="418" height="61" fill="none"/>
+    </g>
+    <g id="Grupo_1019790" data-name="Grupo 1019790" transform="translate(72 63)">
+      <text id="Partes_por_millón_ppm_:" data-name="Partes por millón (ppm):" transform="translate(667 17596)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Partes por millón (ppm):</tspan></text>
+      <text id="mg_de_soluto_Kg_de_solución" data-name="mg de soluto 
+Kg de solución" transform="translate(851 17585)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="25.578" y="17">mg de soluto </tspan></text>
+      <line id="Línea_2570" data-name="Línea 2570" x2="160" transform="translate(840.5 17607.5)" fill="none" stroke="#12263f" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
