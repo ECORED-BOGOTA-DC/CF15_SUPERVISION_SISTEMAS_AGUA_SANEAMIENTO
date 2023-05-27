@@ -503,16 +503,179 @@
         .cajon.color-acento-botones.p-4
           p.mb-0 En algunos casos cuando el agua tiene características ácidas es necesario utilizar productos químicos alcalinizantes utilizados para efectos de corrección de pH, los más utilizados con este fin son la cal dolomita (CaO) carbonato de sodio (Na2CO3) silicato de sodio (Na2SiO3) hidróxido de calcio (Ca(OH)₂) (OPS/ Cepis. 2002. p. 527) y soda cáustica (NaOH).
 
+    .row.mb-5
+      p Sin importar la sustancia que se agregue se debe tener en cuenta, que se llevan a cabo una serie de reacciones químicas que cumplen con relaciones estequiométricas, debido a que estas relaciones son constantes, es importante conocer la cantidad de producto químico que se utiliza y su concentración.
+
+      p El comportamiento de las sustancias químicas utilizadas en los procesos de coagulación y desinfección está relacionado con parámetros como la temperatura y el pH del agua tratada.  Algunas reacciones en el tratamiento de agua son:
 
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-6
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema2/img21.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--gris
+            .p-3
+              h5 Coagulación con sulfato de aluminio (OPS/ CEPIS. 2002. p. 425)
+              figure
+                img(src='@/assets/curso/temas/tema2/img21-1.svg', alt='alt')
+
+      .col-lg-6
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema2/img22.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--gris
+            .p-3
+              h5 Coagulación con hipoclorito de sodio
+              figure
+                img(src='@/assets/curso/temas/tema2/img22-1.svg', alt='alt')
+
+      .col-lg-6
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema2/img23.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--gris
+            .p-3
+              h5 Coagulación con hipoclorito de calcio:
+              figure
+                img(src='@/assets/curso/temas/tema2/img23-1.svg', alt='alt')
+
+      .col-lg-6
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema2/img24.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--gris
+            .p-3
+              h5 Desinfección con cloro gaseoso
+              figure
+                img(src='@/assets/curso/temas/tema2/img24-1.svg', alt='alt')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5
+        figure
+          img(src='@/assets/curso/temas/tema2/img25.svg', alt='alt')
+      
+      .col-lg-7
+        h4 ¿Y qué se necesita en el laboratorio y planta de tratamiento para efectuar estas reacciones?
+
+        p Para la dosificación de los coagulantes en los ensayos de jarras, donde se determina la dosis óptima en el agua cruda, se requieren instrumentos y materiales como:
+
+        ul.lista-ul--color.lista-ul--separador.fa-ul2
+          li
+            i.fas.fa-check-circle
+            | Un reloj o cronómetro.
+          li
+            i.fas.fa-check-circle
+            | Una probeta de 1000 ml.
+          li
+            i.fas.fa-check-circle
+            | Balanza de precisión de 0.1 gr. a 100 gr.
+          li
+            i.fas.fa-check-circle
+            | Espátulas.
+          li
+            i.fas.fa-check-circle
+            | 6 jeringas desechables de 10 ml.
+          li
+            i.fas.fa-check-circle
+            | 2 pipetas graduadas de 10 ml.
+          li
+            i.fas.fa-check-circle
+            | 2 matraces aforados de 1.000 ml.
+          li
+            i.fas.fa-check-circle
+            | Equipo de jarras.
+
+    .row.mb-5
+      p Una vez se determina la dosis óptima, en las plantas de tratamiento, la dosificación del coagulante puede ser por vía húmeda o por vía seca en los dosificadores (Figura 3)
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5
+        .titulo-sexto.color-adicional-2.mb-5
+          h5 Figura 3.
+          br
+          span #[i Dosificador coagulante en planta de tratamiento.]     
+
+        figure
+          img(src='@/assets/curso/temas/tema2/img26.svg', alt='alt')
+
+    .row.mb-5
+      p Los dosificadores según la  OPS y Cepis. (2002), pueden ser tanto volumétricos como gravimétricos con faja transportadora, por ejemplo, volumétricos de tornillo giratorio (Figura 4) o para desinfectantes como el cloro son de tipo gaseoso, los cuales pueden ser directos con regulación en la sodificación por rotámetro o de solución al vacío.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5
+        .titulo-sexto.color-adicional-2.mb-5
+          h5 Figura 4.
+          br
+          span #[i Dosificador de tornillo giratorio.]     
+
+        figure
+          img(src='@/assets/curso/temas/tema2/img27.svg', alt='alt')
+
+    separador
+    #t_2_6.titulo-segundo.color-acento-contenido
+       h2 2.6. Estandarización de las soluciones
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-6
+        figure
+          img(src='@/assets/curso/temas/tema2/img28.svg', alt='alt').img28-tm2
+
+      .col-lg-6
+        .tarjeta.tarjeta-gris.p-3
+          p.mb-0 Cuando se habla de estandarización de soluciones se hace referencia al proceso mediante el cual se conoce exactamente la concentración de una sustancia. Debido a que, al adicionar productos químicos en el tratamiento de las aguas, se generan reacciones químicas con una estequiometría definida, se hace necesario conocer esta concentración para definir la cantidad de producto a utilizar y no tener al final del proceso parámetros por encima de los límites máximos permisibles por falta de productos químicos, pero tampoco generar sobre costos por excesos de estos.
+
+    .row.mb-5
+      p La preparación de las soluciones va a influir dentro de los resultados obtenidos en el procesamiento de las muestras, así como en el uso de la PTAP, por lo cual se recomienda pesaje de la disolución antes y después del uso dado, debido a que, por efectos de la volatilización la concentración de esta puede ser mayor, sobre todo cuando se trata de sustancias de tipo orgánico. Adicionalmente se recomienda sustancias preservantes que permitan la conservación de la disolución en caso de que se requiera y el uso de material volumétrico debidamente aforado (INS, 2011).
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .cajon.color-acento-botones.p-4
+          p.mb-0 La medición de las soluciones puede ser de dos tipos: medidas de porcentaje, por ejemplo, porcentaje en peso; o medidas de concentración gramos por litro, por ejemplo (OPS y Cepis. 2002).
+
+    .row.justify-content-center.align-items-center.mb-5
+      .tarjeta-azul.p-4
+        .row.justify-content-center.align-items-center
+          .col-5.col-lg-2
+            figure
+              img(src='@/assets/curso/temas/tema2/img29.svg', alt='alt').img12-tm2
           
+          .col-lg-10
+            p.mb-0 La concentración de una solución, se define como la cantidad de soluto en una determinada cantidad de solvente. Estas pueden encontrarse en forma saturada, sobresaturadas, diluidas o concentradas. Las unidades físicas para expresar la concentración se definen a continuación: (Sánchez, J; Calderón Z y García M. s.f. pp. 70, 76, 77, 78)
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/temas/tema2/img30.svg', alt='alt')
+      
+      .col-lg-8
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+          .row(titulo="1. Porcentaje peso a peso (%p/p).")
+            p Gramos de soluto en 100 gramos de solución.
+            .col-lg-8
+              figure
+                img(src='@/assets/curso/temas/tema2/img31.svg', alt='alt')
 
+          .row(titulo="2. Porcentaje peso a peso (%p/v).")
+            p Gramos de soluto en 100 mL de solución.
+            .col-lg-8
+              figure
+                img(src='@/assets/curso/temas/tema2/img33.svg', alt='alt')
 
+          .row(titulo="3. Porcentaje volumen a volumen (%v/v).")
+            p Volumen de soluto en 100 ml de solución.
+            .col-lg-8
+              figure
+                img(src='@/assets/curso/temas/tema2/img33.svg', alt='alt')
 
+          .row(titulo="4. Partes por millón (ppm). ")
+            p Se utiliza para expresar soluciones muy diluidas, como gramos de soluto en un millón de partes de solución. 
+            .col-lg-8
+              figure.mb-3
+                img(src='@/assets/curso/temas/tema2/img34.svg', alt='alt')
 
-
-
+              figure
+                img(src='@/assets/curso/temas/tema2/img35.svg', alt='alt')
 
 
 </template>
