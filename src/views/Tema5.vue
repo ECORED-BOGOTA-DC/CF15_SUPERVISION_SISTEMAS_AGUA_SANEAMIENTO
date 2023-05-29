@@ -194,20 +194,6 @@
         .cajon.color-acento-botones.p-4
           p De acuerdo con los reportes arrojados por dicha plataforma en Colombia (febrero de 2019) de un total de muestras procesadas de 2.068 el 70.7% estuvieron catalogadas “sin riesgo”, 0.8 % como nivel bajo, 7.6 % riesgo medio, 15 % riesgo alto y 5.9 % catalogadas como inviable sanitariamente (INS, 2019. p. 3)  
 
-      
-
-
-
-
-
-      
-
-
-        
-
-
-
-
 </template>
 
 <script>
