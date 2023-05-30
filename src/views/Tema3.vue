@@ -675,33 +675,43 @@
               tr
                 td.text-center 0,1
                 td.text-center 0,04
-              tr
+              <tr style="background-color: #F6F6F6">
                 td.text-center 0,2
                 td.text-center 0,08
+              </tr>
+                
               tr
                 td.text-center 0,3
                 td.text-center 0,12
-              tr
+              <tr style="background-color: #F6F6F6">
                 td.text-center 0,4
                 td.text-center 0,16
+              </tr>
+                
               tr
                 td.text-center 0,5
                 td.text-center 0,2
-              tr
+              <tr style="background-color: #F6F6F6">
                 td.text-center 0,6
-                td.text-center 0,24
+                td.text-center 0,
+              </tr>
+                
               tr
                 td.text-center 0,7
                 td.text-center 0,28
-              tr
+              <tr style="background-color: #F6F6F6">
                 td.text-center 0,8
                 td.text-center 0,32
+              </tr>
+                
               tr
                 td.text-center 0,9
                 td.text-center 0,36
-              tr
+              <tr style="background-color: #F6F6F6">
                 td.text-center 1
                 td.text-center 0,4
+              </tr>
+                
 
 
       .col-lg-8
