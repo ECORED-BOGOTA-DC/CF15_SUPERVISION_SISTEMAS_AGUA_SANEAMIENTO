@@ -84,6 +84,8 @@
 
 .color-adicional-2
   border-left-color: #00BCD4
+  border-color: #00BCD4 
+
 
 //background---------
 .bgDescarga
@@ -96,6 +98,14 @@
   margin-top: -10%
   @media screen and ( max-width: 500px )
     margin-top: 0%
+
+//color tabla ----
+.color-tabla
+  background-color: #00BCD4
+
+.tabla-a.color-adicional-2 thead 
+    border-color: #00BCD4
+
 
 ///ESTILOS TEMA 2--------------
 
@@ -216,3 +226,67 @@
 
 .tarjeta-2
   background-color: #F6CC9A !important
+
+//ESTILOS TEMA 3---------------
+
+//background-------
+
+.bg2-tema3
+  background-image: url("../assets/curso/temas/tema3/bg2.png")
+  background-repeat: no-repeat
+  background-size: 15% 100%
+  @media (max-width: 500px)
+    background-size: 90% 100%
+
+.bg3-tema3
+  background-image: url("../assets/curso/temas/tema3/bg3.png")
+  background-repeat: no-repeat
+  background-size: 35% 100%
+  @media (max-width: 500px)
+    background-size: 90% 100%
+
+//bloque texto g
+
+.bloque-texto-g1__img 
+  width: 50%
+  position: absolute
+  top: 0
+  left: 50%
+  bottom: 0
+  background-position: center
+  background-size: cover
+  @media (max-width: 500px)
+    height: 250px
+    width: 100%
+    left: 0%
+
+.bloque-texto-g1__texto 
+  position: relative
+  width: 60%
+  background-color: rgba(255, 255, 255, 0.95)
+  right: 40%
+  @media (max-width: 500px)
+    width: 100%
+    right: 0%
+
+//taps a -----
+
+.tabs-a__tab
+  width: 140%
+  @media (max-width: 500px)
+    width: 100%
+
+.tabs-a__content-item--active 
+  animation: tab-content-active 0.5s ease-in-out forwards
+  position: relative
+  left: 10%
+  width: 450px
+  @media (max-width: 500px)
+    left: 0%
+    width: auto
+
+
+//color texto-------
+
+.texto-azul
+  color: #3076B6

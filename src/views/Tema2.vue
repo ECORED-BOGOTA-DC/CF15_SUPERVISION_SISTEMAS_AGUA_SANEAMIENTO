@@ -41,8 +41,8 @@
 
 
     separador
-    #t_2_1.titulo-segundo.color-acento-contenido
-       h2 2.1. Criterios de calidad de un laboratorio
+    #t_2_1.titulo-segundo.color-acento-botones
+       h2 2.1 Criterios de calidad de un laboratorio
 
     .row.mb-5
       p Los criterios de calidad para la operación de laboratorios de acuerdo con los lineamientos del Instituto Nacional de Salud (INS) (2015), con el fin de dar cumplimiento a la resolución 1619 (2015), establecen los siguientes aspectos sometidos a evaluación:
@@ -116,8 +116,8 @@
 
 
     separador
-    #t_2_2.titulo-segundo.color-acento-contenido
-       h2 2.2. Pautas de seguridad
+    #t_2_2.titulo-segundo.color-acento-botones
+       h2 2.2 Pautas de seguridad
 
     .row.mb-5
       p De acuerdo con la Comisión Estatal del Agua de Jalisco (CEA,2013). Algunas consideraciones de seguridad en el laboratorio son:
@@ -277,8 +277,8 @@
             p.mb-0 Aparte de los documentos requeridos donde se especifique la información pertinente a la muestra, el recipiente donde se tome la muestra y los elementos de refrigeración deben tener sus debidos rotulados con el fin de garantizar la cadena de custodia de la muestra.
 
     separador
-    #t_2_3.titulo-segundo.color-acento-contenido
-       h2 2.3. Instrumentación básica para análisis de agua
+    #t_2_3.titulo-segundo.color-acento-botones
+       h2 2.3 Instrumentación básica para análisis de agua
 
     .row.mb-5
       p Para el correcto desarrollo de actividades relacionadas con el análisis de agua en un laboratorio se debe garantizar condiciones en términos de equipamiento, infraestructura y dotación como las que se describen a continuación en el video animado:
@@ -406,8 +406,8 @@
 
 
     separador
-    #t_2_4.titulo-segundo.color-acento-contenido
-       h2 2.4. Fichas internacionales de seguridad química
+    #t_2_4.titulo-segundo.color-acento-botones
+       h2 2.4 Fichas internacionales de seguridad química
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
@@ -442,8 +442,8 @@
 
 
     separador
-    #t_2_5.titulo-segundo.color-acento-contenido
-       h2 2.5. Sustancias químicas usadas en los procesos de tratamiento del agua
+    #t_2_5.titulo-segundo.color-acento-botones
+       h2 2.5 Sustancias químicas usadas en los procesos de tratamiento del agua
 
     .row.justify-content-center.align-items-center.mb-5
       figure
@@ -613,8 +613,8 @@
           img(src='@/assets/curso/temas/tema2/img27.svg', alt='alt')
 
     separador
-    #t_2_6.titulo-segundo.color-acento-contenido
-       h2 2.6. Estandarización de las soluciones
+    #t_2_6.titulo-segundo.color-acento-botones
+       h2 2.6 Estandarización de las soluciones
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
