@@ -196,7 +196,7 @@
                   h3.mb-3.texto-blanco Formato rótulo de reactivos
                   p.texto-blanco.mb-4 Como ejemplo de un formato de rótulo reactivo, lo puedes descargar.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/anexos/FORMATO_RÓTULO_DE_REACTIVOS.xlsx')" target="_blank")
                     span.texto-negro Descargar
                     i.fas.fa-file-download.texto-negro
 
@@ -212,7 +212,7 @@
                   h3.mb-1.texto-blanco Formato preparación de soluciones
                   p.texto-blanco Como ejemplo de un formato de registro de la preparación de soluciones en un laboratorio, lo puedes descargar.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/anexos/FORMATO_PREPARACIÓN_DE_SOLUCIONES.xls')" target="_blank")
                     span.texto-negro Descargar
                     i.fas.fa-file-download.texto-negro
 
@@ -246,7 +246,7 @@
                   h3.mb-1.texto-blanco Formato captura de datos en campo aforo y toma muestras agua residual
                   p.texto-blanco Para conocer más, le invitamos a consultar el documento.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/anexos/FORMATO_CAPTURA_DATOS_EN_CAMPO_AFORO_Y_TOMA_MUESTRAS AGUA_RESIDUAL_INDUSTRIAL.doc')" target="_blank")
                     span.texto-negro Descargar
                     i.fas.fa-file-download.texto-negro
 
@@ -262,7 +262,7 @@
                   h3.mb-3.texto-blanco Formato captura de datos en campo para agua superficial 
                   p.texto-blanco.mb-4 Para conocer más, le invitamos a consultar el documento.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/anexos/FORMATO_CAPTURA_DE_DATOS_EN_CAMPO_PARA_AGUA_SUPERFICIAL.docx')" target="_blank")
                     span.texto-negro Descargar
                     i.fas.fa-file-download.texto-negro
 
@@ -436,7 +436,7 @@
                   h3.mb-3.texto-blanco Norma técnica Colombiana NTC 4435 
                   p.texto-blanco.mb-4 Para conocer más, le invitamos a consultar el documento.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/anexos/NTC4435_1998.pdf')" target="_blank")
                     span.texto-negro Descargar
                     i.fas.fa-file-download.texto-negro
 

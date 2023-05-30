@@ -347,7 +347,7 @@
                   h3.mb-3.texto-blanco Determinación de solidos totales, volatiles y fijos
                   p.texto-blanco.mb-4 Para conocer más, le invitamos a consultar el documento.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/anexos/DETERMINACIÓN_DE_SOLIDOS_TOTALES_VOLATILES_Y_FIJOS.pdf')" target="_blank")
                     span.texto-negro Descargar
                     i.fas.fa-file-download.texto-negro
 
@@ -397,7 +397,7 @@
                   h3.mb-3.texto-blanco Determinación de nitritos
                   p.texto-blanco.mb-4 Para conocer más, le invitamos a consultar el documento.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/anexos/DETERMINACIÓN_DE_NITRITOS.pdf')" target="_blank")
                     span.texto-negro Descargar
                     i.fas.fa-file-download.texto-negro
 
@@ -411,7 +411,7 @@
                   h3.mb-3.texto-blanco Guía de laboratorio nitratos
                   p.texto-blanco.mb-4 Para conocer más, le invitamos a consultar el documento.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/anexos/GUIA_DE_LABORATORIO_NITRATOS.pdf')" target="_blank")
                     span.texto-negro Descargar
                     i.fas.fa-file-download.texto-negro
 
@@ -470,7 +470,7 @@
                   h3.mb-3.texto-blanco Determinación de cloruros en agua
                   p.texto-blanco.mb-4 Para conocer más, le invitamos a consultar el documento.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/anexos/DETERMINACIÓN_DE_CLORUROS_EN_AGUA.pdf')" target="_blank")
                     span.texto-negro Descargar
                     i.fas.fa-file-download.texto-negro
 
@@ -620,7 +620,7 @@
                   h3.mb-3.texto-blanco Estandarización métodos analíticos del IDEAM
                   p.texto-blanco.mb-4 Para conocer más, le invitamos a consultar el documento.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/anexos/Estandarizacion_metodos_analaticos.pdf')" target="_blank")
                     span.texto-negro Descargar
                     i.fas.fa-file-download.texto-negro
 
@@ -836,7 +836,7 @@
                   h3.mb-3.texto-blanco Determinación de potenciometria
                   p.texto-blanco.mb-4 Para conocer más, le invitamos a consultar el documento.
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/anexos/DETERMINACIÓN_DE_POTENCIOMETRIA.pdf')" target="_blank")
                     span.texto-negro Descargar
                     i.fas.fa-file-download.texto-negro
 
