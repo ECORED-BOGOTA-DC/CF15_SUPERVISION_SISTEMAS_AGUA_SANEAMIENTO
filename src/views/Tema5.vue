@@ -16,7 +16,7 @@
           p.mb-0 La última fase de verificación es reportar y analizar los resultados de la supervisión de los sistemas de agua, siempre se debe seguir el conducto regular dependiendo de la entidad a la cual uno haga parte, reportar con veracidad los datos influirá en las medidas preventivas y correctivas necesarias para el sistema objeto de supervisión. 
 
     separador
-    #t_5_1.titulo-segundo.color-acento-contenido
+    #t_5_1.titulo-segundo.color-acento-botones
        h2 5.1. Reglamento técnico del sector de agua potable y saneamiento básico
 
     p En Colombia, la Comisión de Regulación de Agua Potable y Saneamiento Básico- CRA amparada bajo los lineamientos de la ley 142 de 1994 solicitó en su momento al Ministerio de Desarrollo Económico (en la actualidad Ministerio de Vivienda, Ciudad y Territorio) expedir los lineamientos y demás requisitos técnicos para el diseño y operación de sistemas en la prestación de servicios de agua potable y saneamiento básico en el territorio nacional. Bajo tal requerimiento se expidió la Resolución 1096 de 2000 “por la cual se adopta el Reglamento Técnico para el Sector de Agua Potable y Saneamiento Básico –RAS” y los ajustes contemplados bajo la Resolución 330 de 2017. En relación con los parámetros para el suministro de agua para consumo humano, el título A (aspectos generales de los sistemas de agua potable y saneamiento básico) define aspectos importantes como:
@@ -83,30 +83,31 @@
             | Puesta en marcha, operación y mantenimiento (pp. 59-62, 66, 76- 80)
 
     separador
-    #t_5_2.titulo-segundo.color-acento-contenido
+    #t_5_2.titulo-segundo.color-acento-botones
        h2 5.2. Normativa: calidad del agua para consumo humano
 
     .row.justify-content-center.align-items-center.mb-5
       figure
         img(src='@/assets/curso/temas/tema5/img4.png', alt='alt')
-
-      .col-11
-        .tarjeta.tarjeta-gris2.p-3 
+      
+      .col-lg-11
+        .tarjeta.bgtarjeta.p-4
           p En la actualidad el marco normativo frente a la calidad del agua potable está enmarcado en el Decreto 1575 (2007) por el cual se establece el Sistema para la Protección y Control de la Calidad del Agua para Consumo Humano y la Resolución 2115 (2007) por medio de la cual se señalan características, instrumentos básicos y frecuencias del sistema de control y vigilancia para la calidad del agua para consumo humano.
+
 
       p.mt-5
         <b>La primera</b> establece las entidades responsables para el control y vigilancia de la calidad del agua, los instrumentos y procesos para realizar dicha vigilancia, entre otras disposiciones. <b>La segunda</b> define las características físico-químicas y microbiológicas del agua, así como los instrumentos para garantizar la calidad de la misma, por ejemplo: el <b style="color: #3076B6; font-weight: 400">Índice de Riesgo de la Calidad del Agua</b> para consumo humano -IRCA y el Índice de Riesgo municipal por Abastecimiento de Agua para consumo –Irabam. 
 
     .row.justify-content-center.align-items-center.bg-1-tema-5
       .col-lg-4.col-xs-12
-        figure
+        figure.mb-3
           img(src='@/assets/curso/temas/tema5/img5.png', alt='alt')
 
-      .col-8
+      .col-lg-8
         p Adicionalmente, se establece el número de muestras y la frecuencia para realizar el control de la calidad de acuerdo con la población atendida.  En consecuencia, está la Resolución 82 (2009) por medio de la cual se adoptan unos formularios para la práctica de visitas de inspección sanitaria a los sistemas de suministro de agua para consumo humano.
 
     separador
-    #t_5_3.titulo-segundo.color-acento-contenido
+    #t_5_3.titulo-segundo.color-acento-botones
        h2 5.3. Indicadores de calidad del agua e interpretación de resultados
 
     p El IRCA determina en el marco de la Resolución 2115 (2007) en su capítulo IV (artículos 14, 15 y 16) el puntaje de riesgo asociado a parámetros físico-químicos y microbiológicos de acuerdo con los análisis efectuados en las muestras de agua, que sobrepasen los valores máximos admitidos según la misma norma, otorgando un puntaje de 0 cuando cumple y 100 cuando no cumple ninguno de estos. 
@@ -133,20 +134,24 @@
           figure
             img(src='@/assets/curso/temas/tema5/img8.svg', alt='alt')
 
-    .row.justify-content-center.align-items-center.mt-5.bg-3-tema-5-color
-      .col-lg-1.col-xs-6
-        figure
-          img(src='@/assets/curso/temas/tema5/img9.svg', alt='alt')
-      .col-11.p-3
-        p El nivel de riesgo para la salud se establece de acuerdo con los % IRCA mensuales y por muestra (Tabla 4) si los resultados arrojan una clasificación IRCA del 90% es inviable sanitariamente el agua suministrada, por ejemplo. Lo ideal es que el nivel de riesgo no sobrepase un 5% de clasificación IRCA para catalogarlo sin riesgo y que sea apta para consumo humano.  A continuación, se describen las acciones a realizar para cualquiera de los casos (p. 10)
+
+    .row.justify-content-center.align-items-center.mb-5
+      .tarjeta-azul.p-4
+        .row.justify-content-center.align-items-center
+          .col-4.col-lg-2
+            figure.mb-3
+              img(src='@/assets/curso/temas/tema5/img9.svg', alt='alt').img12-tm2
+          
+          .col-lg-10
+            p.mb-0 El nivel de riesgo para la salud se establece de acuerdo con los % IRCA mensuales y por muestra (Tabla 4) si los resultados arrojan una clasificación IRCA del 90% es inviable sanitariamente el agua suministrada, por ejemplo. Lo ideal es que el nivel de riesgo no sobrepase un 5% de clasificación IRCA para catalogarlo sin riesgo y que sea apta para consumo humano.  A continuación, se describen las acciones a realizar para cualquiera de los casos (p. 10)
+
 
     .row.justify-content-center.align-items-center.mt-5
-
-      .titulo-sexto.color-acento-contenido.mb-3
+      .titulo-sexto.color-adicional-2.mb-3
         h5 Tabla 4
         p.mb-0 <i>Clasificación IRCA.  </i>
 
-      .tabla-a.color-acento-botones 
+      .tabla-a.color-adicional-2 
         table
           <thead style="background-color: #00BCD4">
               th.text-white Clasificación IRCA (%)
@@ -192,7 +197,7 @@
 
       .col-lg-8.mt-5
         .cajon.color-acento-botones.p-4
-          p De acuerdo con los reportes arrojados por dicha plataforma en Colombia (febrero de 2019) de un total de muestras procesadas de 2.068 el 70.7% estuvieron catalogadas “sin riesgo”, 0.8 % como nivel bajo, 7.6 % riesgo medio, 15 % riesgo alto y 5.9 % catalogadas como inviable sanitariamente (INS, 2019. p. 3)  
+          p.mb-0 De acuerdo con los reportes arrojados por dicha plataforma en Colombia (febrero de 2019) de un total de muestras procesadas de 2.068 el 70.7% estuvieron catalogadas “sin riesgo”, 0.8 % como nivel bajo, 7.6 % riesgo medio, 15 % riesgo alto y 5.9 % catalogadas como inviable sanitariamente (INS, 2019. p. 3)  
 
 </template>
 

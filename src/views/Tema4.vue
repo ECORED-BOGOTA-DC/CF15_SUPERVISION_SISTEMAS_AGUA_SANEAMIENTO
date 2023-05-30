@@ -10,13 +10,13 @@
     .row.justify-content-center.align-items-center.mb-5
       figure
         img(src='@/assets/curso/temas/tema4/img1.png', alt='alt')
-
-      .col-11
-        .tarjeta.tarjeta-gris2.p-3 
+      
+      .col-lg-11
+        .tarjeta.bgtarjeta.p-4
           p Un aspecto importante que requiere supervisión es la parte microbiológica del agua, garantizar que sus condiciones sean acordes. Además, son los procedimientos de laboratorio que se efectúan a una muestra de agua para consumo humano para evaluar la presencia o ausencia, tipo y cantidad de microorganismos. Resolución 2115 (2007)
 
     separador
-    #t_4_1.titulo-segundo.color-acento-contenido
+    #t_4_1.titulo-segundo.color-acento-botones
        h2 4.1. Tipos de microorganismos
 
     p La microbiología hablando en sentido etimológico, viene del griego «μικρος» mikros "pequeño", «βιος» bios, "vida" y «-λογία» -logía, tratado, estudio, ciencia; se encarga del estudio de los microorganismos que solo son visibles a través del microscopio, sean estos eucariotas o procariotas (Acevedo, R; Severiche, C. y Castillo M. 2013. p. 7)
@@ -88,7 +88,7 @@
                 img(src='@/assets/curso/temas/tema4/img9.png', alt='alt')
 
     separador
-    #t_4_2.titulo-segundo.color-acento-contenido
+    #t_4_2.titulo-segundo.color-acento-botones
        h2 4.2. Técnicas de esterilización de vidriería, ambiente y equipos de laboratorio microbiológico
 
     p En el laboratorio para análisis microbiológico se conocen dos técnicas para la eliminación completa de microorganismos o control de su presencia: 
@@ -116,15 +116,15 @@
       p De acuerdo con lo establecido por el INS (2011) los recipientes y equipos de muestreo de agua destinados para el análisis microbiológico, deben cumplir con una esterilización por vía húmeda en autoclave (20 minutos a 121 °C) o seca en horno (1 hora a 180 °C) previamente al lavado.
 
     separador
-    #t_4_3.titulo-segundo.color-acento-contenido
+    #t_4_3.titulo-segundo.color-acento-botones
        h2 4.3. Preparación de medios de cultivo para análisis microbiológico de aguas
 
     .row.justify-content-center.align-items-center
       .col-lg-8.col-xs-12
         p Los medios de cultivo son creados de manera artificial en el laboratorio, teniendo en cuenta las especificaciones para cada género y/o especie de microorganismos, con relación a sus requerimientos nutricionales. Los macronutrientes son C, H, O, N, P, S, K, Ca, Fe y Na; y los micronutrientes son Cr, Co, Cu, Mn, Mo, Ni, Se, W, V, Zn. 
       
-        .cajon.color-acento-botones.p-4
-          p Para el análisis microbiológico los medios de cultivo pueden dividirse en sintéticos y complejos según (Apella, M y Araujo, P. s.f.).  Se invita a ver la siguiente figura.
+        .cajon.color-acento-botones.p-4.mb-3
+          p.mb-0 Para el análisis microbiológico los medios de cultivo pueden dividirse en sintéticos y complejos según (Apella, M y Araujo, P. s.f.).  Se invita a ver la siguiente figura.
 
       .col-lg-4.col-xs-12
         figure
@@ -144,7 +144,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-9.col-xs-10
         .cajon.color-acento-botones.p-4.mt-5
-          p Una vez preparados los medios de cultivo para el análisis microbiológico es necesario, realizar una esterilización y también es conveniente tener precauciones al momento de la manipulación para evitar la contaminación del medio y la alteración del resultado. Se aconseja utilizar el material de laboratorio como las asas previamente esterilizadas, así como al momento de realizar la siembra hacerlo cerca al mechero como se muestra a continuación (Figura 10) (Bonilla M, Pajares, P, Vigueras, J, Sigala, J, Le Borgne, S. 2016. 
+          p.mb-0 Una vez preparados los medios de cultivo para el análisis microbiológico es necesario, realizar una esterilización y también es conveniente tener precauciones al momento de la manipulación para evitar la contaminación del medio y la alteración del resultado. Se aconseja utilizar el material de laboratorio como las asas previamente esterilizadas, así como al momento de realizar la siembra hacerlo cerca al mechero como se muestra a continuación (Figura 10) (Bonilla M, Pajares, P, Vigueras, J, Sigala, J, Le Borgne, S. 2016. 
 
     .row.justify-content-center.align-items-center.mt-5
       .titulo-sexto.color-acento-contenido.mb-3
@@ -154,7 +154,7 @@
         img(src='@/assets/curso/temas/tema4/img14.svg', alt='alt')
 
     separador
-    #t_4_4.titulo-segundo.color-acento-contenido
+    #t_4_4.titulo-segundo.color-acento-botones
        h2 4.4  Técnicas y protocolos de análisis microbiológico de aguas
 
     p Algunas de las técnicas más utilizadas en laboratorio para el análisis microbiológico del agua son la coloración simple de frotis y la siembra en medios de cultivo. Veamos la descripción de estas:

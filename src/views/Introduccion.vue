@@ -11,7 +11,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-8.col-lg-4(data-aos="fade-up-right")
-        figure
+        figure.mb-3
           img(src='@/assets/curso/temas/introduccion/img1.svg', alt='alt')  
       .col-11.col-lg-8.p-4.bg-intro(data-aos="fade-up-left")
         .row.justify-content-center.align-items-center 

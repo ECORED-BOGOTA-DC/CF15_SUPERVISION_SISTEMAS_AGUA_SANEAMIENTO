@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        figure
+        figure.mb-3
           img(src='@/assets/curso/temas/tema3/img1.svg', alt='alt').img28-tm2
 
       .col-lg-6
@@ -24,8 +24,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta-azul.p-4
         .row.justify-content-center.align-items-center
-          .col-5.col-lg-2
-            figure
+          .col-4.col-lg-2
+            figure.mb-3
               img(src='@/assets/curso/temas/tema3/img2.svg', alt='alt').img12-tm2
           
           .col-lg-10
@@ -49,8 +49,8 @@
         br
         span #[i Color aparente en muestra derivado de partículas en suspensión.]
 
-      .col-lg-4
-        figure
+      .col-10.col-lg-4
+        figure.mb-3
           img(src='@/assets/curso/temas/tema3/img3.svg', alt='alt')
 
       .col-lg-8
@@ -70,7 +70,7 @@
 
         p En términos del marco normativo la resolución 2115 (2007) establece como máximo aceptable 15 UPC (color aparente).
 
-      .col-lg-4
+      .col-10.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema3/img4.svg', alt='alt')
 
@@ -99,8 +99,8 @@
       h4.text-white.mt-2 Conductividad
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
-        figure
+      .col-10.col-lg-4
+        figure.mb-3
           img(src='@/assets/curso/temas/tema3/img6.svg', alt='alt')      
 
       .col-lg-8
@@ -119,7 +119,7 @@
 
         p Por otra parte, las características químicas del agua se citan a continuación.
 
-      .col-lg-4
+      .col-10.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema3/img7.svg', alt='alt')       
 
@@ -144,7 +144,7 @@
         span #[i Determinación de pH en planta de tratamiento.]
 
       .col-lg-4
-        figure
+        figure.mb-3
           img(src='@/assets/curso/temas/tema3/img9.svg', alt='alt')
 
       .col-lg-8
@@ -160,7 +160,7 @@
       .col-lg-8
         p Está relacionada con la presencia de carbonatos, bicarbonatos e hidróxidos (OH-) en el agua. Algunos compuestos que la producen son carbonato de potasio (K2CO3) o bicarbonato de potasio (KHCO3) o bicarbonato de sodio (NaHCO3) o carbonato de sodio (Na2CO3) (Orellana, 2005, p. 2). Las condiciones de alcalinidad se controlan en la planta de tratamiento debido a que tiene efectos tanto en la efectividad del proceso de coagulación, como el deterioro del sistema por corrosión (OPS y Cepis, 2002, p. 681).
 
-      .col-lg-4
+      .col-10.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema3/img10.svg', alt='alt')
 
@@ -219,12 +219,12 @@
 
         p La dureza en el agua está relacionada con la presencia de aniones como HCO3, SO4, Cl, NO, SiO3 y cationes como Ca, Mg, Sr, Fe y Mn. Como consecuencia se generan problemas de lavado, debido a la dificultad para crear espuma en el momento de usar jabones (Ideam, 2007, p.2) De acuerdo con el marco normativo la dureza total no puede sobrepasar los 300 mg/L de CaCO3.
 
-        .cajon.color-acento-botones.p-4
+        .cajon.color-acento-botones.p-4.mb-3
           p.mb-0 Controlar el parámetro de dureza es importante para la operación de las PTAP, si esta empieza a exceder los límites permisibles no solo se tendrá como resultado un agua no apta para el consumo humano, sino que la tubería empezará a tener obstrucciones lo que hará una sobrecarga de presión en el sistema y la posible ruptura de equipos y accesorios, así como el incremento en la demanda energética que realizan las bombas.
 
         p La dureza se controla principalmente en un equipo conocido como ablandador, cuando se cuenta con este equipo y sin embargo la concentración supera a la máxima permisible se debe hacer una desorción ya que lo más probable es que haya sobresaturación en las membranas internas.
 
-      .col-lg-4
+      .col-10.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema3/img12.svg', alt='alt')        
 
@@ -248,8 +248,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta-azul.p-4
         .row.justify-content-center.align-items-center
-          .col-5.col-lg-2
-            figure
+          .col-4.col-lg-2
+            figure.mb-3
               img(src='@/assets/curso/temas/tema3/img14.svg', alt='alt').img12-tm2
           
           .col-lg-10
@@ -262,8 +262,8 @@
       h4.text-white.mt-2 Oxígeno disuelto
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
-        figure
+      .col-10.col-lg-4
+        figure.mb-3
           img(src='@/assets/curso/temas/tema3/img15.svg', alt='alt')
 
       .col-lg-8
@@ -300,7 +300,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
-        figure
+        figure.mb-3
           img(src='@/assets/curso/temas/tema3/img18.svg', alt='alt')       
 
       .col-lg-8
@@ -314,7 +314,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-10.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema3/img19.svg', alt='alt')
 
@@ -357,11 +357,11 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
-        figure
+        figure.mb-3
           img(src='@/assets/curso/temas/tema3/img20.svg', alt='alt')      
 
       .col-lg-5
-        figure
+        figure.mb-3
           img(src='@/assets/curso/temas/tema3/img21.svg', alt='alt')
 
     .row.mb-5
@@ -422,11 +422,11 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
-        figure
+        figure.mb-3
           img(src='@/assets/curso/temas/tema3/img23.svg', alt='alt')      
 
       .col-lg-5
-        figure
+        figure.mb-3
           img(src='@/assets/curso/temas/tema3/img24.svg', alt='alt')
 
     .row.mb-5
@@ -442,17 +442,17 @@
     .row.mb-5
       p De este modo, cuando hay presencia de fosfatos en el agua efluente de la PTAP se debe hacer test de jarra para validar la dosis óptima de coagulante hasta que los fosfatos obtengan una concentración inferior a la máxima permitida.
 
-    .row.bg1-tema2.align-items-center(data-aos="fade-right")
+    .row.bg1-tema2.align-items-center.mb-5.mb-lg-0(data-aos="fade-right")
       h4.text-white.mt-2 Cloruros
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         p Son iones (Cl-) de carácter inorgánico tipo sal presentes en el agua y que en alto contenido pueden generar procesos de corrosión en las tuberías. Está asociada a características organolépticas que le confieren un sabor salado al agua por la presencia de cloruro de sodio (NaCl) (Comisión Estatal del Agua de Jalisco. 2013. p.21) De acuerdo con la norma para calidad de agua potable la resolución 2115 (2007) el valor máximo es 250 mg/L.
 
-        .cajon.color-acento-botones.p-4
+        .cajon.color-acento-botones.p-4.mb-3
           p.mb-0 Cuando el agua a la salida de la PTAP supera el límite máximo permisible de cloruros se debe hacer una revisión a los equipos de intercambio iónico, ósmosis inversa o ablandamiento que son las etapas con las que se suele tratar este parámetro.
 
-      .col-lg-4
+      .col-10.col-lg-4.mb-3.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema3/img25.svg', alt='alt')
 
@@ -489,8 +489,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta-azul.p-4
         .row.justify-content-center.align-items-center
-          .col-5.col-lg-2
-            figure
+          .col-4.col-lg-2
+            figure.mb-3
               img(src='@/assets/curso/temas/tema3/img27.svg', alt='alt').img12-tm2
           
           .col-lg-10
@@ -603,7 +603,7 @@
             i.fas.fa-check-circle
             | Validación experimental.
 
-      .col-lg-5
+      .col-10.col-lg-5
         figure
           img(src='@/assets/curso/temas/tema3/img36.svg', alt='alt')
 
@@ -629,8 +629,8 @@
        h2 3.4 Preparación de muestras, procedimientos y mediciones
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
-        figure
+      .col-10.col-lg-5
+        figure.mb-3
           img(src='@/assets/curso/temas/tema3/img37.svg', alt='alt')
       
       .col-lg-7
@@ -665,7 +665,7 @@
         span #[i Concentración de acuerdo con la absorbancia.]
 
       .col-lg-4
-        .tabla-a.color-adicional-2
+        .tabla-a.color-adicional-2.mb-3
           table
             thead
               tr.texto-blanco.color-tabla
@@ -707,6 +707,147 @@
       .col-lg-8
         figure
           img(src='@/assets/curso/temas/tema3/img39.svg', alt='alt')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-11.mb-3
+        .tarjeta-avatar-b.mb-0
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema3/img40.svg' alt='AvatarTop')
+          .tarjeta.tarjeta-azul1
+            .row 
+              .col-lg-10
+                .p-4
+                  p Se debe establecer la ecuación de esa línea que se forma y el coeficiente de correlación lineal (R2) que preferiblemente debe ser superior a 0,99, para este caso la ecuación es:
+
+                  .tarjeta-amarilla2.p-2
+                    i.mb-0 Concentracion = 0,4 x Absorbancia
+
+        .tarjeta-avatar-b.mb-0
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema3/img40.svg' alt='AvatarTop')
+          .tarjeta.tarjeta-azul2
+            .row
+              .col-lg-10
+                .p-4
+                  p Una vez se conoce el coeficiente de correlación y la ecuación de la curva de calibración se pone la muestra problema en el equipo, a esta muestra no se le conoce la concentración de metal, se mide la absorbancia:
+
+                  .tarjeta-amarilla2.p-2
+                    i.mb-0 Absorbancia = 0,18
+
+        .tarjeta-avatar-b.mb-0
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema3/img40.svg' alt='AvatarTop')
+          .tarjeta.tarjeta-azul1
+            .row
+              .col-lg-10
+                .p-4
+                  p Entonces se reemplaza este valor en la ecuación:
+
+                  .tarjeta-amarilla2.p-2
+                    i.mb-0 Concentracion = 0,4 x Absorbancia
+                    i.mb-0 Concentracion = 0,4 x 0,18 
+                    i.mb-0 Concentracion = 0,072 𝑚𝑔/L
+
+
+      .col-6.col-lg-1
+        figure
+          img(src='@/assets/curso/temas/tema3/img41.svg', alt='alt').img41-tm3
+
+    .row.mb-5
+      p Algunos métodos de medición se describen a continuación, para conocer las propiedades que se miden a partir de una curva de calibración.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .tarjeta.tarjeta--azul.p-5
+        SlyderA(tipo="b")
+          .row.justify-content-center.align-items-center
+            .col-md-5.mb-4.mb-md-0
+              h4 Conductividad
+              p La capacidad para #[b conducir corriente eléctrica] se debe a la presencia de iones en una solución y su determinación es la 
+                spam.texto-azul conductancia 
+                | equivalente a la resistencia. El patrón de referencia es una solución estándar de KCl al 0.0100 M para conductividad en el agua y se expresa como microsiemens/cm. Se recomienda la lectura #[i in situ], y es aplicable a fuentes superficiales, agua residual, agua subterránea y mediciones de agua para consumo humano (INS, 2011. pp. 45 - 46)
+
+            .col-md-7
+              figure
+                img(src='@/assets/curso/temas/tema3/img42.svg', alt='Texto que describa la imagen')
+
+          .row.justify-content-center.align-items-center
+            .col-md-5.mb-4.mb-md-0
+              h4 Turbiedad
+              p La determinación de la turbiedad en las muestras se realiza a partir del método #[b nefelométrico] basado en la #[b dispersión de luz] por comparación con el polímero de formazina utilizado como referencia. La presencia de burbujas de aire, así como una celda deteriorada pueden afectar la veracidad de los resultados arrojados. Dentro de los procedimientos para el análisis de estos parámetros en muestras de agua, se recomienda una preservación a 4 °C y medición máximo 48 horas después de su recolección. La verificación y calibración del equipo previo a la medición del parámetro en la muestra debe realizarse conforme a las especificaciones dadas por el fabricante (INS, 2011. pp. 50 - 52)
+
+            .col-md-7
+              figure
+                img(src='@/assets/curso/temas/tema3/img43.svg', alt='Texto que describa la imagen')
+
+          .row.justify-content-center.align-items-center
+            .col-md-5.mb-4.mb-md-0
+              h4 pH
+              p El principio es #[b electrométrico] y consiste en determinar a través de medidas potencio métricas por medio de un #[b electrodo] la actividad de los #[b iones de hidrógeno] con otro electrodo de referencia. Se recomienda realizar la lectura en el lugar del muestreo #[i (in situ)] y también verificar la curva de calibración cada 3 meses para el mantenimiento del electrodo de acuerdo con las especificaciones técnicas otorgadas por el fabricante, así como la determinación del parámetro para la muestra recolectada una vez se haya realizado la determinación para las soluciones de referencia o estándar de pH 4, pH 7 y pH 10 respectivamente (INS, 2011. pp.40 - 43)
+
+            .col-md-7
+              figure
+                img(src='@/assets/curso/temas/tema3/img44.svg', alt='Texto que describa la imagen')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .tarjeta.tarjeta--gris.p-4
+        .row.justify-content-center.align-items-center
+          .col-5.col-lg-2
+            figure
+              img(src='@/assets/curso/temas/tema3/img28.svg', alt='alt').img12-tm2
+          
+          .col-lg-10
+            b Turbiedad por nefelometría en el equipo turbiquant 3000T
+            p.mb-0 Para un ejemplo de una práctica estandarizada, visite en el material dando click en el botón.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .tarjeta.tarjeta--gris.p-4
+        .row.justify-content-center.align-items-center
+          .col-5.col-lg-2
+            figure
+              img(src='@/assets/curso/temas/tema3/img28.svg', alt='alt').img12-tm2
+          
+          .col-lg-10
+            b Conductividad eléctrica por el método electrométrico en aguas
+            p.mb-0 Para analizar un ejemplo de ensayo en conductividad que podría ser usado como práctica, visite en el material dando click en el botón.
+
+    .row.mb-5
+      p A continuación, se presenta un ejemplo de ensayo en potenciometría que podría ser usado como práctica:
+
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")
+      .col-lg-10
+        .tarjeta.bgDescarga.p-3.mb-4
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/img-descarga.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-3.texto-blanco Determinación de potenciometria
+                  p.texto-blanco.mb-4 Para conocer más, le invitamos a consultar el documento.
+                .col-sm-auto
+                  a.boton.color-primario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                    span.texto-negro Descargar
+                    i.fas.fa-file-download.texto-negro
+
+    .row.bg1-tema2.align-items-center.mb-5(data-aos="fade-right")
+      h4.text-white.mt-2 Color aparente
+
+    .row.justify-content-center.align-items-center.mb-5
+      .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+        .bloque-texto-g1__img(
+          :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img45.svg')})`}"
+        )
+        .bloque-texto-g1__texto.p-4
+          p.mb-0 El color aparente está relacionado con las partículas en suspensión de una muestra sin filtración o centrifugación. El método de determinación es 
+          spam.texto-azul platino-cobalto, 
+          | el cual toma como unidad de color la producida por un miligramo de platino en un litro de agua como ion #[b cloro platinato.] Se aconseja una determinación de este parámetro in situ, de lo contrario, se debe recolectar la muestra en un #[b envase ámbar y refrigerado a 4 °C] (INS, 2011. pp. 69-71).
+
+    .row.mb-5
+      p Las muestras también son procesadas y analizadas a partir de un análisis colorimétrico. Existen celdas de cuarzo, poliméricas o de vidrio, las cuales no pueden usarse de manera indistinta. El buen estado de estas permite una lectura correcta (INS, 2011. p. 30) por lo cual se recomienda descartar si están rayadas.
+
+
+
 
 
 

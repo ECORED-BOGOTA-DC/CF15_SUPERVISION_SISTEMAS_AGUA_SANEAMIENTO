@@ -8,8 +8,8 @@
       h1 Protocolo del laboratorio
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
-        figure
+      .col-10.col-lg-4
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img1.svg', alt='alt')        
 
       .col-lg-8
@@ -102,13 +102,13 @@
               span 6
             | Plan de operaciones de confirmación metrológica (pp. 4 - 5)
       
-      .col-lg-5
+      .col-10.col-lg-5
         figure
           img(src='@/assets/curso/temas/tema2/img5.svg', alt='alt')      
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
-        figure
+      .col-10.col-lg-5
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img6.svg', alt='alt')      
 
       .col-lg-7
@@ -123,8 +123,8 @@
       p De acuerdo con la Comisión Estatal del Agua de Jalisco (CEA,2013). Algunas consideraciones de seguridad en el laboratorio son:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
-        figure
+      .col-10.col-lg-4
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img7.svg', alt='alt')       
 
       .col-lg-8
@@ -153,16 +153,16 @@
 
         p En Colombia, el marco normativo por el cual se adopta el Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos (SGA) y se dictan otras disposiciones en materia de seguridad química, es el Decreto 1496, (2018). Dicho sistema unifica criterios para la clasificación y etiquetado de productos químicos y sus respectivos peligros tanto físicos, para la salud y para el medio ambiente. Las herramientas del SGA son fichas de seguridad y etiquetas donde es posible identificar los pictogramas y tener información para actuar en un momento de contingencia o emergencia. Por ello siempre deben ser consultadas tanto las fichas como las hojas de seguridad del producto.
 
-      .col-lg-4
-        figure
+      .col-10.col-lg-4
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img8.svg', alt='alt')        
 
     .row.bg1-tema2.align-items-center.mb-5(data-aos="fade-right")
       h4.text-white.mt-2 Etiquetas de uso en el laboratorio
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
-        figure
+      .col-10.col-lg-4
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img9.svg', alt='alt')      
 
       .col-lg-8
@@ -225,8 +225,8 @@
       h4.text-white.mt-2 Otros documentos
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
-        figure
+      .col-10.col-lg-4
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img11.svg', alt='alt')
 
       .col-lg-8
@@ -269,8 +269,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta-azul.p-4
         .row.justify-content-center.align-items-center
-          .col-5.col-lg-2
-            figure
+          .col-4.col-lg-2
+            figure.mb-3
               img(src='@/assets/curso/temas/tema2/img12.svg', alt='alt').img12-tm2
           
           .col-lg-10
@@ -333,13 +333,13 @@
             i.fas.fa-check-circle
             | Un agitador múltiple (seis paletas) para pruebas de jarras con velocidad máxima de 100 revoluciones por minuto en los tipos analógicos y 300 revoluciones por minuto en los modelos digitales; se debe incluir base iluminada y juegos de jarras de dos litros.
 
-      .col-lg-5
+      .col-10.col-lg-5
         figure
           img(src='@/assets/curso/temas/tema2/img13.svg', alt='alt')      
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
-        figure
+      .col-10.col-lg-5
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img14.svg', alt='alt')
 
       .col-lg-7
@@ -400,7 +400,7 @@
             i.fas.fa-check-circle
             | Registro de mantenimiento y calibraciones (p.23).
 
-      .col-lg-5
+      .col-10.col-lg-5
         figure
           img(src='@/assets/curso/temas/tema2/img15.svg', alt='alt')
 
@@ -410,8 +410,8 @@
        h2 2.4 Fichas internacionales de seguridad química
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
-        figure
+      .col-10.col-lg-4
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img16.svg', alt='alt')
       
       .col-lg-8
@@ -419,7 +419,7 @@
 
         p De acuerdo con la Organización Mundial de la Salud (OMS) (2020) las Fichas Internacionales de Seguridad Química (FISC) proporcionan información relacionada con riesgos inherentes frente a la manipulación de las sustancias químicas y otras especificaciones tales como precauciones, manejos frente a primeros auxilios, almacenamiento y otras consideraciones como etiquetado, empaque y transporte.
 
-        .cajon.color-acento-botones.p-4
+        .cajon.color-acento-botones.p-4.mb-3
           p.mb-0 Con el fin de ampliar la información sobre las fichas de seguridad de una sustancia química, lo invitamos a consultar en el material complementario, el documento “Fichas internacionales de seguridad química”.
 
         p Las hojas de Seguridad para Materiales (MSDS Material Safety Data Sheet, en inglés) que cobijan sustancias químicas, materias primas, productos e intermedios y permiten conocer la peligrosidad de una sustancia y su adecuada manipulación son realizadas conforme a la Norma Técnica Colombiana (NTC) 2010 (1998). Para ampliar más esta información se invita a consultarla en la base de datos del SENA. Descargar la norma del siguiente enlace:
@@ -454,8 +454,8 @@
           p Diferentes sustancias químicas pueden ser utilizadas en el tratamiento de aguas, estas pueden ser agregadas tanto en etapas iniciales como en etapas finales de una PTAP.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
-        figure
+      .col-10.col-lg-4
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img18.svg', alt='alt')      
 
       .col-lg-8
@@ -476,8 +476,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta-azul.p-4
         .row.justify-content-center.align-items-center
-          .col-5.col-lg-2
-            figure
+          .col-4.col-lg-2
+            figure.mb-3
               img(src='@/assets/curso/temas/tema2/img20.svg', alt='alt').img12-tm2
           
           .col-lg-10
@@ -551,8 +551,8 @@
                 img(src='@/assets/curso/temas/tema2/img24-1.svg', alt='alt')
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
-        figure
+      .col-10.col-lg-5
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img25.svg', alt='alt')
       
       .col-lg-7
@@ -618,7 +618,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        figure
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img28.svg', alt='alt').img28-tm2
 
       .col-lg-6
@@ -636,16 +636,16 @@
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta-azul.p-4
         .row.justify-content-center.align-items-center
-          .col-5.col-lg-2
-            figure
+          .col-4.col-lg-2
+            figure.mb-3
               img(src='@/assets/curso/temas/tema2/img29.svg', alt='alt').img12-tm2
           
           .col-lg-10
             p.mb-0 La concentración de una solución, se define como la cantidad de soluto en una determinada cantidad de solvente. Estas pueden encontrarse en forma saturada, sobresaturadas, diluidas o concentradas. Las unidades físicas para expresar la concentración se definen a continuación: (Sánchez, J; Calderón Z y García M. s.f. pp. 70, 76, 77, 78)
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
-        figure
+      .col-10.col-lg-4
+        figure.mb-3
           img(src='@/assets/curso/temas/tema2/img30.svg', alt='alt')
       
       .col-lg-8

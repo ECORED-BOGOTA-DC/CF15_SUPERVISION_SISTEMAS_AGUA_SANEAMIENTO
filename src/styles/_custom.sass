@@ -121,7 +121,7 @@
   position: relative
   left: -15%
   @media screen and ( max-width: 500px )
-    right: 0%
+    left: 0%
 
 
 //imagenes------
@@ -163,69 +163,6 @@
 .cajon.color-acento-botones 
     background-color: #98D8D7
 
-//Estilos Tema 5
-
-.bloque-texto-g__img 
-    left: 50% !important
-
-@media (max-width: 600px)
-  .bloque-texto-g__img 
-    left: 0% !important
-
-.bloque-texto-g__texto 
-    right: 40% !important
-@media (max-width: 600px)
-  .bloque-texto-g__texto 
-    right: 0% !important
-
-.tarjeta-gris2 
-    background-color: #DEE4F0 !important
-    position: relative !important
-    left: 0% !important
-
-.bg-1-tema-5
-  background-image: url("../assets/curso/temas/tema5/bg1.png")
-  background-size: 100% 100%
-
-.bg-2-tema-5-color
-  background-color: #FAFAFA
-  background-size: 100% 100%
-
-.bg-3-tema-5-color
-  background-color: #F0FBFF
-  background-size: 100% 100%
-
-//Estilos Tema 4
-
-///////// Card hover --------------------------------------
-.crd_hover_txt
-  position: relative  
-  padding: 0 !important
-  overflow: hidden !important  
-  &:hover    
-    .crd_hover_txt--body   
-      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
-      transform: translateY(0)
-
-  .crd_hover_txt--body
-    position: absolute
-    padding: 1.5rem
-    bottom: 0    
-    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
-    transform: translateY(calc( 100% - 3.85rem ))
-    background-color: #04659B
-  
-  @media (min-width:1200px) and (max-width:1400px)  
-    .crd_hover_txt--body
-      p
-        font-size: 0.85em
-
-
-.tarjeta-1
-  background-color: #9CD1F2 !important
-
-.tarjeta-2
-  background-color: #F6CC9A !important
 
 //ESTILOS TEMA 3---------------
 
@@ -290,3 +227,107 @@
 
 .texto-azul
   color: #3076B6
+
+//tarjeta avatar b------------
+
+.tarjeta-avatar-b__img 
+  min-width: 13%
+  @media (max-width: 500px)
+    min-width: 25%
+
+.tarjeta-avatar-b .tarjeta
+  margin-left: -7%
+  @media (max-width: 500px)
+    margin-left: -15%
+
+.tarjeta-azul1
+  background-color: #E0F3FF
+
+.tarjeta-azul2
+  background-color: #BBE5FF
+
+.tarjeta-amarilla2
+  background-color: #FFE3C3
+  border: 2px solid #B2B2B2
+  width: 275px
+  @media (max-width: 500px)
+    width: auto
+
+
+//imagenes----------
+
+.img41-tm3
+  max-width: 500%
+  width: 500%
+  position: relative
+  right: 250px
+  @media (max-width: 500px)
+    width: 100%
+    left: 0px
+
+
+//Estilos Tema 4
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #04659B
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+
+.tarjeta-1
+  background-color: #9CD1F2 !important
+
+.tarjeta-2
+  background-color: #F6CC9A !important
+
+
+
+//Estilos Tema 5
+
+.bloque-texto-g__img 
+    left: 50% !important
+
+@media (max-width: 600px)
+  .bloque-texto-g__img 
+    left: 0% !important
+
+.bloque-texto-g__texto 
+    right: 40% !important
+@media (max-width: 600px)
+  .bloque-texto-g__texto 
+    right: 0% !important
+
+.tarjeta-gris2 
+    background-color: #DEE4F0 !important
+    position: relative !important
+    left: 0% !important
+
+.bg-1-tema-5
+  background-image: url("../assets/curso/temas/tema5/bg1.png")
+  background-size: 100% 100%
+
+.bg-2-tema-5-color
+  background-color: #FAFAFA
+  background-size: 100% 100%
+
+.bg-3-tema-5-color
+  background-color: #F0FBFF
+  background-size: 100% 100%
