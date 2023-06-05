@@ -489,19 +489,144 @@
     .row.justify-content-center.align-items-center
       .col-lg-10
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Tabla  1.
+          h5 Tabla 1.
           br
           span #[i Sustancias químicas usadas en el tratamiento de agua.]
 
-        figure.mb-5
-          img(src='@/assets/curso/temas/tema2/tabla1.svg', alt='alt')
+        .tabla-a.color-adicional-2.mb-5
+          table
+            thead
+              tr.texto-blanco.color-tabla
+                th Nombre del compuesto
+                th Fórmula
+                th Nombre comercial
+                th Titulo (pureza)
+            tbody
+              tr
+                td.text-center Sulfato de aluminio
+                td.text-center Al#[sub 2](SO#[sub 4])#[sub 3].18H#[sub 2]0
+                td.text-center Alumbre de filtro
+                td.text-center 15-22% . Al#[sub 2]O#[sub 3]
+
+              <tr style="background-color: #F6F6F6">
+                td.text-center Hidróxido de calcio
+                td.text-center Ca(OH)#[sub 2]
+                td.text-center cal hidratada o extinta
+                td.text-center 63-73% . CaO
+              </tr>
+
+              tr
+                td.text-center Óxido de calcio
+                td.text-center CaO
+                td.text-center cal virgen
+                td.text-center 75-99
+
+              <tr style="background-color: #F6F6F6">
+                td.text-center Carbonato de sodio
+                td.text-center Na#[sub 2]CO#[sub 3]
+                td.text-center barrilla
+                td.text-center 99,4% Na#[sub 2]CO#[sub 3]
+              </tr>
+
+              tr
+                td.text-center Cloro
+                td.text-center Cl#[sub 2]
+                td.text-center Cloro gaseoso
+                td.text-center 99,8% Cl#[sub 2]
+
+              <tr style="background-color: #F6F6F6">
+                td.text-center Hipoclorito de sodio
+                td.text-center NaOCl
+                td.text-center Hipoclorito
+                td.text-center 12-15% Cl#[sub 2]
+              </tr>
+
+              tr
+                td.text-center Cal clorada
+                td.text-center CaO.2CaOCl#[sub 2].3H#[sub 2]O
+                td.text-center Cloruro de cal
+                td.text-center 25-37% Cl#[sub 2]
+                
+              <tr style="background-color: #F6F6F6">
+                td.text-center Fluoruro de sodio
+                td.text-center NaF
+                td.text-center Fluoruro
+                td.text-center 90-95% NaF
+              </tr>
+
+              tr
+                td.text-center Sílice fluoruro de sodio
+                td.text-center Na#[sub 2]SiF#[sub 5]
+                td.text-center Fluosilicato
+                td.text-center 99% Na#[sub 2]SiF#[sub 6]
+
+              <tr style="background-color: #F6F6F6">
+                td.text-center Carbono
+                td.text-center C
+                td.text-center Carbón activo
+                td.text-center
+              </tr>
+
+              tr
+                td.text-center Hidróxido de sodio
+                td.text-center NaOH
+                td.text-center Soda cáustica
+                td.text-center 98% NaOH
+                
+              <tr style="background-color: #F6F6F6">
+                td.text-center Sulfato de cobre
+                td.text-center CuSO#[sub 4]5H#[sub 2]O
+                td.text-center Sulfato de cobre
+                td.text-center
+              </tr>
+
+              tr
+                td.text-center Sulfato de amonio
+                td.text-center (NH#[sub 4])#[sub 2]SO#[sub 4]
+                td.text-center Sulfato de amonio
+                td.text-center 
+
+              <tr style="background-color: #F6F6F6">
+                td.text-center Sulfato de hierro II
+                td.text-center FeSO#[sub 4].7H#[sub 2]O
+                td.text-center Sulfato ferroso verde
+                td.text-center 100%
+              </tr>
+
+              tr
+                td.text-center Ácido sulfúrico
+                td.text-center H#[sub 2]SO#[sub 4]
+                td.text-center Ácido sulfúrico
+                td.text-center 77,67% H#[sub 2]SO#[sub 4]
+                
+              <tr style="background-color: #F6F6F6">
+                td.text-center Ácido clorhídrico
+                td.text-center HCl
+                td.text-center Ácido muriático
+                td.text-center 27,92% ACl
+              </tr>
+
+              tr
+                td.text-center Sulfato de hierro III
+                td.text-center Fe#[sub 2](SO#[sub 4])#[sub 3]
+                td.text-center Ferricloc
+                td.text-center 60%
+
+              <tr style="background-color: #F6F6F6">
+                td.text-center Cloruro de hierro III
+                td.text-center FeCl#[sub 3]6h#[sub 2]O
+                td.text-center Cloruro férrico
+                td.text-center 60% FeCl#[sub 3]
+              </tr>
+
+
           figcaption.mt-3 
             p.mb-0 #[b Nota:] Tomado de OPS/ CEPIS. 2002. Operación y mantenimiento de plantas de tratamiento de agua. Manual de capacitación de operadores [Tabla]. p. 529
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-botones.p-4
-          p.mb-0 En algunos casos cuando el agua tiene características ácidas es necesario utilizar productos químicos alcalinizantes utilizados para efectos de corrección de pH, los más utilizados con este fin son la cal dolomita (CaO) carbonato de sodio (Na2CO3) silicato de sodio (Na2SiO3) hidróxido de calcio (Ca(OH)₂) (OPS/ Cepis. 2002. p. 527) y soda cáustica (NaOH).
+          p.mb-0 En algunos casos cuando el agua tiene características ácidas es necesario utilizar productos químicos alcalinizantes utilizados para efectos de corrección de pH, los más utilizados con este fin son la cal dolomita (CaO) carbonato de sodio (Na2CO3) silicato de sodio (Na₂SiO3) hidróxido de calcio (Ca(OH)₂) (OPS/ Cepis. 2002. p. 527) y soda cáustica (NaOH).
 
     .row.mb-5
       p Sin importar la sustancia que se agregue se debe tener en cuenta, que se llevan a cabo una serie de reacciones químicas que cumplen con relaciones estequiométricas, debido a que estas relaciones son constantes, es importante conocer la cantidad de producto químico que se utiliza y su concentración.

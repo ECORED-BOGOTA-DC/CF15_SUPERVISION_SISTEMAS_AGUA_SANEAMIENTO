@@ -182,18 +182,20 @@
                 td.text-center 0 - 60
                 td.text-center Blanda
                 td.text-center Azul
-              tr
+              <tr style="background-color: #F6F6F6">
                 td.text-center 61 - 120
                 td.text-center Moderadamente dura
                 td.text-center Verde
+              </tr>
               tr
                 td.text-center 121 - 180
                 td.text-center Dura
                 td.text-center Amarillo
-              tr
+              <tr style="background-color: #F6F6F6">
                 td.text-center > 180
                 td.text-center muy dura
                 td.text-center Rojo
+              </tr>
 
 
     .row.bg2-tema3.align-items-center.mb-5(data-aos="fade-right")
