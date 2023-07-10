@@ -55,32 +55,32 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | Consideraciones técnicas generales de los sistemas de potabilización (ejemplo: caudal de diseño y ubicación de la planta) (p.59)
+            | Consideraciones técnicas generales de los sistemas de potabilización (ejemplo: caudal de diseño y ubicación de la planta) (p.59).
           
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | Caracterización y tratabilidad del agua cruda (ejemplo: determinación in situ de temperatura, pH y conductividad y en laboratorio, dureza, alcalinidad, nitratos, cloruros, color, pH, turbiedad, entre otros) (pp. 61- 62)
+            | Caracterización y tratabilidad del agua cruda (ejemplo: determinación in situ de temperatura, pH y conductividad y en laboratorio, dureza, alcalinidad, nitratos, cloruros, color, pH, turbiedad, entre otros) (pp. 61- 62).
 
           li 
             .lista-ol--cuadro__vineta
               span 3
-            | Tecnologías y procesos unitarios seleccionados de acuerdo con la contaminación presente en la fuente de abastecimiento sea esta superficial o subterránea (ejemplo: parámetros de referencia para diseño de aireadores tipo bandejas) (p. 66)
+            | Tecnologías y procesos unitarios seleccionados de acuerdo con la contaminación presente en la fuente de abastecimiento sea esta superficial o subterránea (ejemplo: parámetros de referencia para diseño de aireadores tipo bandejas) (p. 66).
 
           li 
             .lista-ol--cuadro__vineta
               span 4
-            | Gestión de subproductos del proceso de potabilización (ejemplo: caracterización, evacuación, tratamiento y disposición final de lodos) (pp. 76-78)
+            | Gestión de subproductos del proceso de potabilización (ejemplo: caracterización, evacuación, tratamiento y disposición final de lodos) (pp. 76-78).
 
           li 
             .lista-ol--cuadro__vineta
               span 5
-            | Instalaciones complementarias para sistemas de potabilización (p. 79)
+            | Instalaciones complementarias para sistemas de potabilización (p. 79).
 
           li 
             .lista-ol--cuadro__vineta
               span 6
-            | Puesta en marcha, operación y mantenimiento (pp. 59-62, 66, 76- 80)
+            | Puesta en marcha, operación y mantenimiento (pp. 59-62, 66, 76- 80).
 
     separador
     #t_5_2.titulo-segundo.color-acento-botones
@@ -143,7 +143,7 @@
               img(src='@/assets/curso/temas/tema5/img9.svg', alt='alt').img12-tm2
           
           .col-lg-10
-            p.mb-0 El nivel de riesgo para la salud se establece de acuerdo con los % IRCA mensuales y por muestra (Tabla 4) si los resultados arrojan una clasificación IRCA del 90% es inviable sanitariamente el agua suministrada, por ejemplo. Lo ideal es que el nivel de riesgo no sobrepase un 5% de clasificación IRCA para catalogarlo sin riesgo y que sea apta para consumo humano.  A continuación, se describen las acciones a realizar para cualquiera de los casos (p. 10)
+            p.mb-0 El nivel de riesgo para la salud se establece de acuerdo con los % IRCA mensuales y por muestra (Tabla 4) si los resultados arrojan una clasificación IRCA del 90% es inviable sanitariamente el agua suministrada, por ejemplo. Lo ideal es que el nivel de riesgo no sobrepase un 5% de clasificación IRCA para catalogarlo sin riesgo y que sea apta para consumo humano.  A continuación, se describen las acciones a realizar para cualquiera de los casos (p. 10).
 
 
     .row.justify-content-center.align-items-center.mt-5

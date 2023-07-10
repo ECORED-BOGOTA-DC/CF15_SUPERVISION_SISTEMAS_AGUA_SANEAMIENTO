@@ -222,9 +222,9 @@
         p La dureza en el agua está relacionada con la presencia de aniones como HCO3, SO4, Cl, NO, SiO3 y cationes como Ca, Mg, Sr, Fe y Mn. Como consecuencia se generan problemas de lavado, debido a la dificultad para crear espuma en el momento de usar jabones (Ideam, 2007, p.2) De acuerdo con el marco normativo la dureza total no puede sobrepasar los 300 mg/L de CaCO3.
 
         .cajon.color-acento-botones.p-4.mb-3
-          p.mb-0 Controlar el parámetro de dureza es importante para la operación de las PTAP, si esta empieza a exceder los límites permisibles no solo se tendrá como resultado un agua no apta para el consumo humano, sino que la tubería empezará a tener obstrucciones lo que hará una sobrecarga de presión en el sistema y la posible ruptura de equipos y accesorios, así como el incremento en la demanda energética que realizan las bombas.
+          p.mb-0 Controlar el parámetro de dureza es importante para la operación de las PTAP, si esta empieza a exceder los límites permisibles no solo se tendrá como resultado un agua no apta para el consumo humano, sino que la tubería empezará a tener obstrucciones, lo que hará una sobrecarga de presión en el sistema y la posible ruptura de equipos y accesorios, así como el incremento en la demanda energética que realizan las bombas.
 
-        p La dureza se controla principalmente en un equipo conocido como ablandador, cuando se cuenta con este equipo y sin embargo la concentración supera a la máxima permisible se debe hacer una desorción ya que lo más probable es que haya sobresaturación en las membranas internas.
+        p La dureza se controla principalmente en un equipo conocido como ablandador, cuando se cuenta con este equipo y sin embargo, la concentración supera a la máxima permisible se debe hacer una desorción, ya que lo más probable es que haya sobresaturación en las membranas internas.
 
       .col-10.col-lg-4
         figure
@@ -367,7 +367,7 @@
           img(src='@/assets/curso/temas/tema3/img21.svg', alt='alt')
 
     .row.mb-5
-      p a materia orgánica con contenido proteico presente en los cuerpos de agua es degradada por los microorganismos en compuestos más sencillos como los nitritos y nitratos (Valdez, E y Vázquez, A. 2003. p.46). En el ciclo biogeoquímico el amoniaco se transforma a partir de las bacterias nitrificantes en nitritos (NO2) y nitratos (NO3) para ser asimilados por el sistema radicular de las plantas, así que es de gran importancia como nutriente especial de este tipo organismos fotosintéticos (Comisión Estatal del Agua de Jalisco. 2013. P.13) como algas y plantas acuáticas como la elodea (Egeria densa) buchón de agua (Eichornia crassipes) o lenteja de agua (Lemna minor) los cuales pueden estimular procesos de eutrofización (Figura 8) De acuerdo con la norma para calidad de agua potable la resolución 2115 (2007) el valor máximo aceptables es de 0.1 mg/L para nitritos (NO2) y 10 mg/L nitratos (NO3).
+      p La materia orgánica con contenido proteico presente en los cuerpos de agua es degradada por los microorganismos en compuestos más sencillos como los nitritos y nitratos (Valdez, E y Vázquez, A. 2003. p.46). En el ciclo biogeoquímico el amoniaco se transforma a partir de las bacterias nitrificantes en nitritos (NO2) y nitratos (NO3) para ser asimilados por el sistema radicular de las plantas, así que es de gran importancia como nutriente especial de este tipo organismos fotosintéticos (Comisión Estatal del Agua de Jalisco. 2013. P.13) como algas y plantas acuáticas como la elodea (Egeria densa) buchón de agua (Eichornia crassipes) o lenteja de agua (Lemna minor) los cuales pueden estimular procesos de eutrofización (Figura 8) De acuerdo con la norma para calidad de agua potable la resolución 2115 (2007) el valor máximo aceptables es de 0.1 mg/L para nitritos (NO2) y 10 mg/L nitratos (NO3).
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
@@ -505,9 +505,14 @@
             figure
               img(src='@/assets/curso/temas/tema3/img28.svg', alt='alt').img12-tm2
           
-          .col-lg-10
+          .col-lg-8
             b Sulfatos en agua por el método nefelométrico
             p.mb-0 Para estudiar un ejemplo de ensayo de determinación de sulfatos en agua, visite en el material dando click en el botón.
+
+          .col-sm-auto
+            a.boton.color-acento-botones(href="https://drive.google.com/file/d/1qk-_OURUo9lDzX6Br4-JX39t9eyHqjzL/view?usp=sharing" target="_blank")
+              span <b>Ir a página</b>
+              i.fas.fa-link
 
 
     separador
@@ -518,7 +523,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
         .bloque-texto-g1__img(
-          :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img29.svg')})`}"
+          :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img29.png')})`}"
         )
         .bloque-texto-g1__texto.p-4
           p.mb-0 El ensayo de jarras define las condiciones de tratabilidad y la dosis óptima de coagulante que se debe utilizar en un tratamiento de aguas. A continuación, se presenta un video que nos introduce a los procedimientos en el ensayo de jarras o ensayo de tratabilidad. 
@@ -539,49 +544,49 @@
 
     .row.justify-content-center.align-items-center.mb-5
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-        .row.p-4(titulo="1. Exactitud:")
+        .row.p-4(titulo="1. Exactitud")
           .col-md-7.mb-4.mb-md-0
-            p proximidad entre el valor medio obtenido de un conjunto de resultados y el valor de referencia aceptado.
+            p Proximidad entre el valor medio obtenido de un conjunto de resultados y el valor de referencia aceptado.
         
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema3/img30.svg', alt='alt')
 
-        .row.p-4(titulo="2. Precisión:")
+        .row.p-4(titulo="2. Precisión")
           .col-md-7.mb-4.mb-md-0
-            p indica el grado de concordancia entre los resultados obtenidos para réplicas de una misma muestra, aplicando igual procedimiento experimental bajo condiciones prefijadas.
+            p Indica el grado de concordancia entre los resultados obtenidos para réplicas de una misma muestra, aplicando igual procedimiento experimental bajo condiciones prefijadas.
         
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema3/img31.svg', alt='alt')
 
-        .row.p-4(titulo="3. Linealidad:")
+        .row.p-4(titulo="3. Linealidad")
           .col-md-7.mb-4.mb-md-0
-            p se refiere a la proporcionalidad entre la concentración y la señal producida por el instrumento. Se debe verificar si en el laboratorio se cumple el intervalo y tipo de linealidad que reporta la literatura del método.
+            p Se refiere a la proporcionalidad entre la concentración y la señal producida por el instrumento. Se debe verificar si en el laboratorio se cumple el intervalo y tipo de linealidad que reporta la literatura del método.
         
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema3/img32.svg', alt='alt')
 
-        .row.p-4(titulo="4. Límite de detección:")
+        .row.p-4(titulo="4. Límite de detección")
           .col-md-7.mb-4.mb-md-0
-            p concentración mínima que puede ser medida con una exactitud y una precisión aceptables.
+            p Concentración mínima que puede ser medida con una exactitud y una precisión aceptables.
         
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema3/img33.svg', alt='alt')
 
-        .row.p-4(titulo="5. Sensibilidad:")
+        .row.p-4(titulo="5. Sensibilidad")
           .col-md-7.mb-4.mb-md-0
-            p es una medida del factor de respuesta del instrumento como una función de la concentración. Normalmente se mide como la pendiente de la curva de calibración.
+            p Es una medida del factor de respuesta del instrumento como una función de la concentración. Normalmente se mide como la pendiente de la curva de calibración.
         
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema3/img34.svg', alt='alt')
 
-        .row.p-4(titulo="6. Porcentaje de recuperación:")
+        .row.p-4(titulo="6. Porcentaje de recuperación")
           .col-md-7.mb-4.mb-md-0
-            p es la capacidad que tiene un procedimiento analítico para determinar cuantitativamente una especie química que ha sido adicionada a una muestra.
+            p Es la capacidad que tiene un procedimiento analítico para determinar cuantitativamente una especie química que ha sido adicionada a una muestra.
         
           .col-md-5
             figure
@@ -652,9 +657,12 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p Cuando se quiere realizar una medición normalmente se utilizan equipos que hacen una comparación entre la muestra que se desea analizar con unos patrones establecidos para cada parámetro. Por ejemplo, cuando se quiere medir la #[b concentración de metales] se puede utilizar un equipo conocido como 
-          spam.texto-azul #[b espectrofotómetro]  
+        p Cuando se quiere realizar una medición, normalmente se utilizan equipos que hacen una comparación entre la muestra que se desea analizar con unos patrones establecidos para cada parámetro. Por ejemplo, cuando se quiere medir la #[b concentración de metales,] se puede utilizar un equipo conocido como 
+          spam.texto-azul #[b espectrofotómetro,]  
           |  el cual mide la #[b absorbancia] de las muestras que se analicen en él.
+
+        p Para determinar entonces la concentración de un metal en específico se preparan muestras a diferentes concentraciones y se les mide la absorbancia, se tiene que, a mayor concentración, mayor <b>absorbancia</b> y se obtiene una relación lineal entre estas dos variables. Por ejemplo, al preparar 10 muestras se tienen los siguientes datos:
+
 
       .col-lg-4
         figure
@@ -720,6 +728,10 @@
         figure
           img(src='@/assets/curso/temas/tema3/img39.svg', alt='alt')
 
+
+    .row.mb-5
+      p A continuación, se presenta algunas indicaciones para tener en cuenta en la ecuación de la absorbancia:
+
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-11.mb-3
         .tarjeta-avatar-b.mb-0
@@ -732,7 +744,7 @@
                   p Se debe establecer la ecuación de esa línea que se forma y el coeficiente de correlación lineal (R2) que preferiblemente debe ser superior a 0,99, para este caso la ecuación es:
 
                   .tarjeta-amarilla2.p-2
-                    i.mb-0 Concentracion = 0,4 x Absorbancia
+                    i.mb-0 Concentracion = 0,4 x absorbancia
 
         .tarjeta-avatar-b.mb-0
           .tarjeta-avatar-b__img
@@ -756,9 +768,11 @@
                   p Entonces se reemplaza este valor en la ecuación:
 
                   .tarjeta-amarilla2.p-2
-                    i.mb-0 Concentracion = 0,4 x Absorbancia
-                    i.mb-0 Concentracion = 0,4 x 0,18 
-                    i.mb-0 Concentracion = 0,072 𝑚𝑔/L
+                    i Concentracion = 0,4 x absorbancia
+                    br
+                    i Concentracion = 0,4 x 0,18
+                    br
+                    i Concentracion = 0,072 mg/L
 
 
       .col-6.col-lg-1
@@ -776,7 +790,7 @@
               h4 Conductividad
               p La capacidad para #[b conducir corriente eléctrica] se debe a la presencia de iones en una solución y su determinación es la 
                 spam.texto-azul conductancia 
-                | equivalente a la resistencia. El patrón de referencia es una solución estándar de KCl al 0.0100 M para conductividad en el agua y se expresa como microsiemens/cm. Se recomienda la lectura #[i in situ], y es aplicable a fuentes superficiales, agua residual, agua subterránea y mediciones de agua para consumo humano (INS, 2011. pp. 45 - 46)
+                | equivalente a la resistencia. El patrón de referencia es una solución estándar de KCl al 0.0100 M para conductividad en el agua y se expresa como microsiemens/cm. Se recomienda la lectura #[i in situ], y es aplicable a fuentes superficiales, agua residual, agua subterránea y mediciones de agua para consumo humano (INS, 2011. pp. 45 - 46).
 
             .col-md-7
               figure
@@ -785,7 +799,7 @@
           .row.justify-content-center.align-items-center
             .col-md-5.mb-4.mb-md-0
               h4 Turbiedad
-              p La determinación de la turbiedad en las muestras se realiza a partir del método #[b nefelométrico] basado en la #[b dispersión de luz] por comparación con el polímero de formazina utilizado como referencia. La presencia de burbujas de aire, así como una celda deteriorada pueden afectar la veracidad de los resultados arrojados. Dentro de los procedimientos para el análisis de estos parámetros en muestras de agua, se recomienda una preservación a 4 °C y medición máximo 48 horas después de su recolección. La verificación y calibración del equipo previo a la medición del parámetro en la muestra debe realizarse conforme a las especificaciones dadas por el fabricante (INS, 2011. pp. 50 - 52)
+              p La determinación de la turbiedad en las muestras se realiza a partir del método #[b nefelométrico] basado en la #[b dispersión de luz] por comparación con el polímero de formazina utilizado como referencia. La presencia de burbujas de aire, así como una celda deteriorada pueden afectar la veracidad de los resultados arrojados. Dentro de los procedimientos para el análisis de estos parámetros en muestras de agua, se recomienda una preservación a 4 °C y medición máximo 48 horas después de su recolección. La verificación y calibración del equipo previo a la medición del parámetro en la muestra debe realizarse conforme a las especificaciones dadas por el fabricante (INS, 2011. pp. 50 - 52).
 
             .col-md-7
               figure
@@ -794,7 +808,7 @@
           .row.justify-content-center.align-items-center
             .col-md-5.mb-4.mb-md-0
               h4 pH
-              p El principio es #[b electrométrico] y consiste en determinar a través de medidas potencio métricas por medio de un #[b electrodo] la actividad de los #[b iones de hidrógeno] con otro electrodo de referencia. Se recomienda realizar la lectura en el lugar del muestreo #[i (in situ)] y también verificar la curva de calibración cada 3 meses para el mantenimiento del electrodo de acuerdo con las especificaciones técnicas otorgadas por el fabricante, así como la determinación del parámetro para la muestra recolectada una vez se haya realizado la determinación para las soluciones de referencia o estándar de pH 4, pH 7 y pH 10 respectivamente (INS, 2011. pp.40 - 43)
+              p El principio es #[b electrométrico] y consiste en determinar a través de medidas potencio métricas por medio de un #[b electrodo] la actividad de los #[b iones de hidrógeno] con otro electrodo de referencia. Se recomienda realizar la lectura en el lugar del muestreo #[i (in situ)] y también verificar la curva de calibración cada 3 meses para el mantenimiento del electrodo de acuerdo con las especificaciones técnicas otorgadas por el fabricante, así como la determinación del parámetro para la muestra recolectada una vez se haya realizado la determinación para las soluciones de referencia o estándar de pH 4, pH 7 y pH 10 respectivamente (INS, 2011. pp.40 - 43).
 
             .col-md-7
               figure
@@ -807,9 +821,14 @@
             figure
               img(src='@/assets/curso/temas/tema3/img28.svg', alt='alt').img12-tm2
           
-          .col-lg-10
+          .col-lg-8
             b Turbiedad por nefelometría en el equipo turbiquant 3000T
             p.mb-0 Para un ejemplo de una práctica estandarizada, visite en el material dando click en el botón.
+
+          .col-sm-auto
+            a.boton.color-acento-botones(href="http://www.ideam.gov.co/documents/14691/38155/Turbiedad+por+Nefelometr%C3%ADa..pdf/fc92342e-8bba-4098-9310-56461c6a6dbc" target="_blank")
+              span <b>Ir a página</b>
+              i.fas.fa-link
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta--gris.p-4
@@ -818,9 +837,14 @@
             figure
               img(src='@/assets/curso/temas/tema3/img28.svg', alt='alt').img12-tm2
           
-          .col-lg-10
+          .col-lg-8
             b Conductividad eléctrica por el método electrométrico en aguas
             p.mb-0 Para analizar un ejemplo de ensayo en conductividad que podría ser usado como práctica, visite en el material dando click en el botón.
+
+          .col-sm-auto
+            a.boton.color-acento-botones(href="http://www.ideam.gov.co/documents/14691/38155/Conductividad+El%C3%A9ctrica.pdf/f25e2275-39b2-4381-8a35-97c23d7e8af4" target="_blank")
+              span <b>Ir a página</b>
+              i.fas.fa-link
 
     .row.mb-5
       p A continuación, se presenta un ejemplo de ensayo en potenciometría que podría ser usado como práctica:
@@ -851,9 +875,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img45.svg')})`}"
         )
         .bloque-texto-g1__texto.p-4
-          p.mb-0 El color aparente está relacionado con las partículas en suspensión de una muestra sin filtración o centrifugación. El método de determinación es 
-          spam.texto-azul platino-cobalto, 
-          | el cual toma como unidad de color la producida por un miligramo de platino en un litro de agua como ion #[b cloro platinato.] Se aconseja una determinación de este parámetro in situ, de lo contrario, se debe recolectar la muestra en un #[b envase ámbar y refrigerado a 4 °C] (INS, 2011. pp. 69-71).
+          p.mb-0 El color aparente está relacionado con las partículas en suspensión de una muestra sin filtración o centrifugación. El método de determinación es <b style= "color:#3076B6;">platino-cobalto,</b> el cual toma como unidad de color la producida por un miligramo de platino en un litro de agua como ion #[b cloro platinato.] Se aconseja una determinación de este parámetro in situ, de lo contrario, se debe recolectar la muestra en un #[b envase ámbar y refrigerado a 4 °C] (INS, 2011. pp. 69-71).
 
     .row.mb-5
       p Las muestras también son procesadas y analizadas a partir de un análisis colorimétrico. Existen celdas de cuarzo, poliméricas o de vidrio, las cuales no pueden usarse de manera indistinta. El buen estado de estas permite una lectura correcta (INS, 2011. p. 30) por lo cual se recomienda descartar si están rayadas.

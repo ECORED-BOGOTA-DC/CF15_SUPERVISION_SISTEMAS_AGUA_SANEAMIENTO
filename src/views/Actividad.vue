@@ -9,13 +9,13 @@
           figure
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
+        .titulo-segundo.color-acento-botones
           h2 Conocimientos de refuerzo
         p.mb-4 Identificar los conocimientos adquiridos a través del análisis e interpretación de muestras de agua para realizar un análisis en la ausencia o presencia de microorganismos o sustancias químicas presentes en ella.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Falso y Verdadero
+              p.fw-bold.mb-0 Cuestionario 
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar

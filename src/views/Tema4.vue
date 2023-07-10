@@ -13,13 +13,13 @@
       
       .col-lg-11
         .tarjeta.bgtarjeta.p-4
-          p Un aspecto importante que requiere supervisión es la parte microbiológica del agua, garantizar que sus condiciones sean acordes. Además, son los procedimientos de laboratorio que se efectúan a una muestra de agua para consumo humano para evaluar la presencia o ausencia, tipo y cantidad de microorganismos. Resolución 2115 (2007)
+          p Un aspecto importante que requiere supervisión es la parte microbiológica del agua, garantizar que sus condiciones sean acordes. Además, son los procedimientos de laboratorio que se efectúan a una muestra de agua para consumo humano para evaluar la presencia o ausencia, tipo y cantidad de microorganismos. Resolución 2115 (2007).
 
     separador
     #t_4_1.titulo-segundo.color-acento-botones
        h2 4.1. Tipos de microorganismos
 
-    p La microbiología hablando en sentido etimológico, viene del griego «μικρος» mikros "pequeño", «βιος» bios, "vida" y «-λογία» -logía, tratado, estudio, ciencia; se encarga del estudio de los microorganismos que solo son visibles a través del microscopio, sean estos eucariotas o procariotas (Acevedo, R; Severiche, C. y Castillo M. 2013. p. 7)
+    p La microbiología hablando en sentido etimológico, viene del griego «μικρος» mikros "pequeño", «βιος» bios, "vida" y «-λογία» -logía, tratado, estudio, ciencia; se encarga del estudio de los microorganismos que solo son visibles a través del microscopio, sean estos eucariotas o procariotas (Acevedo, R; Severiche, C. y Castillo M. 2013. p. 7).
 
     .row.justify-content-center.align-items-center.mt-5
       TabsB.color-primario
@@ -65,7 +65,7 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span 6
-                  | Liberación o egreso (Negroni, M y González, M.  2017. pp. 71 - 73)
+                  | Liberación o egreso (Negroni, M y González, M.  2017. pp. 71 - 73).
 
             .col-md-6
               figure
@@ -101,10 +101,10 @@
               img(src="@/assets/curso/temas/tema4/img10.png", alt="alt")
           .crd_hover_txt--body.text-white.text-center
             h4.mb-3 Esterilización 
-            p.mb-0 consiste en someter material de vidrio, a 121 °C por 15 minutos en <b>autoclave</b> conocido como calor húmedo o también calor seco mediante horno a 150 a 180 °C durante 2 horas o flameado en mechero.  
+            p.mb-0 Consiste en someter material de vidrio, a 121 °C por 15 minutos en <b>autoclave</b> conocido como calor húmedo o también calor seco mediante horno a 150 a 180 °C durante 2 horas o flameado en mechero.  
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
-        .crd_hover_txt(data-aos="flip-left")
+        .crd_hover_txt2(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema4/img11.png", alt="alt")

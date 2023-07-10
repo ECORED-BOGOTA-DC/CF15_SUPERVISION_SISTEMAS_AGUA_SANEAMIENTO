@@ -23,7 +23,7 @@
               img(src='@/assets/curso/temas/tema2/img2.svg', alt='alt').img2-tm2
           
           .col-lg-7
-            p Bajo el entendido que el Ministerio de Salud y Protección Social (MSPS), autoriza a los laboratorios que han cumplido los estándares definidos por el Instituto Nacional de Salud (INS), en coordinación con el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima). Una vez se realiza la verificación para el desarrollo de actividades relacionadas con el análisis físico-químico y microbiológico del agua, se incorpora a la Red Nacional de Laboratorios (RNL) Dichos laboratorios pueden ser de carácter privado o público; por ejemplo, los laboratorios pueden ser de propiedad de las empresas prestadoras de servicios públicos o contratados por éstas para el análisis de sus muestras y así ofrecer sus servicios a los entes territoriales. 
+            p Bajo el entendido que el Ministerio de Salud y Protección Social (MSPS), autoriza a los laboratorios que han cumplido los estándares definidos por el Instituto Nacional de Salud (INS), en coordinación con el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima). Una vez se realiza la verificación para el desarrollo de actividades relacionadas con el análisis físico-químico y microbiológico del agua, se incorpora a la Red Nacional de Laboratorios (RNL) Dichos laboratorios pueden ser de carácter privado o público; por ejemplo, los laboratorios pueden ser de propiedad de las empresas prestadoras de servicios públicos o contratados por estas para el análisis de sus muestras y así ofrecer sus servicios a los entes territoriales. 
 
             .row.justify-content-center
               .col-lg-7
@@ -45,7 +45,7 @@
        h2 2.1 Criterios de calidad de un laboratorio
 
     .row.mb-5
-      p Los criterios de calidad para la operación de laboratorios de acuerdo con los lineamientos del Instituto Nacional de Salud (INS) (2015), con el fin de dar cumplimiento a la resolución 1619 (2015), establecen los siguientes aspectos sometidos a evaluación:
+      p Los criterios de calidad para la operación de laboratorios, de acuerdo con los lineamientos del Instituto Nacional de Salud (INS) (2015), con el fin de dar cumplimiento a la resolución 1619 (2015), establecen los siguientes aspectos sometidos a evaluación:
 
     .row.justify-content-center.align-items-center.mb-5
       ImagenInfografica.color-acento-botones
@@ -166,7 +166,7 @@
           img(src='@/assets/curso/temas/tema2/img9.svg', alt='alt')      
 
       .col-lg-8
-        p A parte de los elementos como la ficha de seguridad, las etiquetas y las hojas de seguridad de los insumos químicos utilizados en el laboratorio, existen unas etiquetas particulares de uso de cada laboratorio. Estas etiquetas son la forma de identificar las sustancias o reactivos que se han preparado en el laboratorio y que se van a usar para los diferentes procedimientos (bien sea el procesamiento de una muestra) o realizar un ensayo en específico.
+        p Aparte de los elementos como la ficha de seguridad, las etiquetas y las hojas de seguridad de los insumos químicos utilizados en el laboratorio, existen unas etiquetas particulares de uso de cada laboratorio. Estas etiquetas son la forma de identificar las sustancias o reactivos que se han preparado en el laboratorio y que se van a usar para los diferentes procedimientos (bien sea el procesamiento de una muestra) o realizar un ensayo en específico.
 
     .row.mb-5
       p Como ejemplo de esta etiqueta se evidencia en la figura 1, la utilizada por el laboratorio ambiental del Centro de Gestión Industrial (CGI)
@@ -175,14 +175,13 @@
       .col-lg-6
         .titulo-sexto.color-adicional-2.mb-5
           h5 Figura 1.
-          br
-          span #[i Formato etiqueta.]     
+          span #[i Formato etiqueta.]
 
         figure
           img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
 
     .row.mb-5
-      p En este caso la etiqueta se usa en forma de rótulo, el cual debe estar en el recipiente que sea plenamente identificado y que garantice que el uso de este no afectará la legibilidad.Al iniciar la preparación de sustancias en un laboratorio, siempre se debe etiquetar las soluciones creadas, al igual que guardar registros de lo realizado. 
+      p En este caso la etiqueta se usa en forma de rótulo, el cual debe estar en el recipiente que sea plenamente identificado y que garantice que el uso de este no afectará la legibilidad. Al iniciar la preparación de sustancias en un laboratorio, siempre se debe etiquetar las soluciones creadas, al igual que guardar registros de lo realizado. 
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-down")
       .col-lg-10
@@ -281,7 +280,7 @@
        h2 2.3 Instrumentación básica para análisis de agua
 
     .row.mb-5
-      p Para el correcto desarrollo de actividades relacionadas con el análisis de agua en un laboratorio se debe garantizar condiciones en términos de equipamiento, infraestructura y dotación como las que se describen a continuación en el video animado:
+      p Para el correcto desarrollo de actividades relacionadas con el análisis de agua en un laboratorio se debe garantizar condiciones en términos de equipamiento, infraestructura y dotación, como las que se describen a continuación en el video animado:
 
     .row.justify-content-center.align-items-center.mb-5
       figure(data-aos="flip-up")
@@ -415,14 +414,14 @@
           img(src='@/assets/curso/temas/tema2/img16.svg', alt='alt')
       
       .col-lg-8
-        p La identificación de las fichas técnicas de los reactivos se constituye en un elemento importante, para el desarrollo de actividades bajo condiciones seguras teniendo en cuenta la naturaleza y características de los insumos a emplear. 
+        p La identificación de las fichas técnicas de los reactivos se constituye en un elemento importante, para el desarrollo de actividades bajo condiciones seguras, teniendo en cuenta la naturaleza y características de los insumos a emplear. 
 
-        p De acuerdo con la Organización Mundial de la Salud (OMS) (2020) las Fichas Internacionales de Seguridad Química (FISC) proporcionan información relacionada con riesgos inherentes frente a la manipulación de las sustancias químicas y otras especificaciones tales como precauciones, manejos frente a primeros auxilios, almacenamiento y otras consideraciones como etiquetado, empaque y transporte.
+        p De acuerdo con la Organización Mundial de la Salud (OMS) (2020) las Fichas Internacionales de Seguridad Química (FISC) proporcionan información relacionada con riesgos inherentes frente a la manipulación de las sustancias químicas y otras especificaciones, tales como precauciones, manejos frente a primeros auxilios, almacenamiento y otras consideraciones como etiquetado, empaque y transporte.
 
         .cajon.color-acento-botones.p-4.mb-3
           p.mb-0 Con el fin de ampliar la información sobre las fichas de seguridad de una sustancia química, lo invitamos a consultar en el material complementario, el documento “Fichas internacionales de seguridad química”.
 
-        p Las hojas de Seguridad para Materiales (MSDS Material Safety Data Sheet, en inglés) que cobijan sustancias químicas, materias primas, productos e intermedios y permiten conocer la peligrosidad de una sustancia y su adecuada manipulación son realizadas conforme a la Norma Técnica Colombiana (NTC) 2010 (1998). Para ampliar más esta información se invita a consultarla en la base de datos del SENA. Descargar la norma del siguiente enlace:
+        p Las hojas de Seguridad para Materiales (MSDS Material Safety Data Sheet, en inglés) que cobijan sustancias químicas, materias primas, productos e intermedios y permiten conocer la peligrosidad de una sustancia y su adecuada, manipulación son realizadas conforme a la Norma Técnica Colombiana (NTC) 2010 (1998). Para ampliar más esta información se invita a consultarla en la base de datos del SENA. Descargar la norma del siguiente enlace:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")
       .col-lg-10
@@ -626,7 +625,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-botones.p-4
-          p.mb-0 En algunos casos cuando el agua tiene características ácidas es necesario utilizar productos químicos alcalinizantes utilizados para efectos de corrección de pH, los más utilizados con este fin son la cal dolomita (CaO) carbonato de sodio (Na2CO3) silicato de sodio (Na₂SiO3) hidróxido de calcio (Ca(OH)₂) (OPS/ Cepis. 2002. p. 527) y soda cáustica (NaOH).
+          p.mb-0 En algunos casos cuando, el agua tiene características ácidas es necesario utilizar productos químicos alcalinizantes utilizados para efectos de corrección de pH, los más utilizados con este fin son la cal dolomita (CaO) carbonato de sodio (Na2CO3) silicato de sodio (Na₂SiO3) hidróxido de calcio (Ca(OH)₂) (OPS/ Cepis. 2002. p. 527) y soda cáustica (NaOH).
 
     .row.mb-5
       p Sin importar la sustancia que se agregue se debe tener en cuenta, que se llevan a cabo una serie de reacciones químicas que cumplen con relaciones estequiométricas, debido a que estas relaciones son constantes, es importante conocer la cantidad de producto químico que se utiliza y su concentración.
