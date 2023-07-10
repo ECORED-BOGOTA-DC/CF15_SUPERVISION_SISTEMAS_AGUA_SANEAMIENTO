@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="163" viewBox="0 0 400 163">
+  <g id="Grupo_1021179" data-name="Grupo 1021179" transform="translate(-915 -971)">
+    <g id="Grupo_1009006" data-name="Grupo 1009006">
+      <rect id="Rectángulo_347174" data-name="Rectángulo 347174" width="400" height="163" rx="10" transform="translate(915 971)" fill="#fff"/>
+    </g>
+    <g id="Grupo_1021176" data-name="Grupo 1021176" transform="translate(3673 -5057.885)">
+      <rect id="Rectángulo_348791" data-name="Rectángulo 348791" width="332.1" height="5.1" transform="translate(-2721.426 6154)" fill="#008b8a"/>
+      <line id="Línea_2600" data-name="Línea 2600" y1="11.3" transform="translate(-2668.853 6141.5)" fill="none" stroke="#ffd415" stroke-miterlimit="10" stroke-width="1.5" stroke-dasharray="4"/>
+      <line id="Línea_2601" data-name="Línea 2601" y1="78.4" transform="translate(-2522.826 6074.4)" fill="none" stroke="#ffd415" stroke-miterlimit="10" stroke-width="1.5" stroke-dasharray="4"/>
+      <path id="Trazado_722074" data-name="Trazado 722074" d="M-572.5-45.586V-79.51h80.35" transform="translate(-2063.226 6165.51)" fill="none" stroke="#ffd415" stroke-miterlimit="10" stroke-width="1.5" stroke-dasharray="4"/>
+      <path id="Trazado_722075" data-name="Trazado 722075" d="M-658.2-10.01l226.2-93.9s36.9-11.1,85.2-8.4" transform="translate(-2063.226 6165.51)" fill="none" stroke="#d57f1b" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Trazado_722076" data-name="Trazado 722076" d="M-605.6-28.31a3.968,3.968,0,0,0,3.8,4.6h67.4l1.6,3.2,1.2-2.8h70.8s2.6.2,3-3.4" transform="translate(-2063.226 6165.51)" fill="none" stroke="#4db1f0" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Línea_2602" data-name="Línea 2602" x1="358.8" transform="translate(-2728.326 6159.1)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Línea_2603" data-name="Línea 2603" y2="117.6" transform="translate(-2721.426 6045.7)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      <text id="Saturation" transform="translate(-2470.426 6050)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Saturation</tspan></text>
+      <text id="noise" transform="translate(-2454.226 6152.8)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">noise</tspan></text>
+      <text id="concentration" transform="translate(-2458.026 6170.2)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">concentration</tspan></text>
+      <text id="linear_range" data-name="linear range" transform="translate(-2626.426 6153.6)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">linear range</tspan></text>
+      <text id="slope_sensitivity" data-name="slope = sensitivity" transform="translate(-2662.226 6081.2)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">slope = sensitivity</tspan></text>
+      <text id="detector_response" data-name="detector
+response" transform="translate(-2742 6098.981) rotate(-90)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">detector</tspan><tspan x="0" y="14.4">response</tspan></text>
+      <text id="LOD" transform="translate(-2712.226 6185.2)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOD</tspan></text>
+      <text id="LOL" transform="translate(-2531.625 6185.2)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOL</tspan></text>
+      <text id="LOQ" transform="translate(-2678.226 6185.2)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOQ</tspan></text>
+      <g id="Grupo_1021176-2" data-name="Grupo 1021176" transform="translate(0.674)">
+        <line id="Línea_2606" data-name="Línea 2606" y2="11.6" transform="translate(-2523.5 6162.5)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Polígono_15" data-name="Polígono 15" d="M3.5,0,7,6H0Z" transform="translate(-2527 6160)"/>
+      </g>
+      <g id="Grupo_1021177" data-name="Grupo 1021177" transform="translate(-145.353)">
+        <line id="Línea_2606-2" data-name="Línea 2606" y2="11.6" transform="translate(-2523.5 6162.5)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Polígono_15-2" data-name="Polígono 15" d="M3.5,0,7,6H0Z" transform="translate(-2527 6160)"/>
+      </g>
+      <g id="Grupo_1021178" data-name="Grupo 1021178" transform="translate(-176.353)">
+        <line id="Línea_2606-3" data-name="Línea 2606" y2="11.6" transform="translate(-2523.5 6162.5)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Polígono_15-3" data-name="Polígono 15" d="M3.5,0,7,6H0Z" transform="translate(-2527 6160)"/>
+      </g>
+      <path id="Polígono_16" data-name="Polígono 16" d="M3.5,0,7,6H0Z" transform="translate(-2725 6044)"/>
+      <path id="Polígono_17" data-name="Polígono 17" d="M3.5,0,7,6H0Z" transform="translate(-2365.5 6155.6) rotate(90)"/>
+    </g>
+  </g>
+</svg>
