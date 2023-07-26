@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       figure
-        img(src='@/assets/curso/temas/tema4/img1.png', alt='alt')
+        img(src='@/assets/curso/temas/tema4/img1.png', alt='Imágen decorativa')
       
       .col-lg-11
         .tarjeta.bgtarjeta.p-4
@@ -23,15 +23,15 @@
 
     .row.justify-content-center.align-items-center.mt-5
       TabsB.color-primario
-        .py-4.py-md-5(titulo="Bacterias" :icono="require('@/assets/curso/temas/tema4/img2.svg')")
+        .py-4.py-md-5(titulo="Bacterias" :icono="require('@/assets/curso/temas/tema4/img2.svg')")(title="Imágen decorativa")
           .row
             .col-md-6.mb-4.mb-md-0
               p Son microorganismos procariotas unicelulares y su reproducción es por fisión binaria. El tamaño puede oscilar entre 0.5 y 3 μm, y la morfología determinada por su pared celular puede ser según Pírez, M y   Mota, M.  (s.f.) en su libro morfología y estructura bacteriana: <b style="color: #3076B6; font-weight: 400">cocos, diplococo, cocos en cadenas, cocos en racimos, cocos en tétradas, cocobacilos, bacilos, bacilos bordes redondeados, bacilos bordes rectos, bacilos fusiformes, bacilos curvos, espiroquetas</b> (pp. 23 - 24).
           
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema4/img6.png', alt='alt')
-        .py-4.py-md-5(titulo="Virus" :icono="require('@/assets/curso/temas/tema4/img3.svg')")
+                img(src='@/assets/curso/temas/tema4/img6.png', alt='Imágen decorativa')
+        .py-4.py-md-5(titulo="Virus" :icono="require('@/assets/curso/temas/tema4/img3.svg')")(title="Imágen decorativa")
           .row
             .col-md-6.mb-4.mb-md-0
               p Los virus son entes biológicos con material genético que puede ser ARN o ADN y necesitan de una célula hospedadora para replicar su material genético a través de la infección. El material genético se encuentra protegido por una cápside proteica y la replicación viral ocurre en las siguientes etapas: 
@@ -69,23 +69,23 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema4/img7.png', alt='alt')
+                img(src='@/assets/curso/temas/tema4/img7.png', alt='Imágen decorativa')
 
-        .py-4.py-md-5(titulo="Protozoos" :icono="require('@/assets/curso/temas/tema4/img4.svg')")
+        .py-4.py-md-5(titulo="Protozoos" :icono="require('@/assets/curso/temas/tema4/img4.svg')")(title="Imágen decorativa")
           .row
             .col-md-6.mb-4.mb-md-0
               p Los protozoarios son organismos unicelulares eucarióticos con tamaños que oscilan entre 3 y 100 μm, son móviles, sin pared celular y se alimentan de otros organismos, lo cual puede otorgarles características parásitas como sucede con <i>Entamoeba histolytica</i> causante de la amibiasis, una enfermedad causada por el agua.
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema4/img8.png', alt='alt')
+                img(src='@/assets/curso/temas/tema4/img8.png', alt='Imágen decorativa')
 
-        .py-4.py-md-5(titulo="Hongos" :icono="require('@/assets/curso/temas/tema4/img5.svg')")
+        .py-4.py-md-5(titulo="Hongos" :icono="require('@/assets/curso/temas/tema4/img5.svg')")(title="Imágen decorativa")
           .row
             .col-md-6.mb-4.mb-md-0
               p Son organismos eucarióticos, sin pigmentos fotosintéticos, de naturaleza heterótrofa, pluricelular o unicelular e inmóvil (p.47) Un ejemplo de este tipo de organismos son las levaduras utilizadas en procesos biotecnológicos fermentativos como el procesamiento de pan.
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema4/img9.png', alt='alt')
+                img(src='@/assets/curso/temas/tema4/img9.png', alt='Imágen decorativa')
 
     separador
     #t_4_2.titulo-segundo.color-acento-botones
@@ -98,7 +98,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img10.png", alt="alt")
+              img(src="@/assets/curso/temas/tema4/img10.png", alt="Imágen decorativa")
           .crd_hover_txt--body.text-white.text-center
             h4.mb-3 Esterilización 
             p.mb-0 Consiste en someter material de vidrio, a 121 °C por 15 minutos en <b>autoclave</b> conocido como calor húmedo o también calor seco mediante horno a 150 a 180 °C durante 2 horas o flameado en mechero.  
@@ -107,7 +107,7 @@
         .crd_hover_txt2(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img11.png", alt="alt")
+              img(src="@/assets/curso/temas/tema4/img11.png", alt="Imágen decorativa")
           .crd_hover_txt--body.text-white.text-center
             h4.mb-3 Desinfección 
             p.mb-0 La desinfección solo limita su presencia, pero no garantiza una eliminación completa y se realiza a través de <b>sustancias químicas</b> como el hipoclorito de sodio (Aquiahuatl, M y Pérez, M. 2004. p.13)
@@ -128,17 +128,17 @@
 
       .col-lg-4.col-xs-12
         figure
-          img(src='@/assets/curso/temas/tema4/img12.png', alt='alt')
+          img(src='@/assets/curso/temas/tema4/img12.png', alt='Imágen decorativa')
 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6.col-xs-10
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 9
-          p.mb-0 <i>Division análisis microbiológico </i>>  
+        .titulo-sexto.color-adicional-2.mb-3
+          h5 Figura 9.
+          span Division análisis microbiológico 
 
         figure
-          img(src='@/assets/curso/temas/tema4/img13.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema4/img13.svg', alt='Diagrama división análisis microbiológico, muestra Medios de cultivo que son los Sintéticos y complejos y se encuentran según finalidad,  con Enriquecidos, Selectivos, Diferenciales Selectivos-diferenciales y Electivos')
 
         
     .row.justify-content-center.align-items-center.mt-5
@@ -147,11 +147,11 @@
           p.mb-0 Una vez preparados los medios de cultivo para el análisis microbiológico es necesario, realizar una esterilización y también es conveniente tener precauciones al momento de la manipulación para evitar la contaminación del medio y la alteración del resultado. Se aconseja utilizar el material de laboratorio como las asas previamente esterilizadas, así como al momento de realizar la siembra hacerlo cerca al mechero como se muestra a continuación (Figura 10) (Bonilla M, Pajares, P, Vigueras, J, Sigala, J, Le Borgne, S. 2016. 
 
     .row.justify-content-center.align-items-center.mt-5
-      .titulo-sexto.color-acento-contenido.mb-3
+      .titulo-sexto.color-adicional-2.mb-3
         h5 Figura 10.
-        p.mb-0 <i>Siembra cerca al merchero.</i> 
+        span Siembra cerca al merchero.
       figure
-        img(src='@/assets/curso/temas/tema4/img14.svg', alt='alt')
+        img(src='@/assets/curso/temas/tema4/img14.svg', alt='Muestra pasos en la siembra cerca al mechero, inicia Flamear el asa, retirar el tapón, introducir parte estéril, volver a flamear y tapar el tubo.')
 
     separador
     #t_4_4.titulo-segundo.color-acento-botones

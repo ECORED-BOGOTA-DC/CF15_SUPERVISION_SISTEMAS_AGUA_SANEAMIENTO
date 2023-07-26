@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img1.svg', alt='alt').img28-tm2
+          img(src='@/assets/curso/temas/tema3/img1.svg', alt='Imágen decorativa').img28-tm2
 
       .col-lg-6
         .tarjeta.tarjeta-gris.p-3
@@ -26,7 +26,7 @@
         .row.justify-content-center.align-items-center
           .col-4.col-lg-2
             figure.mb-3
-              img(src='@/assets/curso/temas/tema3/img2.svg', alt='alt').img12-tm2
+              img(src='@/assets/curso/temas/tema3/img2.svg', alt='Imágen decorativa').img12-tm2
           
           .col-lg-10
             p.mb-0 El agua contiene diversas substancias químicas y biológicas disueltas o suspendidas en ella. Desde el momento que se condensa en forma de lluvia, el agua disuelve los componentes químicos de sus alrededores, corre sobre la superficie del suelo y se filtra a través del mismo. Además, el agua contiene organismos vivos que reaccionan con sus elementos físicos y químicos.  Por esta razón es necesario conocer una de sus características principales como la turbiedad.
@@ -34,7 +34,7 @@
     .row.justify-content-center.align-items-center.mb-5
       figure(data-aos="flip-up")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/11111111" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/oX-9-_eQ2s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     .row.bg2-tema3.align-items-center.mb-5(data-aos="fade-right")
@@ -46,12 +46,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
         h5 Figura 5.
-        br
-        span #[i Color aparente en muestra derivado de partículas en suspensión.]
+        span Color aparente en muestra derivado de partículas en suspensión.
 
       .col-10.col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img3.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img3.svg', alt='Muestra color turbio de agua aparente derivado de partículas en suspensión')
 
       .col-lg-8
         p Para fuentes de agua superficial, ya sea en suspensión, disuelta o en estado coloidal; lo cual le confiere a la muestra de agua condiciones que organolépticamente (estéticas) pueden ser rechazadas por el consumidor final. Existen dos definiciones importantes relacionadas: color verdadero o real entendido como el obtenido posterior a un proceso de filtración (0.45 unidades de longitud (µm)) en una solución de la muestra de agua (disueltas) mientras que el color aparente es derivado de muestras sin filtrar debido a las partículas en suspensión (Figura 5).
@@ -62,8 +61,7 @@
       .col-lg-4
         .titulo-sexto.color-adicional-2.mb-3
           h5 Figura 6.
-          br
-          span #[i Equipo para la determinación de color.]
+          span Equipo para la determinación de color.
 
       .col-lg-8
         p La medición del color (Figura 6) se hace a través del método #[b platino-cobalto] establecido en el en método 2120C (APHA, AWWA & WEF, 2012) el principio de este método es que el color del agua se compara con una serie de patrones de color que produce 1 ppm de platino (en forma de cloroplatinato) con determinada cantidad de cobalto añadida. Los resultados se expresan como Unidades Platino Cobalto (UPC) actualmente para mayor precisión de los resultados estos son determinados a partir de longitudes de onda (Martínez, M y Osorio A, 2018).
@@ -72,7 +70,7 @@
 
       .col-10.col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema3/img4.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img4.svg', alt='Muestra foto de pantalla lectora de equipo para la determinación del color')
 
     .row.bg2-tema3.align-items-center.mb-5(data-aos="fade-right")
       h4.text-white.mt-2 Temperatura
@@ -86,7 +84,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       figure
-        img(src='@/assets/curso/temas/tema3/img5.png', alt='alt')
+        img(src='@/assets/curso/temas/tema3/img5.png', alt='Imágen decorativa')
       
       .col-lg-11
         .tarjeta.bgtarjeta.p-4
@@ -101,7 +99,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img6.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema3/img6.svg', alt='Imágen decorativa')      
 
       .col-lg-8
         p Está asociada con la capacidad de conducir corriente eléctrica y esto está determinado en mayor proporción, por la presencia de partículas inorgánicas (iones) en sólidos disueltos (Ideam, 2006).  Las unidades de medida son microsiemens por centímetro (μS/cm) en el Sistema internacional de Unidades, y bajo el marco normativo para calidad de agua en su artículo 3 la Resolución 2115 (2007) especifica que no debe sobrepasar 1000 μS/cm.
@@ -121,14 +119,14 @@
 
       .col-10.col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema3/img7.svg', alt='alt')       
+          img(src='@/assets/curso/temas/tema3/img7.svg', alt='Imágen decorativa')       
 
     .row.bg2-tema3.align-items-center.mb-5(data-aos="fade-right")
       h4.text-white.mt-2 pH
 
     .row.justify-content-center.align-items-center.mb-5
       figure
-        img(src='@/assets/curso/temas/tema3/img8.png', alt='alt')
+        img(src='@/assets/curso/temas/tema3/img8.png', alt='Imágen decorativa')
       
       .col-lg-11
         .tarjeta.bgtarjeta.p-4
@@ -140,12 +138,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
         h5 Figura 7.
-        br
-        span #[i Determinación de pH en planta de tratamiento.]
+        span Determinación de pH en planta de tratamiento.
 
       .col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img9.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img9.svg', alt='muestra imagen de medida del ph')
 
       .col-lg-8
         p Cuando el pH no está dentro del límite máximo permisible luego de tener un tratamiento se debe hacer una revisión del tanque de igualación para ajustar bien sea con sustancias ácidas o con sustancias básicas de acuerdo con el pH inicial. 
@@ -162,7 +159,7 @@
 
       .col-10.col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema3/img10.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img10.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
@@ -206,7 +203,7 @@
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
         .bloque-texto-g1__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img11.svg')})`}"
-        )
+        )(title="Imágen decorativa")
         .bloque-texto-g1__texto.p-4
           p.mb-0 Derivado de la presencia de sustancias ácidas como el ácido sulfúrico (H2SO4) sulfato ferroso (FeSO4) sulfato de aluminio (Al2 (SO4)2) (Orellana, 2005, p. 3) las cuales traen efectos corrosivos en el sistema de tuberías. 
 
@@ -228,14 +225,14 @@
 
       .col-10.col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema3/img12.svg', alt='alt')        
+          img(src='@/assets/curso/temas/tema3/img12.svg', alt='Imágen decorativa')        
 
     .row.bg1-tema2.align-items-center.mb-5(data-aos="fade-right")
       h4.text-white.mt-2 Hierro y manganeso
 
     .row.justify-content-center.align-items-center.mb-5
       figure
-        img(src='@/assets/curso/temas/tema3/img13.png', alt='alt')
+        img(src='@/assets/curso/temas/tema3/img13.png', alt='Imágen decorativa')
       
       .col-lg-11
         .tarjeta.bgtarjeta.p-4
@@ -252,7 +249,7 @@
         .row.justify-content-center.align-items-center
           .col-4.col-lg-2
             figure.mb-3
-              img(src='@/assets/curso/temas/tema3/img14.svg', alt='alt').img12-tm2
+              img(src='@/assets/curso/temas/tema3/img14.svg', alt='Imágen decorativa').img12-tm2
           
           .col-lg-10
             p.mb-0 Los filtros de arena suelen tener fallas cuando la presión del agua es alta, por lo que se debe revisar que no existan fugas ni de arena, ni de agua, así mismo la presencia de hierro y manganeso en el agua efluente puede significar la saturación de arena o la creación de canales que permiten el paso del agua sin que tenga contacto con la misma.
@@ -266,7 +263,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img15.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img15.svg', alt='Imágen decorativa')
 
       .col-lg-8
         p Puede considerarse como un indicador del grado de contaminación de una fuente de agua, dado a que una carga orgánica alta actúa como agente reductor de la cantidad de oxígeno disponible, afectando de esta manera las condiciones de vida aerobias del cuerpo hídrico. La presencia de oxígeno soluble también está determinada por la solubilidad del gas, la presión parcial del gas en la atmósfera y/o la temperatura (Ideam, 2004).
@@ -279,7 +276,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
         figure.mb-4
-          img(src='@/assets/curso/temas/tema3/img16.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema3/img16.svg', alt='Imágen decorativa')      
       
         .cajon.color-acento-botones.p-4
           p.mb-0  En cualquiera de los casos se utiliza el golpe del agua con una superficie para disolver oxígeno presente en la atmósfera y aumentar el valor del parámetro. 
@@ -295,7 +292,7 @@
 
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema3/img17.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema3/img17.svg', alt='Imágen decorativa')      
 
     .row.bg3-tema3.align-items-center.mb-5(data-aos="fade-right")
       h4.text-white.mt-2 Demanda Química de Oxígeno (DQO)
@@ -303,7 +300,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img18.svg', alt='alt')       
+          img(src='@/assets/curso/temas/tema3/img18.svg', alt='Imágen decorativa')       
 
       .col-lg-8
         p La estimación del grado de contaminación en el agua al igual que la DBO5, también puede determinarse a través de la DQO donde se establece el contenido de materia orgánica que puede ser oxidada por un compuesto químico #[i (Reutelshöfer, T., 2015)].
@@ -318,7 +315,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema3/img19.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img19.svg', alt='Imágen decorativa')
 
       .col-lg-8
         TabsA.color-acento-contenido
@@ -342,7 +339,7 @@
         .tarjeta.bgDescarga.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")
+              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -360,11 +357,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img20.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema3/img20.svg', alt='Imágen decorativa')      
 
       .col-lg-5
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img21.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img21.svg', alt='Imágen decorativa')
 
     .row.mb-5
       p La materia orgánica con contenido proteico presente en los cuerpos de agua es degradada por los microorganismos en compuestos más sencillos como los nitritos y nitratos (Valdez, E y Vázquez, A. 2003. p.46). En el ciclo biogeoquímico el amoniaco se transforma a partir de las bacterias nitrificantes en nitritos (NO2) y nitratos (NO3) para ser asimilados por el sistema radicular de las plantas, así que es de gran importancia como nutriente especial de este tipo organismos fotosintéticos (Comisión Estatal del Agua de Jalisco. 2013. P.13) como algas y plantas acuáticas como la elodea (Egeria densa) buchón de agua (Eichornia crassipes) o lenteja de agua (Lemna minor) los cuales pueden estimular procesos de eutrofización (Figura 8) De acuerdo con la norma para calidad de agua potable la resolución 2115 (2007) el valor máximo aceptables es de 0.1 mg/L para nitritos (NO2) y 10 mg/L nitratos (NO3).
@@ -372,12 +369,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
         h5 Figura 8.
-        br
-        span #[i Eutrofización por lenteja de agua..]
+        span Eutrofización por lenteja de agua.
 
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema3/img22.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img22.svg', alt='Imágen decorativa')
 
       .col-lg-8
         p Cuando se presenta exceso de nitritos y nitratos en el efluente del agua de la PTAP se debe hacer una revisión de las unidades de oxidación química, normalmente se utiliza ozono por la facilidad de aplicación, en ese caso se debe revisar que se esté produciendo la cantidad adecuada de reactivo. 
@@ -392,7 +388,7 @@
         .tarjeta.bgDescarga.p-3.mb-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")
+              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -406,7 +402,7 @@
         .tarjeta.bgDescarga.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")
+              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -425,11 +421,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img23.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema3/img23.svg', alt='Imágen decorativa')      
 
       .col-lg-5
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img24.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img24.svg', alt='Imágen decorativa')
 
     .row.mb-5
       p El fósforo se encuentra como fosfatos y al ser también un nutriente esencial para organismos fotosintéticos, puede estimular el crecimiento desmedido de este tipo de organismos generando condiciones de eutrofización en los cuerpos de agua (Comisión Estatal del Agua de Jalisco. 2013. P.13). De acuerdo con la norma para calidad de agua potable la resolución 2115 (2007) el valor máximo es 0.5 mg/L.
@@ -456,7 +452,7 @@
 
       .col-10.col-lg-4.mb-3.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema3/img25.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img25.svg', alt='Imágen decorativa')
 
       p A continuación, se presenta un ejemplo de ensayo de determinación de cloruros en agua:
 
@@ -465,7 +461,7 @@
         .tarjeta.bgDescarga.p-3.mb-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")
+              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -482,7 +478,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         figure
-          img(src='@/assets/curso/temas/tema3/img26.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema3/img26.svg', alt='Imágen decorativa')      
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -493,7 +489,7 @@
         .row.justify-content-center.align-items-center
           .col-4.col-lg-2
             figure.mb-3
-              img(src='@/assets/curso/temas/tema3/img27.svg', alt='alt').img12-tm2
+              img(src='@/assets/curso/temas/tema3/img27.svg', alt='Imágen decorativa').img12-tm2
           
           .col-lg-10
             p.mb-0 La eliminación de sulfatos se realiza a través de las etapas de intercambio iónico, ósmosis inversa o ablandamiento si el agua efluente de la PTAP supera el límite máximo permisible de este parámetro se debe hacer la revisión a las etapas anteriormente mencionadas. 
@@ -503,7 +499,7 @@
         .row.justify-content-center.align-items-center
           .col-5.col-lg-2
             figure
-              img(src='@/assets/curso/temas/tema3/img28.svg', alt='alt').img12-tm2
+              img(src='@/assets/curso/temas/tema3/img28.svg', alt='Imágen decorativa').img12-tm2
           
           .col-lg-8
             b Sulfatos en agua por el método nefelométrico
@@ -524,7 +520,7 @@
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
         .bloque-texto-g1__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img29.png')})`}"
-        )
+        )(title="Imágen decorativa")
         .bloque-texto-g1__texto.p-4
           p.mb-0 El ensayo de jarras define las condiciones de tratabilidad y la dosis óptima de coagulante que se debe utilizar en un tratamiento de aguas. A continuación, se presenta un video que nos introduce a los procedimientos en el ensayo de jarras o ensayo de tratabilidad. 
 
@@ -532,7 +528,7 @@
     .row.justify-content-center.align-items-center.mb-5
       figure(data-aos="flip-up")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/11111111" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/5iRQoIBV-1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     separador
@@ -550,7 +546,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema3/img30.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema3/img30.svg', alt='Imágen decorativa')
 
         .row.p-4(titulo="2. Precisión")
           .col-md-7.mb-4.mb-md-0
@@ -558,7 +554,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema3/img31.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema3/img31.svg', alt='Imágen decorativa')
 
         .row.p-4(titulo="3. Linealidad")
           .col-md-7.mb-4.mb-md-0
@@ -566,7 +562,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema3/img32.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema3/img32.svg', alt='Imágen decorativa')
 
         .row.p-4(titulo="4. Límite de detección")
           .col-md-7.mb-4.mb-md-0
@@ -574,7 +570,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema3/img33.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema3/img33.svg', alt='Imágen decorativa')
 
         .row.p-4(titulo="5. Sensibilidad")
           .col-md-7.mb-4.mb-md-0
@@ -582,7 +578,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema3/img34.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema3/img34.svg', alt='Imágen decorativa')
 
         .row.p-4(titulo="6. Porcentaje de recuperación")
           .col-md-7.mb-4.mb-md-0
@@ -590,7 +586,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema3/img35.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema3/img35.svg', alt='Imágen decorativa')
 
 
     .row.mb-5
@@ -612,7 +608,7 @@
 
       .col-10.col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema3/img36.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img36.svg', alt='Imágen decorativa')
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")
@@ -620,7 +616,7 @@
         .tarjeta.bgDescarga.p-3.mb-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")
+              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -638,7 +634,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-5
         figure.mb-3
-          img(src='@/assets/curso/temas/tema3/img37.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img37.svg', alt='Imágen decorativa')
       
       .col-lg-7
         p Las muestras una vez llegan al laboratorio debidamente etiquetadas (rotuladas) con información de referencia como: localización, fuente, fecha, hora, nombre del responsable de la recolección de la muestra, entre otros aspectos importantes a señalar (OPS y Cepis. 2002. p.666) son procesadas bajo los protocolos y métodos estandarizados de parámetros fisicoquímicos y microbiológicos a analizar. 
@@ -666,7 +662,7 @@
 
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema3/img38.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img38.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
@@ -726,7 +722,7 @@
 
       .col-lg-8
         figure
-          img(src='@/assets/curso/temas/tema3/img39.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img39.svg', alt='Imágen decorativa')
 
 
     .row.mb-5
@@ -736,7 +732,7 @@
       .col-lg-11.mb-3
         .tarjeta-avatar-b.mb-0
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema3/img40.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img40.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta-azul1
             .row 
               .col-lg-10
@@ -748,7 +744,7 @@
 
         .tarjeta-avatar-b.mb-0
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema3/img40.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img40.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta-azul2
             .row
               .col-lg-10
@@ -760,7 +756,7 @@
 
         .tarjeta-avatar-b.mb-0
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema3/img40.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img40.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta-azul1
             .row
               .col-lg-10
@@ -777,7 +773,7 @@
 
       .col-6.col-lg-1
         figure
-          img(src='@/assets/curso/temas/tema3/img41.svg', alt='alt').img41-tm3
+          img(src='@/assets/curso/temas/tema3/img41.svg', alt='Imágen decorativa').img41-tm3
 
     .row.mb-5
       p Algunos métodos de medición se describen a continuación, para conocer las propiedades que se miden a partir de una curva de calibración.
@@ -794,7 +790,7 @@
 
             .col-md-7
               figure
-                img(src='@/assets/curso/temas/tema3/img42.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img42.svg', alt='Imágen decorativa')
 
           .row.justify-content-center.align-items-center
             .col-md-5.mb-4.mb-md-0
@@ -803,7 +799,7 @@
 
             .col-md-7
               figure
-                img(src='@/assets/curso/temas/tema3/img43.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img43.svg', alt='Imágen decorativa')
 
           .row.justify-content-center.align-items-center
             .col-md-5.mb-4.mb-md-0
@@ -812,14 +808,14 @@
 
             .col-md-7
               figure
-                img(src='@/assets/curso/temas/tema3/img44.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img44.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta--gris.p-4
         .row.justify-content-center.align-items-center
           .col-5.col-lg-2
             figure
-              img(src='@/assets/curso/temas/tema3/img28.svg', alt='alt').img12-tm2
+              img(src='@/assets/curso/temas/tema3/img28.svg', alt='Imágen decorativa').img12-tm2
           
           .col-lg-8
             b Turbiedad por nefelometría en el equipo turbiquant 3000T
@@ -835,7 +831,7 @@
         .row.justify-content-center.align-items-center
           .col-5.col-lg-2
             figure
-              img(src='@/assets/curso/temas/tema3/img28.svg', alt='alt').img12-tm2
+              img(src='@/assets/curso/temas/tema3/img28.svg', alt='Imágen decorativa').img12-tm2
           
           .col-lg-8
             b Conductividad eléctrica por el método electrométrico en aguas
@@ -855,7 +851,7 @@
         .tarjeta.bgDescarga.p-3.mb-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")
+              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -873,7 +869,7 @@
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
         .bloque-texto-g1__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img45.svg')})`}"
-        )
+        )(title="Imágen decorativa")
         .bloque-texto-g1__texto.p-4
           p.mb-0 El color aparente está relacionado con las partículas en suspensión de una muestra sin filtración o centrifugación. El método de determinación es <b style= "color:#3076B6;">platino-cobalto,</b> el cual toma como unidad de color la producida por un miligramo de platino en un litro de agua como ion #[b cloro platinato.] Se aconseja una determinación de este parámetro in situ, de lo contrario, se debe recolectar la muestra en un #[b envase ámbar y refrigerado a 4 °C] (INS, 2011. pp. 69-71).
 

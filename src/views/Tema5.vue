@@ -11,7 +11,7 @@
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img1.png')})`}"
-        )
+        )(title="Imágen decorativa")
         .bloque-texto-g__texto.p-4
           p.mb-0 La última fase de verificación es reportar y analizar los resultados de la supervisión de los sistemas de agua, siempre se debe seguir el conducto regular dependiendo de la entidad a la cual uno haga parte, reportar con veracidad los datos influirá en las medidas preventivas y correctivas necesarias para el sistema objeto de supervisión. 
 
@@ -41,14 +41,14 @@
               P.mb-0 Sistema de potabilización: requisitos mínimos, descripción de procesos y calidad del agua potable.
       .col-lg-5.col-xs-12
         figure
-          img(src='@/assets/curso/temas/tema5/img2.png', alt='alt')
+          img(src='@/assets/curso/temas/tema5/img2.png', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mt-5
       p La Resolución 330 (2017) actualiza aspectos relacionados con el Reglamento técnico para el sector de Agua potable y Saneamiento básico, inicialmente expedidos por la resolución 1096 de 2000, enmarcados en el capítulo 3 para sistemas de potabilización de agua:
 
       .col-lg-5.col-xs-12
         figure
-          img(src='@/assets/curso/temas/tema5/img3.png', alt='alt')
+          img(src='@/assets/curso/temas/tema5/img3.png', alt='Imágen decorativa')
 
       .col-lg-7.col-xs-12.mt-3
         ol.lista-ol--cuadro.lista-ol--separador.fa-ul2
@@ -88,7 +88,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       figure
-        img(src='@/assets/curso/temas/tema5/img4.png', alt='alt')
+        img(src='@/assets/curso/temas/tema5/img4.png', alt='Imágen decorativa')
       
       .col-lg-11
         .tarjeta.bgtarjeta.p-4
@@ -101,7 +101,7 @@
     .row.justify-content-center.align-items-center.bg-1-tema-5
       .col-lg-4.col-xs-12
         figure.mb-3
-          img(src='@/assets/curso/temas/tema5/img5.png', alt='alt')
+          img(src='@/assets/curso/temas/tema5/img5.png', alt='Imágen decorativa')
 
       .col-lg-8
         p Adicionalmente, se establece el número de muestras y la frecuencia para realizar el control de la calidad de acuerdo con la población atendida.  En consecuencia, está la Resolución 82 (2009) por medio de la cual se adoptan unos formularios para la práctica de visitas de inspección sanitaria a los sistemas de suministro de agua para consumo humano.
@@ -117,7 +117,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-6.col-xs-10
         figure
-          img(src='@/assets/curso/temas/tema5/img6.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema5/img6.svg', alt='Imagen muestra 2 columnas con puntajes de riesgo en calidad de agua:<br>Escherichia Coli 100 puntos<br>Coliformes Totales 15 puntos<br>Color Aparente  6 puntos<br>COT, Aluminio (Al3+), Nitritos) 3 puntos<br>pH, Hierro Total 1.5 puntos')
 
     .row.justify-content-center.align-items-center.bg-2-tema-5-color.mt-5.p-4
       p La determinación del % IRCA por muestra se lleva a cabo realizando la sumatoria de los puntajes a parámetros no aceptables, dividido la sumatoria de los puntajes de riesgo a todas las características analizadas. 
@@ -125,14 +125,14 @@
       .row.justify-content-center.align-items-center
         .col-lg-6.col-xs-10
           figure
-            img(src='@/assets/curso/temas/tema5/img7.svg', alt='alt')
+            img(src='@/assets/curso/temas/tema5/img7.svg', alt='Imágen decorativa')
 
       p.mt-5 La determinación del % IRCA mensual se lleva a cabo realizando la sumatoria de los IRCAs de cada muestra mensual sobre el número total de muestras mensuales analizadas de acuerdo con la Resolución 2115 (2007) se determinará con la siguiente fórmula: 
 
       .row.justify-content-center.align-items-center
         .col-lg-6.col-xs-10
           figure
-            img(src='@/assets/curso/temas/tema5/img8.svg', alt='alt')
+            img(src='@/assets/curso/temas/tema5/img8.svg', alt='Imágen decorativa')
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -140,7 +140,7 @@
         .row.justify-content-center.align-items-center
           .col-4.col-lg-2
             figure.mb-3
-              img(src='@/assets/curso/temas/tema5/img9.svg', alt='alt').img12-tm2
+              img(src='@/assets/curso/temas/tema5/img9.svg', alt='Imágen decorativa').img12-tm2
           
           .col-lg-10
             p.mb-0 El nivel de riesgo para la salud se establece de acuerdo con los % IRCA mensuales y por muestra (Tabla 4) si los resultados arrojan una clasificación IRCA del 90% es inviable sanitariamente el agua suministrada, por ejemplo. Lo ideal es que el nivel de riesgo no sobrepase un 5% de clasificación IRCA para catalogarlo sin riesgo y que sea apta para consumo humano.  A continuación, se describen las acciones a realizar para cualquiera de los casos (p. 10).

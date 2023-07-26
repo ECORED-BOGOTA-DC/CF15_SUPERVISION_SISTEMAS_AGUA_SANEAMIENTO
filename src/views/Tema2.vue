@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img1.svg', alt='alt')        
+          img(src='@/assets/curso/temas/tema2/img1.svg', alt='Imágen decorativa')        
 
       .col-lg-8
         p El análisis de una muestra de agua bajo los protocolos establecidos por las autoridades competentes está relacionado con la aplicación del marco normativo aplicable para tal fin: Ley 9 (1979), Ley 715 (2001), Decreto 2323 (2006), Decreto 1575 (2007), Decreto 2774 (2012), Decreto 2078 (2012), Resolución 1619 (2015) y Decreto Único Reglamentario Sector Salud 780 (2016).
@@ -20,7 +20,7 @@
         .row.justify-content-center.align-items-center
           .col-10.col-lg-5
             figure.mb-3
-              img(src='@/assets/curso/temas/tema2/img2.svg', alt='alt').img2-tm2
+              img(src='@/assets/curso/temas/tema2/img2.svg', alt='Imágen decorativa').img2-tm2
           
           .col-lg-7
             p Bajo el entendido que el Ministerio de Salud y Protección Social (MSPS), autoriza a los laboratorios que han cumplido los estándares definidos por el Instituto Nacional de Salud (INS), en coordinación con el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima). Una vez se realiza la verificación para el desarrollo de actividades relacionadas con el análisis físico-químico y microbiológico del agua, se incorpora a la Red Nacional de Laboratorios (RNL) Dichos laboratorios pueden ser de carácter privado o público; por ejemplo, los laboratorios pueden ser de propiedad de las empresas prestadoras de servicios públicos o contratados por estas para el análisis de sus muestras y así ofrecer sus servicios a los entes territoriales. 
@@ -37,7 +37,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         figure
-          img(src='@/assets/curso/temas/tema2/img3.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img3.svg', alt='Muestra Diagrama del  El análisis fisico-quimico y microbiológico del agua donde intervienes los siguientes actores: MSPS<br>Invima<br>Autorización de laboratorios<br>INS<br>Verificación<br>Análisis físico-químico y microbiológico del agua<br>RNL<br>Carácter<br>Público<br>Privado<br>Ofrecer sus servicios<br>Entes territoriales')
 
 
     separador
@@ -51,7 +51,7 @@
       ImagenInfografica.color-acento-botones
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/temas/tema2/img4.svg', alt='alt')
+            img(src='@/assets/curso/temas/tema2/img4.svg', alt='Imágen decorativa')
 
         .tarjeta.color-acento-contenido.p-3(x="9%" y="32%" numero="1")
           p.text-center.mb-0 Organización y gestión administrativa.
@@ -104,12 +104,12 @@
       
       .col-10.col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema2/img5.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema2/img5.svg', alt='Imágen decorativa')      
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-5
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img6.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema2/img6.svg', alt='Imágen decorativa')      
 
       .col-lg-7
         p Es importante considerar normas de calidad en los laboratorios debido a que aquí se obtienen datos de variables ambientales en suelo, agua, aire, entre otras; los cuales permitirán la toma de decisiones a las personas naturales, jurídicas, instituciones y entes territoriales. En Colombia el Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam) es el ente encargado de la acreditación de los laboratorios que realizan muestreos y análisis ambientales. Esto en el marco de la Norma Técnica Colombiana (NTC) 17025 (2005), que establece los requisitos generales relativos a la competencia de los laboratorios de ensayo y calibración.
@@ -125,7 +125,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img7.svg', alt='alt')       
+          img(src='@/assets/curso/temas/tema2/img7.svg', alt='Imágen decorativa')       
 
       .col-lg-8
         LineaTiempoD.color-acento-contenido
@@ -155,7 +155,7 @@
 
       .col-10.col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img8.svg', alt='alt')        
+          img(src='@/assets/curso/temas/tema2/img8.svg', alt='Imágen decorativa')        
 
     .row.bg1-tema2.align-items-center.mb-5(data-aos="fade-right")
       h4.text-white.mt-2 Etiquetas de uso en el laboratorio
@@ -163,7 +163,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img9.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema2/img9.svg', alt='Imágen decorativa')      
 
       .col-lg-8
         p Aparte de los elementos como la ficha de seguridad, las etiquetas y las hojas de seguridad de los insumos químicos utilizados en el laboratorio, existen unas etiquetas particulares de uso de cada laboratorio. Estas etiquetas son la forma de identificar las sustancias o reactivos que se han preparado en el laboratorio y que se van a usar para los diferentes procedimientos (bien sea el procesamiento de una muestra) o realizar un ensayo en específico.
@@ -175,10 +175,10 @@
       .col-lg-6
         .titulo-sexto.color-adicional-2.mb-5
           h5 Figura 1.
-          span #[i Formato etiqueta.]
+          span Formato etiqueta.
 
         figure
-          img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img10.svg', alt='Muestra tabla ejemplo de formato de etiqueta para reactivos preparados en laboratorio. Incluye nombre del producto, peligrosidad, instructor responsable, fecha preparación, fecha vencimietno')
 
     .row.mb-5
       p En este caso la etiqueta se usa en forma de rótulo, el cual debe estar en el recipiente que sea plenamente identificado y que garantice que el uso de este no afectará la legibilidad. Al iniciar la preparación de sustancias en un laboratorio, siempre se debe etiquetar las soluciones creadas, al igual que guardar registros de lo realizado. 
@@ -188,7 +188,7 @@
         .tarjeta.bgDescarga.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")
+              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -204,7 +204,7 @@
         .tarjeta.bgDescarga.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")
+              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -226,7 +226,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img11.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img11.svg', alt='Imágen decorativa')
 
       .col-lg-8
         p En las actividades de supervisión de sistemas de agua, bien sea de agua superficial, residual o de seguimiento de la efectividad de las etapas de tratamiento dentro de una planta, se debe garantizar que junto con la ejecución adecuada de la toma de la muestra se registre la información de esta que permite tomar decisiones. 
@@ -238,7 +238,7 @@
         .tarjeta.bgDescarga.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")
+              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -254,7 +254,7 @@
         .tarjeta.bgDescarga.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")
+              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -270,7 +270,7 @@
         .row.justify-content-center.align-items-center
           .col-4.col-lg-2
             figure.mb-3
-              img(src='@/assets/curso/temas/tema2/img12.svg', alt='alt').img12-tm2
+              img(src='@/assets/curso/temas/tema2/img12.svg', alt='Imágen decorativa').img12-tm2
           
           .col-lg-10
             p.mb-0 Aparte de los documentos requeridos donde se especifique la información pertinente a la muestra, el recipiente donde se tome la muestra y los elementos de refrigeración deben tener sus debidos rotulados con el fin de garantizar la cadena de custodia de la muestra.
@@ -285,7 +285,7 @@
     .row.justify-content-center.align-items-center.mb-5
       figure(data-aos="flip-up")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/11111111" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/lj_kOsU0EuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mb-5
       p De acuerdo con la resolución 2115 (2007), en su artículo 18 la dotación mínima de un laboratorio en una planta de tratamiento deberá contar con los equipos y reactivos con el fin de realizar ensayos de jarras, demanda de cloro, y medición de parámetros de pH, color y turbiedad. 
@@ -334,12 +334,12 @@
 
       .col-10.col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema2/img13.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema2/img13.svg', alt='Imágen decorativa')      
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-5
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img14.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img14.svg', alt='Imágen decorativa')
 
       .col-lg-7
         ul.lista-ul--color.lista-ul--separador.fa-ul2
@@ -401,7 +401,7 @@
 
       .col-10.col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema2/img15.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img15.svg', alt='Imágen decorativa')
 
 
     separador
@@ -411,7 +411,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img16.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img16.svg', alt='Imágen decorativa')
       
       .col-lg-8
         p La identificación de las fichas técnicas de los reactivos se constituye en un elemento importante, para el desarrollo de actividades bajo condiciones seguras, teniendo en cuenta la naturaleza y características de los insumos a emplear. 
@@ -428,7 +428,7 @@
         .tarjeta.bgDescarga.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")
+              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -446,7 +446,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       figure
-        img(src='@/assets/curso/temas/tema2/img17.png', alt='alt')
+        img(src='@/assets/curso/temas/tema2/img17.png', alt='Imágen decorativa')
       
       .col-lg-11
         .tarjeta.bgtarjeta.p-4
@@ -455,7 +455,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img18.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema2/img18.svg', alt='Imágen decorativa')      
 
       .col-lg-8
         p Las sustancias químicas más comunes, utilizadas en los procesos de tratamiento de agua son los coagulantes, definidos como aquellas que facilitan el aglutinamiento de partículas finas formando otras más grandes y pesadas, según el RAS en su título A (p. A.92) Algunas son sulfato de aluminio (Al2 (SO4)3) cloruro férrico (FeCl3) sulfato ferroso (FeSO4) sulfato férrico (Fe2 (SO4)3) y policloruro de aluminio (Comisión Estatal del Agua de Jalisco.  2013. p. 119)
@@ -466,18 +466,17 @@
       .col-lg-5
         .titulo-sexto.color-adicional-2.mb-5
           h5 Figura 2.
-          br
-          span #[i Cilindro de cloro gaseoso.]     
+          span Cilindro de cloro gaseoso. 
 
         figure
-          img(src='@/assets/curso/temas/tema2/img19.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img19.svg', alt='muestra foto de cilindro de cloro gaseoso')
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta-azul.p-4
         .row.justify-content-center.align-items-center
           .col-4.col-lg-2
             figure.mb-3
-              img(src='@/assets/curso/temas/tema2/img20.svg', alt='alt').img12-tm2
+              img(src='@/assets/curso/temas/tema2/img20.svg', alt='Imágen decorativa').img12-tm2
           
           .col-lg-10
             p.mb-0 #[b En la red de distribución] según el RAS (2010, título B), se utiliza cloro (Cl) o hipoclorito de sodio (NaClO) a una concentración de 50 p.p.m.#[b En los tanques de almacenamiento] se deben usar “compuestos clorados llenando el tanque con una concentración de 50 p.p.m. de cloro en el agua y una duración mínima de 24 horas de contacto” (RAS, 2000, título A, pp. 52-53).
@@ -637,47 +636,47 @@
       .col-lg-6
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema2/img21.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema2/img21.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta--gris
             .p-3
               h5 Coagulación con sulfato de aluminio (OPS/ CEPIS. 2002. p. 425)
               figure
-                img(src='@/assets/curso/temas/tema2/img21-1.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img21-1.svg', alt='Imágen decorativa')
 
       .col-lg-6
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema2/img22.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema2/img22.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta--gris
             .p-3
               h5 Coagulación con hipoclorito de sodio
               figure
-                img(src='@/assets/curso/temas/tema2/img22-1.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img22-1.svg', alt='Imágen decorativa')
 
       .col-lg-6
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema2/img23.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema2/img23.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta--gris
             .p-3
               h5 Coagulación con hipoclorito de calcio:
               figure
-                img(src='@/assets/curso/temas/tema2/img23-1.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img23-1.svg', alt='Imágen decorativa')
 
       .col-lg-6
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema2/img24.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema2/img24.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta--gris
             .p-3
               h5 Desinfección con cloro gaseoso
               figure
-                img(src='@/assets/curso/temas/tema2/img24-1.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img24-1.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-5
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img25.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img25.svg', alt='Imágen decorativa')
       
       .col-lg-7
         h4 ¿Y qué se necesita en el laboratorio y planta de tratamiento para efectuar estas reacciones?
@@ -717,11 +716,10 @@
       .col-lg-5
         .titulo-sexto.color-adicional-2.mb-5
           h5 Figura 3.
-          br
-          span #[i Dosificador coagulante en planta de tratamiento.]     
+          span Dosificador coagulante en planta de tratamiento.   
 
         figure
-          img(src='@/assets/curso/temas/tema2/img26.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img26.svg', alt='Muestra foto de un dosificador coagulante en planta de tratamiento')
 
     .row.mb-5
       p Los dosificadores según la  OPS y Cepis. (2002), pueden ser tanto volumétricos como gravimétricos con faja transportadora, por ejemplo, volumétricos de tornillo giratorio (Figura 4) o para desinfectantes como el cloro son de tipo gaseoso, los cuales pueden ser directos con regulación en la sodificación por rotámetro o de solución al vacío.
@@ -730,11 +728,10 @@
       .col-lg-5
         .titulo-sexto.color-adicional-2.mb-5
           h5 Figura 4.
-          br
-          span #[i Dosificador de tornillo giratorio.]     
+          span Dosificador de tornillo giratorio.   
 
         figure
-          img(src='@/assets/curso/temas/tema2/img27.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img27.svg', alt='Muestra, dosificador de tornillo giratorio y sus compontes: motor, tornillo giratorio, cámara de solución, tolva, sistema de alimentación, nivel de solución, mezclador.')
 
     separador
     #t_2_6.titulo-segundo.color-acento-botones
@@ -743,7 +740,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img28.svg', alt='alt').img28-tm2
+          img(src='@/assets/curso/temas/tema2/img28.svg', alt='Imágen decorativa').img28-tm2
 
       .col-lg-6
         .tarjeta.tarjeta-gris.p-3
@@ -762,7 +759,7 @@
         .row.justify-content-center.align-items-center
           .col-4.col-lg-2
             figure.mb-3
-              img(src='@/assets/curso/temas/tema2/img29.svg', alt='alt').img12-tm2
+              img(src='@/assets/curso/temas/tema2/img29.svg', alt='Imágen decorativa').img12-tm2
           
           .col-lg-10
             p.mb-0 La concentración de una solución, se define como la cantidad de soluto en una determinada cantidad de solvente. Estas pueden encontrarse en forma saturada, sobresaturadas, diluidas o concentradas. Las unidades físicas para expresar la concentración se definen a continuación: (Sánchez, J; Calderón Z y García M. s.f. pp. 70, 76, 77, 78)
@@ -770,7 +767,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
         figure.mb-3
-          img(src='@/assets/curso/temas/tema2/img30.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img30.svg', alt='Imágen decorativa')
       
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -778,28 +775,28 @@
             p Gramos de soluto en 100 gramos de solución.
             .col-lg-8
               figure
-                img(src='@/assets/curso/temas/tema2/img31.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img31.svg', alt='Imágen decorativa')
 
           .row(titulo="2. Porcentaje peso a peso (%p/v).")
             p Gramos de soluto en 100 mL de solución.
             .col-lg-8
               figure
-                img(src='@/assets/curso/temas/tema2/img33.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img33.svg', alt='Imágen decorativa')
 
           .row(titulo="3. Porcentaje volumen a volumen (%v/v).")
             p Volumen de soluto en 100 ml de solución.
             .col-lg-8
               figure
-                img(src='@/assets/curso/temas/tema2/img33.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img33.svg', alt='Imágen decorativa')
 
           .row(titulo="4. Partes por millón (ppm). ")
             p Se utiliza para expresar soluciones muy diluidas, como gramos de soluto en un millón de partes de solución. 
             .col-lg-8
               figure.mb-3
-                img(src='@/assets/curso/temas/tema2/img34.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img34.svg', alt='Imágen decorativa')
 
               figure
-                img(src='@/assets/curso/temas/tema2/img35.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img35.svg', alt='Imágen decorativa')
 
 
 </template>

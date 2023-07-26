@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-5(data-aos="fade-up-right")
         figure.mb-4
-          img(src='@/assets/curso/temas/tema1/img1.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img1.svg', alt='Imágen decorativa')
 
       .col-lg-7
         p A continuación, se conocerá el montaje de un ensayo de laboratorio conocido como titulación. Consiste en una bureta sujeta a un soporte universal, el cual va agregando una solución (a la cual se le pretende determinar la concentración) a un Erlenmeyer que tiene una sustancia estandarizada y un indicador colorimétrico. La práctica se desarrolla hasta que el indicador cambie de color.  
@@ -42,7 +42,7 @@
 
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema1/img2.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imágen decorativa')      
 
 
 </template>
