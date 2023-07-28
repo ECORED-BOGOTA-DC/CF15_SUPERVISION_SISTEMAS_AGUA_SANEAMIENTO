@@ -163,7 +163,7 @@
         .titulo-sexto.color-adicional-2.mb-4
           h5 Tabla 2 <i style="font-weight: 400">Clasificación de la dureza por CaCO3 en el agua, según OMS.</i>      
         .tabla-a.color-adicional-2
-          table
+          table(alt="Muestra concentración, tipo y codificación de la dureza por CaC03 en agua")
             thead
               tr.texto-blanco.color-tabla
                 th(style="width:40%") Concentración de CaCO3/mg/L
@@ -367,7 +367,7 @@
 
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema3/img22.svg', alt='Imágen decorativa')
+          img(src='@/assets/curso/temas/tema3/img22.svg', alt='Muestra eutrofización por lenteja de agua')
 
       .col-lg-8
         p Cuando se presenta exceso de nitritos y nitratos en el efluente del agua de la PTAP se debe hacer una revisión de las unidades de oxidación química, normalmente se utiliza ozono por la facilidad de aplicación, en ese caso se debe revisar que se esté produciendo la cantidad adecuada de reactivo. 
@@ -664,7 +664,7 @@
 
       .col-lg-4
         .tabla-a.color-adicional-2.mb-3
-          table
+          table(alt="Tabla con 2 columnas concentración y absorbancia acorde al mg/L de 0,1 hasta1")
             thead
               tr.texto-blanco.color-tabla
                 th(style="width:20%") Concentración (mg/L)
@@ -714,7 +714,7 @@
 
       .col-lg-8
         figure
-          img(src='@/assets/curso/temas/tema3/img39.svg', alt='Imágen decorativa')
+          img(src='@/assets/curso/temas/tema3/img39.svg', alt='Gráfico, de líneas que genera resultados de Absorbancia Vs Concentración')
 
 
     .row.mb-5

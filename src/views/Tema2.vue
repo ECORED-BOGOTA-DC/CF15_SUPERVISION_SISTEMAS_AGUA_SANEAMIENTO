@@ -37,7 +37,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         figure
-          img(src='@/assets/curso/temas/tema2/img3.svg', alt='Muestra Diagrama del  El análisis fisico-quimico y microbiológico del agua donde intervienes los siguientes actores: MSPS<br>Invima<br>Autorización de laboratorios<br>INS<br>Verificación<br>Análisis físico-químico y microbiológico del agua<br>RNL<br>Carácter<br>Público<br>Privado<br>Ofrecer sus servicios<br>Entes territoriales')
+          img(src='@/assets/curso/temas/tema2/img3.svg', alt='Muestra Diagrama de El análisis fisico-quimico y microbiológico del agua donde intervienes los siguientes actores: MSPS<br>Invima<br>Autorización de laboratorios<br>INS<br>Verificación<br>Análisis físico-químico y microbiológico del agua<br>RNL<br>Carácter<br>Público<br>Privado<br>Ofrecer sus servicios<br>Entes territoriales')
 
 
     separador
@@ -237,7 +237,7 @@
         .tarjeta.bgDescarga.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
+              img(src="@/assets/curso/temas/img-descarga.svg",alt="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -253,7 +253,7 @@
         .tarjeta.bgDescarga.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/img-descarga.svg")(title="Imágen decorativa")
+              img(src="@/assets/curso/temas/img-descarga.svg",alt="Imágen decorativa")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -488,7 +488,7 @@
           h5 Tabla 1 <i style="font-weight: 400">Sustancias químicas usadas en el tratamiento de agua</i>
 
         .tabla-a.color-adicional-2.mb-5
-          table
+          table(alt="Describe en cuatro columnas el nombre del compuesto, la fórmula, el nombre y el titulo (puereza)")
             thead
               tr.texto-blanco.color-tabla
                 th Nombre del compuesto
@@ -620,7 +620,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-botones.p-4
-          p.mb-0 En algunos casos cuando, el agua tiene características ácidas es necesario utilizar productos químicos alcalinizantes utilizados para efectos de corrección de pH, los más utilizados con este fin son la cal dolomita (CaO) carbonato de sodio (Na2CO3) silicato de sodio (Na₂SiO3) hidróxido de calcio (Ca(OH)₂) (OPS/ Cepis. 2002. p. 527) y soda cáustica (NaOH).
+          p.mb-0 En algunos casos, cuando el agua tiene características ácidas es necesario utilizar productos químicos alcalinizantes utilizados para efectos de corrección de pH, los más utilizados con este fin son la cal dolomita (CaO) carbonato de sodio (Na2CO3) silicato de sodio (Na₂SiO3) hidróxido de calcio (Ca(OH)₂) (OPS/ Cepis. 2002. p. 527) y soda cáustica (NaOH).
 
     .row.mb-5
       p Sin importar la sustancia que se agregue se debe tener en cuenta, que se llevan a cabo una serie de reacciones químicas que cumplen con relaciones estequiométricas, debido a que estas relaciones son constantes, es importante conocer la cantidad de producto químico que se utiliza y su concentración.

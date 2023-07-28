@@ -17,7 +17,7 @@
 
     separador
     #t_4_1.titulo-segundo.color-acento-botones
-       h2 4.1. Tipos de microorganismos
+       h2 4.1 Tipos de microorganismos
 
     p La microbiología hablando en sentido etimológico, viene del griego «μικρος» mikros "pequeño", «βιος» bios, "vida" y «-λογία» -logía, tratado, estudio, ciencia; se encarga del estudio de los microorganismos que solo son visibles a través del microscopio, sean estos eucariotas o procariotas (Acevedo, R; Severiche, C. y Castillo M. 2013. p. 7).
 
@@ -89,7 +89,7 @@
 
     separador
     #t_4_2.titulo-segundo.color-acento-botones
-       h2 4.2. Técnicas de esterilización de vidriería, ambiente y equipos de laboratorio microbiológico
+       h2 4.2 Técnicas de esterilización de vidriería, ambiente y equipos de laboratorio microbiológico
 
     p En el laboratorio para análisis microbiológico se conocen dos técnicas para la eliminación completa de microorganismos o control de su presencia: 
 
@@ -117,7 +117,7 @@
 
     separador
     #t_4_3.titulo-segundo.color-acento-botones
-       h2 4.3. Preparación de medios de cultivo para análisis microbiológico de aguas
+       h2 4.3 Preparación de medios de cultivo para análisis microbiológico de aguas
 
     .row.justify-content-center.align-items-center
       .col-lg-8.col-xs-12
@@ -153,7 +153,7 @@
 
     separador
     #t_4_4.titulo-segundo.color-acento-botones
-       h2 4.4  Técnicas y protocolos de análisis microbiológico de aguas
+       h2 4.4 Técnicas y protocolos de análisis microbiológico de aguas
 
     p Algunas de las técnicas más utilizadas en laboratorio para el análisis microbiológico del agua son la coloración simple de frotis y la siembra en medios de cultivo. Veamos la descripción de estas:
 

@@ -556,6 +556,45 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
+          nombre: 'Xiomara Becerra Aldana',
+          cargo: 'Instructora Ambiental',
+          centro: 'Centro de gestión industrial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Jesús Ricardo Arias Munevar',
+          cargo: 'Instructor Ambiental',
+          centro: 'Centro de gestión industrial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cardenas',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Centro de diseño y meteorología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sergio Arturo Medina Castillo',
+          cargo: 'Diseñador Instruccional',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Revisora Metodológica y Pedagógica',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sandra Patricia  Hoyos Sepúlveda',
+          cargo: 'Corrección de estilo',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
           nombre: 'Gloria Lida Alzáte Suarez',
           cargo: 'Adecuación instruccional - 2023',
           centro:

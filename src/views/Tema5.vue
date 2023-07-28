@@ -17,7 +17,7 @@
 
     separador
     #t_5_1.titulo-segundo.color-acento-botones
-       h2 5.1. Reglamento técnico del sector de agua potable y saneamiento básico
+       h2 5.1 Reglamento técnico del sector de agua potable y saneamiento básico
 
     p En Colombia, la Comisión de Regulación de Agua Potable y Saneamiento Básico- CRA amparada bajo los lineamientos de la ley 142 de 1994 solicitó en su momento al Ministerio de Desarrollo Económico (en la actualidad Ministerio de Vivienda, Ciudad y Territorio) expedir los lineamientos y demás requisitos técnicos para el diseño y operación de sistemas en la prestación de servicios de agua potable y saneamiento básico en el territorio nacional. Bajo tal requerimiento se expidió la Resolución 1096 de 2000 “por la cual se adopta el Reglamento Técnico para el Sector de Agua Potable y Saneamiento Básico –RAS” y los ajustes contemplados bajo la Resolución 330 de 2017. En relación con los parámetros para el suministro de agua para consumo humano, el título A (aspectos generales de los sistemas de agua potable y saneamiento básico) define aspectos importantes como:
 
@@ -84,7 +84,7 @@
 
     separador
     #t_5_2.titulo-segundo.color-acento-botones
-       h2 5.2. Normativa: calidad del agua para consumo humano
+       h2 5.2 Normativa: calidad del agua para consumo humano
 
     .row.justify-content-center.align-items-center.mb-5
       figure
@@ -108,7 +108,7 @@
 
     separador
     #t_5_3.titulo-segundo.color-acento-botones
-       h2 5.3. Indicadores de calidad del agua e interpretación de resultados
+       h2 5.3 Indicadores de calidad del agua e interpretación de resultados
 
     p El IRCA determina en el marco de la Resolución 2115 (2007) en su capítulo IV (artículos 14, 15 y 16) el puntaje de riesgo asociado a parámetros físico-químicos y microbiológicos de acuerdo con los análisis efectuados en las muestras de agua, que sobrepasen los valores máximos admitidos según la misma norma, otorgando un puntaje de 0 cuando cumple y 100 cuando no cumple ninguno de estos. 
 
