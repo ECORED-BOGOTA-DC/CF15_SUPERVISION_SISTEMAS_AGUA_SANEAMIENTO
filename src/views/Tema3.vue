@@ -45,8 +45,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
-        h5 Figura 5.
-        span Color aparente en muestra derivado de partículas en suspensión.
+        h5 Figura 5 <i style="font-weight: 400">Color aparente en muestra derivado de partículas en suspensión</i>
 
       .col-10.col-lg-4
         figure.mb-3
@@ -60,8 +59,7 @@
 
       .col-lg-4
         .titulo-sexto.color-adicional-2.mb-3
-          h5 Figura 6.
-          span Equipo para la determinación de color.
+          h5 Figura 6 <i style="font-weight: 400">Equipo para la determinación de color</i>
 
       .col-lg-8
         p La medición del color (Figura 6) se hace a través del método #[b platino-cobalto] establecido en el en método 2120C (APHA, AWWA & WEF, 2012) el principio de este método es que el color del agua se compara con una serie de patrones de color que produce 1 ppm de platino (en forma de cloroplatinato) con determinada cantidad de cobalto añadida. Los resultados se expresan como Unidades Platino Cobalto (UPC) actualmente para mayor precisión de los resultados estos son determinados a partir de longitudes de onda (Martínez, M y Osorio A, 2018).
@@ -137,8 +135,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
-        h5 Figura 7.
-        span Determinación de pH en planta de tratamiento.
+        h5 Figura 7 <i style="font-weight: 400">Determinación de pH en planta de tratamiento</i>
 
       .col-lg-4
         figure.mb-3
@@ -164,9 +161,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
         .titulo-sexto.color-adicional-2.mb-4
-          h5 Tabla 2.
-          br
-          span #[i Clasificación de la dureza por CaCO3 en el agua, según OMS.]      
+          h5 Tabla 2 <i style="font-weight: 400">Clasificación de la dureza por CaCO3 en el agua, según OMS.</i>      
         .tabla-a.color-adicional-2
           table
             thead
@@ -368,8 +363,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
-        h5 Figura 8.
-        span Eutrofización por lenteja de agua.
+        h5 Figura 8 <i style="font-weight: 400">Eutrofización por lenteja de agua</i>
 
       .col-lg-4
         figure
@@ -666,9 +660,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
-        h5 Tabla 3.
-        br
-        span #[i Concentración de acuerdo con la absorbancia.]
+        h5 Tabla 3 <i style="font-weight: 400">Concentración de acuerdo con la absorbancia.</i>
 
       .col-lg-4
         .tabla-a.color-adicional-2.mb-3

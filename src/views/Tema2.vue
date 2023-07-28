@@ -174,8 +174,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 1.
-          span Formato etiqueta.
+          h5 Figura 1 <i style="font-weight: 400">Formato etiqueta</i>
 
         figure
           img(src='@/assets/curso/temas/tema2/img10.svg', alt='Muestra tabla ejemplo de formato de etiqueta para reactivos preparados en laboratorio. Incluye nombre del producto, peligrosidad, instructor responsable, fecha preparación, fecha vencimietno')
@@ -465,8 +464,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 2.
-          span Cilindro de cloro gaseoso. 
+          h5 Figura 2 <i style="font-weight: 400">Cilindro de cloro gaseoso</i>
 
         figure
           img(src='@/assets/curso/temas/tema2/img19.svg', alt='muestra foto de cilindro de cloro gaseoso')
@@ -487,9 +485,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-10
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Tabla 1.
-          br
-          span #[i Sustancias químicas usadas en el tratamiento de agua.]
+          h5 Tabla 1 <i style="font-weight: 400">Sustancias químicas usadas en el tratamiento de agua</i>
 
         .tabla-a.color-adicional-2.mb-5
           table
@@ -715,8 +711,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 3.
-          span Dosificador coagulante en planta de tratamiento.   
+          h5 Figura 3 <i style="font-weight: 400">Dosificador coagulante en planta de tratamiento</i> 
 
         figure
           img(src='@/assets/curso/temas/tema2/img26.svg', alt='Muestra foto de un dosificador coagulante en planta de tratamiento')
@@ -727,8 +722,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 4.
-          span Dosificador de tornillo giratorio.   
+          h5 Figura 4 <i style="font-weight: 400">Dosificador de tornillo giratorio</i>   
 
         figure
           img(src='@/assets/curso/temas/tema2/img27.svg', alt='Muestra, dosificador de tornillo giratorio y sus compontes: motor, tornillo giratorio, cámara de solución, tolva, sistema de alimentación, nivel de solución, mezclador.')
