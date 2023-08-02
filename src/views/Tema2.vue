@@ -23,16 +23,8 @@
               img(src='@/assets/curso/temas/tema2/img2.svg', alt='Imágen decorativa').img2-tm2
           
           .col-lg-7
-            p Bajo el entendido que el Ministerio de Salud y Protección Social (MSPS), autoriza a los laboratorios que han cumplido los estándares definidos por el Instituto Nacional de Salud (INS), en coordinación con el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima). Una vez se realiza la verificación para el desarrollo de actividades relacionadas con el análisis físico-químico y microbiológico del agua, se incorpora a la Red Nacional de Laboratorios (RNL) Dichos laboratorios pueden ser de carácter privado o público; por ejemplo, los laboratorios pueden ser de propiedad de las empresas prestadoras de servicios públicos o contratados por estas para el análisis de sus muestras y así ofrecer sus servicios a los entes territoriales. 
+            p.my-5 Bajo el entendido que el Ministerio de Salud y Protección Social (MSPS), autoriza a los laboratorios que han cumplido los estándares definidos por el Instituto Nacional de Salud (INS), en coordinación con el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima). Una vez se realiza la verificación para el desarrollo de actividades relacionadas con el análisis físico-químico y microbiológico del agua, se incorpora a la Red Nacional de Laboratorios (RNL) Dichos laboratorios pueden ser de carácter privado o público; por ejemplo, los laboratorios pueden ser de propiedad de las empresas prestadoras de servicios públicos o contratados por estas para el análisis de sus muestras y así ofrecer sus servicios a los entes territoriales. 
 
-            .row.justify-content-center
-              .col-lg-7
-              .col-10.col-lg-5
-                TarjetaAudio.color-acento-botones.mb-3(
-                  texto=""
-                  :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
-                  @audio-hover="mostrarIndicadorTarjetaAudio = false"
-                )
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -174,7 +166,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 1 <i style="font-weight: 400">Formato etiqueta</i>
+          h5 Figura 1 
+          span Formato etiqueta
 
         figure
           img(src='@/assets/curso/temas/tema2/img10.svg', alt='Muestra tabla ejemplo de formato de etiqueta para reactivos preparados en laboratorio. Incluye nombre del producto, peligrosidad, instructor responsable, fecha preparación, fecha vencimietno')
@@ -464,7 +457,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 2 <i style="font-weight: 400">Cilindro de cloro gaseoso</i>
+          h5 Figura 2 
+          span Cilindro de cloro gaseoso
 
         figure
           img(src='@/assets/curso/temas/tema2/img19.svg', alt='muestra foto de cilindro de cloro gaseoso')
@@ -485,7 +479,8 @@
     .row.justify-content-center.align-items-center
       .col-lg-10
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Tabla 1 <i style="font-weight: 400">Sustancias químicas usadas en el tratamiento de agua</i>
+          h5 Tabla 1 
+          span Sustancias químicas usadas en el tratamiento de agua
 
         .tabla-a.color-adicional-2.mb-5
           table(alt="Describe en cuatro columnas el nombre del compuesto, la fórmula, el nombre y el titulo (puereza)")
@@ -709,9 +704,10 @@
       p Una vez se determina la dosis óptima, en las plantas de tratamiento, la dosificación del coagulante puede ser por vía húmeda o por vía seca en los dosificadores (Figura 3)
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-6
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 3 <i style="font-weight: 400">Dosificador coagulante en planta de tratamiento</i> 
+          h5 Figura 3
+          span Dosificador coagulante en planta de tratamiento
 
         figure
           img(src='@/assets/curso/temas/tema2/img26.svg', alt='Muestra foto de un dosificador coagulante en planta de tratamiento')
@@ -722,7 +718,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 4 <i style="font-weight: 400">Dosificador de tornillo giratorio</i>   
+          h5 Figura 4 
+          span Dosificador de tornillo giratorio 
 
         figure
           img(src='@/assets/curso/temas/tema2/img27.svg', alt='Muestra, dosificador de tornillo giratorio y sus compontes: motor, tornillo giratorio, cámara de solución, tolva, sistema de alimentación, nivel de solución, mezclador.')

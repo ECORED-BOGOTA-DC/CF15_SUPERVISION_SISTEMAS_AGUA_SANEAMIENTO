@@ -134,7 +134,8 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6.col-xs-10
         .titulo-sexto.color-adicional-2.mb-3
-          h5 Figura 9 <i style="font-weight: 400">Division análisis microbiológico</i>
+          h5 Figura 9
+          span Division análisis microbiológico
 
         figure
           img(src='@/assets/curso/temas/tema4/img13.svg', alt='Diagrama división análisis microbiológico, muestra Medios de cultivo que son los Sintéticos y complejos y se encuentran según finalidad,  con Enriquecidos, Selectivos, Diferenciales Selectivos-diferenciales y Electivos')
@@ -147,7 +148,8 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .titulo-sexto.color-adicional-2.mb-3
-        h5 Figura 10 <i style="font-weight: 400">Siembra cerca al merchero</i>
+        h5 Figura 10 
+        span Siembra cerca al merchero
       figure
         img(src='@/assets/curso/temas/tema4/img14.svg', alt='Muestra pasos en la siembra cerca al mechero, inicia Flamear el asa, retirar el tapón, introducir parte estéril, volver a flamear y tapar el tubo.')
 
