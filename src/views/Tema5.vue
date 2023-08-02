@@ -148,7 +148,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .titulo-sexto.color-adicional-2.mb-3
-        h5 Tabla 4
+        h5 Tabla 4.
         span Clasificación IRCA.
 
       .tabla-a.color-adicional-2 

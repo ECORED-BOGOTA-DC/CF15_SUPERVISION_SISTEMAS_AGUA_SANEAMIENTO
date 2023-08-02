@@ -45,7 +45,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
-        h5 Figura 5
+        h5 Figura 5.
         span Color aparente en muestra derivado de partículas en suspensión
 
       .col-10.col-lg-4
@@ -60,7 +60,7 @@
 
       .col-lg-4
         .titulo-sexto.color-adicional-2.mb-3
-          h5 Figura 6
+          h5 Figura 6.
           span Equipo para la determinación de color
 
       .col-lg-8
@@ -137,7 +137,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
-        h5 Figura 7
+        h5 Figura 7.
         span Determinación de pH en planta de tratamiento
 
       .col-lg-4
@@ -164,7 +164,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
         .titulo-sexto.color-adicional-2.mb-4
-          h5 Tabla 2 
+          h5 Tabla 2.
           span Clasificación de la dureza por CaCO3 en el agua, según OMS.
 
         .tabla-a.color-adicional-2
@@ -368,7 +368,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
-        h5 Figura 8
+        h5 Figura 8.
         span Eutrofización por lenteja de agua
 
       .col-lg-4
@@ -666,7 +666,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
-        h5 Tabla 3
+        h5 Tabla 3.
         spam Concentración de acuerdo con la absorbancia.
 
       .col-lg-4

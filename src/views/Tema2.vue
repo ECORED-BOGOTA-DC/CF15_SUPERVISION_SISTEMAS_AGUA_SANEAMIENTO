@@ -166,7 +166,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 1 
+          h5 Figura 1.
           span Formato etiqueta
 
         figure
@@ -457,7 +457,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 2 
+          h5 Figura 2.
           span Cilindro de cloro gaseoso
 
         figure
@@ -479,7 +479,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-10
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Tabla 1 
+          h5 Tabla 1.
           span Sustancias químicas usadas en el tratamiento de agua
 
         .tabla-a.color-adicional-2.mb-5
@@ -706,7 +706,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 3
+          h5 Figura 3.
           span Dosificador coagulante en planta de tratamiento
 
         figure
@@ -718,7 +718,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         .titulo-sexto.color-adicional-2.mb-5
-          h5 Figura 4 
+          h5 Figura 4.
           span Dosificador de tornillo giratorio 
 
         figure
