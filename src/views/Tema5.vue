@@ -60,7 +60,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | Caracterización y tratabilidad del agua cruda (ejemplo: determinación in situ de temperatura, pH y conductividad y en laboratorio, dureza, alcalinidad, nitratos, cloruros, color, pH, turbiedad, entre otros) (pp. 61- 62).
+            p.mb-0 Caracterización y tratabilidad del agua cruda (ejemplo: determinación <i>in situ</i> de temperatura, pH y conductividad y en laboratorio, dureza, alcalinidad, nitratos, cloruros, color, pH, turbiedad, entre otros) (pp. 61- 62).
 
           li 
             .lista-ol--cuadro__vineta
@@ -115,7 +115,7 @@
     p Los puntajes de riesgo más altos están establecidos cuantitativamente así:
 
     .row.justify-content-center.align-items-center
-      .col-lg-6.col-xs-10
+      .col-lg-8.col-xs-10
         figure
           img(src='@/assets/curso/temas/tema5/img6.svg', alt='Imagen muestra 2 columnas con puntajes de riesgo en calidad de agua:<br>Escherichia Coli 100 puntos<br>Coliformes Totales 15 puntos<br>Color Aparente  6 puntos<br>COT, Aluminio (Al3+), Nitritos) 3 puntos<br>pH, Hierro Total 1.5 puntos')
 

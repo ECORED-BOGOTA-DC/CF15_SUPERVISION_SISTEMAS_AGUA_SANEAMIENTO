@@ -88,7 +88,7 @@
           li 
             .lista-ol--cuadro__vineta.color-vineta2
               span 5
-            | Hojas de vida caracterización de los equipos e historial de mantenimiento.
+            | Hojas de vida, caracterización de los equipos e historial de mantenimiento.
           li 
             .lista-ol--cuadro__vineta.color-vineta2
               span 6
@@ -104,7 +104,7 @@
           img(src='@/assets/curso/temas/tema2/img6.svg', alt='Imágen decorativa')      
 
       .col-lg-7
-        p Es importante considerar normas de calidad en los laboratorios debido a que aquí se obtienen datos de variables ambientales en suelo, agua, aire, entre otras; los cuales permitirán la toma de decisiones a las personas naturales, jurídicas, instituciones y entes territoriales. En Colombia el Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam) es el ente encargado de la acreditación de los laboratorios que realizan muestreos y análisis ambientales. Esto en el marco de la Norma Técnica Colombiana (NTC) 17025 (2005), que establece los requisitos generales relativos a la competencia de los laboratorios de ensayo y calibración.
+        p Es importante considerar normas de calidad en los laboratorios debido a que aquí se obtienen datos de variables ambientales en suelo, agua, aire, entre otras; los cuales permitirán la toma de decisiones a las personas naturales, jurídicas, instituciones y entes territoriales. En Colombia, el Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam) es el ente encargado de la acreditación de los laboratorios que realizan muestreos y análisis ambientales. Esto en el marco de la Norma Técnica Colombiana (NTC) 17025 (2005), que establece los requisitos generales relativos a la competencia de los laboratorios de ensayo y calibración.
 
 
     separador
@@ -143,7 +143,7 @@
       .col-lg-8
         p Las buenas prácticas de laboratorio están definidas como pasos, procedimientos y prácticas establecidas por organismos como la #[i Food and Drug Administration] (FDA) las cuales permiten garantizar calidad analítica e integridad en datos obtenidos (INS, 2011, p. 20) junto con el manejo adecuado de las sustancias químicas utilizadas en dichos ensayos o procedimientos.
 
-        p En Colombia, el marco normativo por el cual se adopta el Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos (SGA) y se dictan otras disposiciones en materia de seguridad química, es el Decreto 1496, (2018). Dicho sistema unifica criterios para la clasificación y etiquetado de productos químicos y sus respectivos peligros tanto físicos, para la salud y para el medio ambiente. Las herramientas del SGA son fichas de seguridad y etiquetas donde es posible identificar los pictogramas y tener información para actuar en un momento de contingencia o emergencia. Por ello siempre deben ser consultadas tanto las fichas como las hojas de seguridad del producto.
+        p En Colombia, el marco normativo por el cual se adopta el Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos (SGA) y se dictan otras disposiciones en materia de seguridad química, es el Decreto 1496, (2018). Dicho sistema unifica criterios para la clasificación y etiquetado de productos químicos y sus respectivos peligros, tanto físicos, para la salud y para el medio ambiente. Las herramientas del SGA son fichas de seguridad y etiquetas donde es posible identificar los pictogramas y tener información para actuar en un momento de contingencia o emergencia. Por ello siempre deben ser consultadas tanto las fichas como las hojas de seguridad del producto.
 
       .col-10.col-lg-4
         figure.mb-3
@@ -173,7 +173,7 @@
           img(src='@/assets/curso/temas/tema2/img10.svg', alt='Muestra tabla ejemplo de formato de etiqueta para reactivos preparados en laboratorio. Incluye nombre del producto, peligrosidad, instructor responsable, fecha preparación, fecha vencimietno')
 
     .row.mb-5
-      p En este caso la etiqueta se usa en forma de rótulo, el cual debe estar en el recipiente que sea plenamente identificado y que garantice que el uso de este no afectará la legibilidad. Al iniciar la preparación de sustancias en un laboratorio, siempre se debe etiquetar las soluciones creadas, al igual que guardar registros de lo realizado. 
+      p En este caso, la etiqueta se usa en forma de rótulo, el cual debe estar en el recipiente que sea plenamente identificado y que garantice que el uso de este no afectará la legibilidad. Al iniciar la preparación de sustancias en un laboratorio, siempre se debe etiquetar las soluciones creadas, al igual que guardar registros de lo realizado. 
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-down")
       .col-lg-10
@@ -280,12 +280,12 @@
           iframe(width="560" height="315" src="https://www.youtube.com/embed/lj_kOsU0EuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mb-5
-      p De acuerdo con la resolución 2115 (2007), en su artículo 18 la dotación mínima de un laboratorio en una planta de tratamiento deberá contar con los equipos y reactivos con el fin de realizar ensayos de jarras, demanda de cloro, y medición de parámetros de pH, color y turbiedad. 
+      p De acuerdo con la resolución 2115 (2007), en su artículo 18, la dotación mínima de un laboratorio en una planta de tratamiento deberá contar con los equipos y reactivos con el fin de realizar ensayos de jarras, demanda de cloro, y medición de parámetros de pH, color y turbiedad. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-acento-botones.p-4
-          p.mb-0 Las consideraciones frente a los equipos que se deben tener en las plantas de tratamiento las cuales pueden variar en relación con el nivel de complejidad y capacidad financiera son de acuerdo con la Organización Panamericana de la Salud (OPS) y Centro Panamericano de Ingeniería Sanitaria y Ciencias del Ambiente (Cepis) (2002).
+          p.mb-0 Las consideraciones frente a los equipos que se deben tener en las plantas de tratamiento, las cuales pueden variar en relación con el nivel de complejidad y capacidad financiera son de acuerdo con la Organización Panamericana de la Salud (OPS) y Centro Panamericano de Ingeniería Sanitaria y Ciencias del Ambiente (Cepis) (2002).
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-7
@@ -450,9 +450,9 @@
           img(src='@/assets/curso/temas/tema2/img18.svg', alt='Imágen decorativa')      
 
       .col-lg-8
-        p Las sustancias químicas más comunes, utilizadas en los procesos de tratamiento de agua son los coagulantes, definidos como aquellas que facilitan el aglutinamiento de partículas finas formando otras más grandes y pesadas, según el RAS en su título A (p. A.92) Algunas son sulfato de aluminio (Al2 (SO4)3) cloruro férrico (FeCl3) sulfato ferroso (FeSO4) sulfato férrico (Fe2 (SO4)3) y policloruro de aluminio (Comisión Estatal del Agua de Jalisco.  2013. p. 119)
+        p Las sustancias químicas más comunes, utilizadas en los procesos de tratamiento de agua, son los coagulantes, definidos como aquellas que facilitan el aglutinamiento de partículas finas formando otras más grandes y pesadas, según el RAS en su título A (p. A.92) Algunas son sulfato de aluminio (Al2 (SO4)3) cloruro férrico (FeCl3) sulfato ferroso (FeSO4) sulfato férrico (Fe2 (SO4)3) y policloruro de aluminio (Comisión Estatal del Agua de Jalisco.  2013. p. 119)
 
-        p De acuerdo con la OPS y el Cepis (2002), una vez el agua está en las últimas etapas de la PTAP se le suele agregar otro tipo de sustancias químicas para lograr su potabilización, en este caso se utilizan desinfectantes que son sustancias capaces de destruir microorganismos. Los más utilizados son cloro gaseoso (Figura 2) envasado en cilindros de acero al 99%, hipoclorito de sodio (NaClO) en solución o liquido al 10%, hipoclorito de calcio (Ca (ClO)2) granulado o en polvo al 70% y cloruro de calcio (CaCl2) al 25%.
+        p De acuerdo con la OPS y el Cepis (2002), una vez el agua está en las últimas etapas de la PTAP se le suele agregar otro tipo de sustancias químicas para lograr su potabilización, en este caso se utilizan desinfectantes que son sustancias capaces de destruir microorganismos. Los más utilizados son cloro gaseoso (Figura 2) envasado en cilindros de acero al 99%, hipoclorito de sodio (NaClO) en solución o líquido al 10%, hipoclorito de calcio (Ca (ClO)2) granulado o en polvo al 70% y cloruro de calcio (CaCl2) al 25%.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
@@ -471,7 +471,7 @@
               img(src='@/assets/curso/temas/tema2/img20.svg', alt='Imágen decorativa').img12-tm2
           
           .col-lg-10
-            p.mb-0 #[b En la red de distribución] según el RAS (2010, título B), se utiliza cloro (Cl) o hipoclorito de sodio (NaClO) a una concentración de 50 p.p.m.#[b En los tanques de almacenamiento] se deben usar “compuestos clorados llenando el tanque con una concentración de 50 p.p.m. de cloro en el agua y una duración mínima de 24 horas de contacto” (RAS, 2000, título A, pp. 52-53).
+            p.mb-0 #[b En la red de distribución] según el RAS (2010, título B), se utiliza cloro (Cl) o hipoclorito de sodio (NaClO) a una concentración de 50 p.p.m. #[b En los tanques de almacenamiento] se deben usar “compuestos clorados llenando el tanque con una concentración de 50 p.p.m. de cloro en el agua y una duración mínima de 24 horas de contacto” (RAS, 2000, título A, pp. 52-53).
 
     .row.mb-5
       p Otros productos químicos y sus nombres comerciales se relacionan en la tabla a continuación: 
@@ -650,7 +650,7 @@
             img(src='@/assets/curso/temas/tema2/img23.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta--gris
             .p-3
-              h5 Coagulación con hipoclorito de calcio:
+              h5 Coagulación con hipoclorito de calcio
               figure
                 img(src='@/assets/curso/temas/tema2/img23-1.svg', alt='Imágen decorativa')
 
@@ -738,7 +738,7 @@
           p.mb-0 Cuando se habla de estandarización de soluciones se hace referencia al proceso mediante el cual se conoce exactamente la concentración de una sustancia. Debido a que, al adicionar productos químicos en el tratamiento de las aguas, se generan reacciones químicas con una estequiometría definida, se hace necesario conocer esta concentración para definir la cantidad de producto a utilizar y no tener al final del proceso parámetros por encima de los límites máximos permisibles por falta de productos químicos, pero tampoco generar sobre costos por excesos de estos.
 
     .row.mb-5
-      p La preparación de las soluciones va a influir dentro de los resultados obtenidos en el procesamiento de las muestras, así como en el uso de la PTAP, por lo cual se recomienda pesaje de la disolución antes y después del uso dado, debido a que, por efectos de la volatilización la concentración de esta puede ser mayor, sobre todo cuando se trata de sustancias de tipo orgánico. Adicionalmente se recomienda sustancias preservantes que permitan la conservación de la disolución en caso de que se requiera y el uso de material volumétrico debidamente aforado (INS, 2011).
+      p La preparación de las soluciones va a influir dentro de los resultados obtenidos en el procesamiento de las muestras, así como en el uso de la PTAP, por lo cual se recomienda pesaje de la disolución antes y después del uso dado, debido a que, por efectos de la volatilización la concentración de esta puede ser mayor, sobre todo cuando se trata de sustancias de tipo orgánico. Adicionalmente,z se recomienda sustancias preservantes que permitan la conservación de la disolución en caso de que se requiera y el uso de material volumétrico debidamente aforado (INS, 2011).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -772,7 +772,7 @@
             p Gramos de soluto en 100 mL de solución.
             .col-lg-8
               figure
-                img(src='@/assets/curso/temas/tema2/img33.svg', alt='Imágen decorativa')
+                img(src='@/assets/curso/temas/tema2/img32.svg', alt='Imágen decorativa')
 
           .row(titulo="3. Porcentaje volumen a volumen (%v/v).")
             p Volumen de soluto en 100 ml de solución.

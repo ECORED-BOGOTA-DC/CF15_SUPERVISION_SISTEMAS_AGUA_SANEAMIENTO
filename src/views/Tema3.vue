@@ -41,7 +41,7 @@
       h4.text-white.mt-2 Color
 
     .row.mb-5
-      p Relacionado con la presencia de materia orgánica principalmente de restos vegetales, así como taninos, algas y minerales (Deloya, A, 2006, p. 33) debido a esto cuando el límite máximo permisible se supera en el efluente de la PTAP se debe hacer la misma inspección que se mencionó en la turbidez a través de las diferentes etapas del tratamiento.
+      p Relacionado con la presencia de materia orgánica, principalmente de restos vegetales, así como taninos, algas y minerales (Deloya, A, 2006, p. 33) debido a esto, cuando el límite máximo permisible se supera en el efluente de la PTAP se debe hacer la misma inspección que se mencionó en la turbidez a través de las diferentes etapas del tratamiento.
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
@@ -130,10 +130,10 @@
       
       .col-lg-11
         .tarjeta.bgtarjeta.p-4
-          p El pH determina la medida de acidez o alcalinidad de una solución o sustancia a través de una escala numérica que va de 0 a 14 y su medición se realiza a través del pH metro (Figura 7) preferiblemente in situ. Un pH inferior a 7 es considerado ácido, mayor a 7 alcalino y neutros en la medida en que se acerque a 7.
+          p El pH determina la medida de acidez o alcalinidad de una solución o sustancia a través de una escala numérica que va de 0 a 14 y su medición se realiza a través del pH metro (Figura 7) preferiblemente <i>in situ.</i> Un pH inferior a 7 es considerado ácido, mayor a 7 alcalino y neutros en la medida en que se acerque a 7.
 
     .row.mb-5
-      p De acuerdo con la resolución 2115 (2007) en el artículo 4 para el consumo de agua potable el potencial de hidrógeno (pH) debe estar en un rango de 6.5 a 9, es decir cercano a la neutralidad. Las condiciones de pH en cierta medida favorecen la formación del floc (producto líquido de alto peso molecular con efecto coagulante y floculante de sólidos en suspensión) en el agua para los procesos de tratamiento posteriores. En caso de que sea necesario, se pueden adelantar acciones que permitan la corrección del pH, con algunos auxiliares de coagulación.  
+      p De acuerdo con la resolución 2115 (2007) en el artículo 4 para el consumo de agua potable, el potencial de hidrógeno (pH) debe estar en un rango de 6.5 a 9, es decir, cercano a la neutralidad. Las condiciones de pH en cierta medida favorecen la formación del floc (producto líquido de alto peso molecular con efecto coagulante y floculante de sólidos en suspensión) en el agua para los procesos de tratamiento posteriores. En caso de que sea necesario, se pueden adelantar acciones que permitan la corrección del pH, con algunos auxiliares de coagulación.  
 
     .row.justify-content-center.align-items-center.mb-5
       .titulo-sexto.color-adicional-2.mb-4
@@ -148,7 +148,7 @@
         p Cuando el pH no está dentro del límite máximo permisible luego de tener un tratamiento se debe hacer una revisión del tanque de igualación para ajustar bien sea con sustancias ácidas o con sustancias básicas de acuerdo con el pH inicial. 
 
         .cajon.color-acento-botones.p-4
-          p.mb-0 En algunos casos cuando se hacen procesos de coagulación es necesario hacer dos ajustes de pH, uno antes para alcanzar las condiciones óptimas de coagulación para después alcanzar los niveles de pH establecidos en la resolución 2115 (2007).
+          p.mb-0 En algunos casos, cuando se hacen procesos de coagulación es necesario hacer dos ajustes de pH, uno antes para alcanzar las condiciones óptimas de coagulación para después alcanzar los niveles de pH establecidos en la resolución 2115 (2007).
 
     .row.bg2-tema3.align-items-center.mb-5(data-aos="fade-right")
       h4.text-white.mt-2 Alcalinidad
@@ -242,7 +242,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-acento-botones.p-4
-          p.mb-0 Cuando el agua afluente tiene concentración por encima del límite máximo permisible de hierro y manganeso se suele utilizar filtros de arena para disminuir dichos parámetros.
+          p.mb-0 Cuando el agua afluente tiene concentración por encima del límite máximo permisible de hierro y manganeso, se suele utilizar filtros de arena para disminuir dichos parámetros.
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta-azul.p-4
@@ -286,9 +286,9 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p Hace referencia al contenido de materia orgánica que puede ser degradada por los microorganismos presentes en la muestra de agua en un lapso de 5 días con una incubación a 20°C de temperatura, periodo en el cual habrá una variación en el contenido de oxígeno disuelto, por lo que el resultado final se expresa en mgO2/L (Comisión Estatal del Agua de Jalisco (CEA , 2013). 
+        p Hace referencia al contenido de materia orgánica que puede ser degradada por los microorganismos presentes en la muestra de agua en un lapso de 5 días con una incubación a 20° C de temperatura, periodo en el cual habrá una variación en el contenido de oxígeno disuelto, por lo que el resultado final se expresa en mgO2/L (Comisión Estatal del Agua de Jalisco (CEA , 2013)). 
 
-        p Cuando la DBO5 no disminuye a pesar de los tratamientos en la PTAP se deben revisar los procesos microbiológicos que esta pueda tener, lodos activados, humedales artificiales, biodiscos o cualquier otro. Inicialmente se debe revisar que los tiempos de retención se cumplan, en caso de que se cumplan los tiempos, pero la DBO no disminuya. Se debe revisar que los agentes biológicos se encuentren en las concentraciones óptimas para los procesos de degradación de materia orgánica. 
+        p Cuando la DBO5 no disminuye a pesar de los tratamientos en la PTAP se deben revisar los procesos microbiológicos que esta pueda tener, lodos activados, humedales artificiales, biodiscos o cualquier otro. Inicialmente, se debe revisar que los tiempos de retención se cumplan, en caso de que se cumplan los tiempos, pero la DBO no disminuya. Se debe revisar que los agentes biológicos se encuentren en las concentraciones óptimas para los procesos de degradación de materia orgánica. 
 
       .col-lg-4
         figure
@@ -870,7 +870,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img45.svg')})`}"
         )(title="Imágen decorativa")
         .bloque-texto-g1__texto.p-4
-          p.mb-0 El color aparente está relacionado con las partículas en suspensión de una muestra sin filtración o centrifugación. El método de determinación es <b style= "color:#3076B6;">platino-cobalto,</b> el cual toma como unidad de color la producida por un miligramo de platino en un litro de agua como ion #[b cloro platinato.] Se aconseja una determinación de este parámetro in situ, de lo contrario, se debe recolectar la muestra en un #[b envase ámbar y refrigerado a 4 °C] (INS, 2011. pp. 69-71).
+          p.mb-0 El color aparente está relacionado con las partículas en suspensión de una muestra sin filtración o centrifugación. El método de determinación es <b style= "color:#3076B6;">platino-cobalto,</b> el cual toma como unidad de color la producida por un miligramo de platino en un litro de agua como ion #[b cloro platinato.] Se aconseja una determinación de este parámetro <i>in situ</i>, de lo contrario, se debe recolectar la muestra en un #[b envase ámbar y refrigerado a 4 °C] (INS, 2011. pp. 69-71).
 
     .row.mb-5
       p Las muestras también son procesadas y analizadas a partir de un análisis colorimétrico. Existen celdas de cuarzo, poliméricas o de vidrio, las cuales no pueden usarse de manera indistinta. El buen estado de estas permite una lectura correcta (INS, 2011. p. 30) por lo cual se recomienda descartar si están rayadas.

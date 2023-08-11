@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-botones
-          h2 Conocimientos de refuerzo
+          h2 Análisis e interpretación de muestras
         p.mb-4 Identificar los conocimientos adquiridos a través del análisis e interpretación de muestras de agua para realizar un análisis en la ausencia o presencia de microorganismos o sustancias químicas presentes en ella.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
