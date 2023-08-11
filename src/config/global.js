@@ -221,7 +221,7 @@ export default {
     {
       tema: 'Análisis físico químico',
       referencia:
-        'Ideam (2006). Conductividad eléctrica por el método electrométrico en aguas.',
+        'IDEAM (2006). Conductividad eléctrica por el método electrométrico en aguas.',
       tipo: 'Ensayo laboratorio',
       link:
         'http://www.ideam.gov.co/documents/14691/38155/Conductividad+El%C3%A9ctrica.pdf/f25e2275-39b2-4381-8a35-97c23d7e8af4',
@@ -229,7 +229,7 @@ export default {
     {
       tema: 'Análisis físico químico',
       referencia:
-        'Ideam. (2007). Turbiedad por nefelometría en el equipo turbiquant 3000 T.',
+        'IDEAM. (2007). Turbiedad por nefelometría en el equipo turbiquant 3000 T.',
       tipo: 'Ensayo laboratorio',
       link:
         'http://www.ideam.gov.co/documents/14691/38155/Turbiedad+por+Nefelometr%C3%ADa..pdf/fc92342e-8bba-4098-9310-56461c6a6dbc',
@@ -237,7 +237,7 @@ export default {
     {
       tema: 'Análisis físico químico',
       referencia:
-        'Ideam. (2007). Sulfatos en agua por el método nefelométrico.',
+        'IDEAM. (2007). Sulfatos en agua por el método nefelométrico.',
       tipo: 'Ensayo laboratorio',
       link:
         'http://www.ideam.gov.co/documents/14691/38155/Sulfato+en+agua+por+Nefelometr%C3%ADa.pdf/f65867a2-079f-420c-9067-b1c4c3139e89',
@@ -245,15 +245,14 @@ export default {
     {
       tema: 'Protocolo de laboratorio',
       referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2018). Rótulo de reactivos.',
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2018). Rótulo de reactivos.',
       tipo: 'Documento',
-      link:
-        'https://drive.google.com/file/d/12O67cTVrygyM8RtXHImN0rIsI6qV7zuQ/view?usp=sharing',
+      link: 'https://acortar.link/25ykCE',
     },
     {
       tema: 'Protocolo de laboratorio',
       referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2006).  Estandarización de métodos analíticos.',
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2006).  Estandarización de métodos analíticos.',
       tipo: 'Documento',
       link:
         'http://www.ideam.gov.co/documents/14691/38152/Estandarizacion_metodos_analaticos.pdf/934bd941-dd47-4501-8507-d2721ef4f316',
@@ -261,7 +260,7 @@ export default {
     {
       tema: 'Protocolo de laboratorio',
       referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2018). Control de preparación de soluciones.',
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2018). Control de preparación de soluciones.',
       tipo: 'Documento',
       link:
         'https://drive.google.com/file/d/14BdfuIj99zq5gZL_BJ9kGi6vXszS2ao9/view?usp=sharing',
@@ -269,7 +268,7 @@ export default {
     {
       tema: 'Protocolo de laboratorio',
       referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2018). Formato captura de datos en campo para agua superficial para aforo y toma de muestras de agua residual industrial.',
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2018). Formato captura de datos en campo para agua superficial para aforo y toma de muestras de agua residual industrial.',
       tipo: 'Documento',
       link:
         'http://www.ideam.gov.co/web/agua/protocolos-procedimientos-y-metodologias',
@@ -396,37 +395,37 @@ export default {
     },
     {
       referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2006). Conductividad eléctrica por el método electrométrico en aguas.',
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2006). Conductividad eléctrica por el método electrométrico en aguas.',
       link: '',
     },
     {
       referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2018). Control de preparación de soluciones.',
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2018). Control de preparación de soluciones.',
       link: '',
     },
     {
       referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2004). Determinación de oxígeno disuelto por el método yodométrico modificación de azida.',
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2004). Determinación de oxígeno disuelto por el método yodométrico modificación de azida.',
       link: '',
     },
     {
       referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2007). Dureza Total en Agua con EDTA por Volumetría.   ',
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2007). Dureza Total en Agua con EDTA por Volumetría.   ',
       link: '',
     },
     {
       referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2006).  Estandarización de métodos analíticos.',
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2006).  Estandarización de métodos analíticos.',
       link: '',
     },
     {
       referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). (2018). Formato captura de datos en campo para agua superficial para aforo y toma de muestras de agua residual industrial.',
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2018). Formato captura de datos en campo para agua superficial para aforo y toma de muestras de agua residual industrial.',
       link: '',
     },
     {
       referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam). 2018. Instructivo de ensayo. Determinación de turbidez por nefelometría. SM 2130B.   ',
+        'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). 2018. Instructivo de ensayo. Determinación de turbidez por nefelometría. SM 2130B.   ',
       link: '',
     },
     {
