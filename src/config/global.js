@@ -270,8 +270,7 @@ export default {
       referencia:
         'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2018). Formato captura de datos en campo para agua superficial para aforo y toma de muestras de agua residual industrial.',
       tipo: 'Documento',
-      link:
-        'http://www.ideam.gov.co/web/agua/protocolos-procedimientos-y-metodologias',
+      link: 'https://acortar.link/WPQyqZ',
     },
     {
       tema: 'Análisis físico químico',

@@ -112,10 +112,10 @@
 
     p El IRCA determina en el marco de la Resolución 2115 (2007) en su capítulo IV (artículos 14, 15 y 16) el puntaje de riesgo asociado a parámetros físico-químicos y microbiológicos de acuerdo con los análisis efectuados en las muestras de agua, que sobrepasen los valores máximos admitidos según la misma norma, otorgando un puntaje de 0 cuando cumple y 100 cuando no cumple ninguno de estos. 
 
-    p Los puntajes de riesgo más altos están establecidos cuantitativamente así:
+    p.mb-5 Los puntajes de riesgo más altos están establecidos cuantitativamente así:
 
     .row.justify-content-center.align-items-center
-      .col-lg-8.col-xs-10
+      .col-lg-10.col-xs-10
         figure
           img(src='@/assets/curso/temas/tema5/img6.svg', alt='Imagen muestra 2 columnas con puntajes de riesgo en calidad de agua:<br>Escherichia Coli 100 puntos<br>Coliformes Totales 15 puntos<br>Color Aparente  6 puntos<br>COT, Aluminio (Al3+), Nitritos) 3 puntos<br>pH, Hierro Total 1.5 puntos')
 

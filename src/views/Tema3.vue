@@ -428,7 +428,7 @@
           img(src='@/assets/curso/temas/tema3/img24.svg', alt='Imágen decorativa')
 
     .row.mb-5
-      p El fósforo se encuentra como fosfatos y al ser también un nutriente esencial para organismos fotosintéticos, puede estimular el crecimiento desmedido de este tipo de organismos generando condiciones de eutrofización en los cuerpos de agua (Comisión Estatal del Agua de Jalisco. 2013. P.13). De acuerdo con la norma para calidad de agua potable la resolución 2115 (2007) el valor máximo es 0.5 mg/L.
+      p El fósforo se encuentra como fosfatos y al ser también un nutriente esencial para organismos fotosintéticos, puede estimular el crecimiento desmedido de este tipo de organismos, generando condiciones de eutrofización en los cuerpos de agua (Comisión Estatal del Agua de Jalisco. 2013. P.13). De acuerdo con la norma para calidad de agua potable, la resolución 2115 (2007) el valor máximo es 0.5 mg/L.
 
 
     .row.justify-content-center.align-items-center.mb-5
