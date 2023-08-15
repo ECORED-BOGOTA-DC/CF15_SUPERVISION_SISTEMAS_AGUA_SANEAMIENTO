@@ -247,7 +247,8 @@ export default {
       referencia:
         'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2018). Rótulo de reactivos.',
       tipo: 'Documento',
-      link: 'https://acortar.link/25ykCE',
+      link:
+        'https://drive.google.com/file/d/12O67cTVrygyM8RtXHImN0rIsI6qV7zuQ/view',
     },
     {
       tema: 'Protocolo de laboratorio',
@@ -270,7 +271,8 @@ export default {
       referencia:
         'Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). (2018). Formato captura de datos en campo para agua superficial para aforo y toma de muestras de agua residual industrial.',
       tipo: 'Documento',
-      link: 'https://acortar.link/WPQyqZ',
+      link:
+        'https://ecored-bogota-dc.github.io/CF15_SUPERVISION_SISTEMAS_AGUA_SANEAMIENTO/downloads/anexos/FORMATO_CAPTURA_DATOS_EN_CAMPO_AFORO_Y_TOMA_MUESTRAS%20AGUA_RESIDUAL_INDUSTRIAL.doc',
     },
     {
       tema: 'Análisis físico químico',
@@ -651,7 +653,7 @@ export default {
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'LLina Marcela Pérez Manchego',
+          nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Validación de recursos educativos digitales',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',

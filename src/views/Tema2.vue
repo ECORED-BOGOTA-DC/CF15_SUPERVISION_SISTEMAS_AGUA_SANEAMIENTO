@@ -141,7 +141,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p Las buenas prácticas de laboratorio están definidas como pasos, procedimientos y prácticas establecidas por organismos como la #[i Food and Drug Administration] (FDA) las cuales permiten garantizar calidad analítica e integridad en datos obtenidos (INS, 2011, p. 20) junto con el manejo adecuado de las sustancias químicas utilizadas en dichos ensayos o procedimientos.
+        p Las buenas prácticas de laboratorio están definidas como pasos, procedimientos y prácticas establecidas por organismos como la #[i “Food and Drug Administration”] (FDA) las cuales permiten garantizar calidad analítica e integridad en datos obtenidos (INS, 2011, p. 20) junto con el manejo adecuado de las sustancias químicas utilizadas en dichos ensayos o procedimientos.
 
         p En Colombia, el marco normativo por el cual se adopta el Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos (SGA) y se dictan otras disposiciones en materia de seguridad química, es el Decreto 1496, (2018). Dicho sistema unifica criterios para la clasificación y etiquetado de productos químicos y sus respectivos peligros, tanto físicos, para la salud y para el medio ambiente. Las herramientas del SGA son fichas de seguridad y etiquetas donde es posible identificar los pictogramas y tener información para actuar en un momento de contingencia o emergencia. Por ello siempre deben ser consultadas tanto las fichas como las hojas de seguridad del producto.
 
@@ -413,7 +413,7 @@
         .cajon.color-acento-botones.p-4.mb-3
           p.mb-0 Con el fin de ampliar la información sobre las fichas de seguridad de una sustancia química, lo invitamos a consultar en el material complementario, el documento “Fichas internacionales de seguridad química”.
 
-        p Las hojas de Seguridad para Materiales (MSDS Material Safety Data Sheet, en inglés) que cobijan sustancias químicas, materias primas, productos e intermedios y permiten conocer la peligrosidad de una sustancia y su adecuada, manipulación son realizadas conforme a la Norma Técnica Colombiana (NTC) 2010 (1998). Para ampliar más esta información se invita a consultarla en la base de datos del SENA. Descargar la norma del siguiente enlace:
+        p Las hojas de Seguridad para Materiales (MSDS Material Safety Data Sheet, en inglés) que cobijan sustancias químicas, materias primas, productos e intermedios y permiten conocer la peligrosidad de una sustancia y su adecuada manipulación, son realizadas conforme a la Norma Técnica Colombiana (NTC) 2010 (1998). Para ampliar más esta información se invita a consultarla en la base de datos del SENA. Descargar la norma del siguiente enlace:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")
       .col-lg-10
