@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="505" height="238.315" viewBox="0 0 505 238.315">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3076b6"/>
+      <stop offset="1" stop-color="#102d48"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa031"/>
+      <stop offset="1" stop-color="#805019"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_1024429" data-name="Grupo 1024429" transform="translate(-285 -12630)">
+    <rect id="Rectángulo_348076" data-name="Rectángulo 348076" width="505" height="238.316" transform="translate(285 12630)" fill="#e3f4ff"/>
+    <g id="Grupo_1021158" data-name="Grupo 1021158" transform="translate(-185)">
+      <text id="O" transform="translate(615 12678.333)" fill="#008b8a" font-size="46" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+      <text id="O-" transform="translate(615 12851.983)" fill="#008b8a" font-size="46" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">O</tspan><tspan y="0" font-size="26.832" baseline-shift="15.331800263311814">-</tspan></text>
+      <text id="O--2" data-name="O-" transform="translate(705 12762.889)" fill="#008b8a" font-size="46" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">O</tspan><tspan y="0" font-size="26.832" baseline-shift="15.331800263311814">-</tspan></text>
+      <text id="O--3" data-name="O-" transform="translate(513.119 12762.889)" fill="#008b8a" font-size="46" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">O</tspan><tspan y="0" font-size="26.832" baseline-shift="15.331800263311814">-</tspan></text>
+      <text id="P" transform="translate(617 12767.468)" fill="#d57e18" font-size="46" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">P</tspan></text>
+      <g id="Grupo_1021146" data-name="Grupo 1021146" transform="translate(619.98 12685.45)">
+        <rect id="Rectángulo_348782" data-name="Rectángulo 348782" width="9.158" height="45.66" transform="translate(0 0)"/>
+        <rect id="Rectángulo_348783" data-name="Rectángulo 348783" width="9.158" height="45.66" transform="translate(14.882 0)"/>
+      </g>
+      <g id="Grupo_1021155" data-name="Grupo 1021155" transform="translate(619.98 12771.45)">
+        <rect id="Rectángulo_348782-2" data-name="Rectángulo 348782" width="9.158" height="45.66" transform="translate(7 0)"/>
+      </g>
+      <g id="Grupo_1021156" data-name="Grupo 1021156" transform="translate(651.729 12758.468) rotate(-90)">
+        <rect id="Rectángulo_348782-3" data-name="Rectángulo 348782" width="9.158" height="45.66" transform="translate(7 0)"/>
+      </g>
+      <g id="Grupo_1021157" data-name="Grupo 1021157" transform="translate(562.729 12758.468) rotate(-90)">
+        <rect id="Rectángulo_348782-4" data-name="Rectángulo 348782" width="9.158" height="45.66" transform="translate(7 0)"/>
+      </g>
+    </g>
+    <g id="Grupo_1021154" data-name="Grupo 1021154" transform="translate(267 -1.484)">
+      <rect id="Rectángulo_348787" data-name="Rectángulo 348787" width="5.519" height="35.876" transform="translate(388.184 12793.161) rotate(-141)"/>
+      <circle id="Elipse_8544" data-name="Elipse 8544" cx="22.5" cy="22.5" r="22.5" transform="translate(352.739 12777.484)" fill="url(#radial-gradient)"/>
+      <circle id="Elipse_8540" data-name="Elipse 8540" cx="22.5" cy="22.5" r="22.5" transform="translate(393 12732.484)" fill="url(#radial-gradient-2)"/>
+      <rect id="Rectángulo_348781" data-name="Rectángulo 348781" width="5.519" height="35.876" transform="translate(424.856 12743.941) rotate(-141)"/>
+      <rect id="Rectángulo_348788" data-name="Rectángulo 348788" width="5.519" height="35.876" transform="translate(454.574 12789.191) rotate(134)"/>
+      <g id="Grupo_1021153" data-name="Grupo 1021153" transform="translate(-8588.372 3709.094) rotate(-43)">
+        <rect id="Rectángulo_348779" data-name="Rectángulo 348779" width="6" height="36" transform="translate(410 12703.484)"/>
+        <rect id="Rectángulo_348780" data-name="Rectángulo 348780" width="5" height="36" transform="translate(420 12703.484)"/>
+      </g>
+      <ellipse id="Elipse_8538" data-name="Elipse 8538" cx="22" cy="22.5" rx="22" ry="22.5" transform="translate(346 12680.484)" fill="url(#radial-gradient)"/>
+      <circle id="Elipse_8539" data-name="Elipse 8539" cx="22.5" cy="22.5" r="22.5" transform="translate(424.933 12687.484)" fill="url(#radial-gradient)"/>
+      <ellipse id="Elipse_8543" data-name="Elipse 8543" cx="22" cy="22.5" rx="22" ry="22.5" transform="translate(431 12770.662)" fill="url(#radial-gradient)"/>
+    </g>
+  </g>
+</svg>

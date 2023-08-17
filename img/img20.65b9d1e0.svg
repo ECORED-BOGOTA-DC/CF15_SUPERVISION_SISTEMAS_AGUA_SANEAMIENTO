@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+  <g id="Grupo_1013412" data-name="Grupo 1013412" transform="translate(-224 -409)">
+    <path id="Trazado_710239" data-name="Trazado 710239" d="M44,0A44,44,0,1,1,0,44,44,44,0,0,1,44,0Z" transform="translate(224 409)" fill="#d2e1f1"/>
+    <g id="Grupo_1019689" data-name="Grupo 1019689" transform="translate(127.954 417.325)">
+      <g id="Grupo_1019687" data-name="Grupo 1019687" transform="translate(122.059 1.059)">
+        <path id="Trazado_720938" data-name="Trazado 720938" d="M207.569,46.258V37.5H188.5v8.758h4.674v-4.52h10.159v4.52Z" transform="translate(-180.024 -33.262)" fill="#008b8a" fill-rule="evenodd"/>
+        <path id="Trazado_720939" data-name="Trazado 720939" d="M134.857,99.5a6.375,6.375,0,0,0-6.357,6.357v10.594h8.071a13.775,13.775,0,0,1,19.879,0h8.071V105.857a6.376,6.376,0,0,0-6.357-6.357Zm1.714,36.021H128.5v10.594a6.376,6.376,0,0,0,6.357,6.357h23.308a6.376,6.376,0,0,0,6.357-6.357V135.521H156.45a13.775,13.775,0,0,1-19.879,0Z" transform="translate(-128.5 -86.504)" fill="#008b8a" fill-rule="evenodd"/>
+        <rect id="Rectángulo_348424" data-name="Rectángulo 348424" width="23.308" height="4.238" transform="translate(6.357 65.968)" fill="#008b8a"/>
+        <path id="Trazado_720940" data-name="Trazado 720940" d="M156.45,238.569h8.071V219.5H156.45a13.775,13.775,0,0,1,0,19.07ZM136.571,219.5H128.5v19.07h8.071a13.776,13.776,0,0,1,0-19.07Z" transform="translate(-128.5 -189.552)" fill="#fff" fill-rule="evenodd"/>
+        <rect id="Rectángulo_348425" data-name="Rectángulo 348425" width="23.308" height="4.238" transform="translate(6.357)" fill="#008b8a"/>
+        <path id="Trazado_720942" data-name="Trazado 720942" d="M134.857,99.5a6.375,6.375,0,0,0-6.357,6.357v10.594h3.178V105.857a6.375,6.375,0,0,1,6.357-6.357Zm-3.178,36.021H128.5v10.594a6.376,6.376,0,0,0,6.357,6.357h3.178a6.376,6.376,0,0,1-6.357-6.357Z" transform="translate(-128.5 -86.504)" fill="#90e0e0" fill-rule="evenodd"/>
+        <rect id="Rectángulo_348427" data-name="Rectángulo 348427" width="3.178" height="19.07" transform="translate(0 29.947)" fill="#9ee6fc"/>
+        <path id="Trazado_720943" data-name="Trazado 720943" d="M173.862,189.592a13.918,13.918,0,0,0-1.589-.092,13.773,13.773,0,0,0,0,27.546,13.921,13.921,0,0,0,1.589-.092,13.773,13.773,0,0,1,0-27.362Z" transform="translate(-154.262 -163.791)" fill="#9ee6fc" fill-rule="evenodd"/>
+        <path id="Trazado_720944" data-name="Trazado 720944" d="M322.357,126.237h-2.119v-2.119h2.119Zm-4.238-2.119H316V122h2.119Z" transform="translate(-289.514 -105.825)" fill="#fff"/>
+      </g>
+      <g id="Grupo_1019688" data-name="Grupo 1019688" transform="translate(121)">
+        <path id="Trazado_720945" data-name="Trazado 720945" d="M151.724,147.091H128.416A7.424,7.424,0,0,1,121,139.675V103.654h2.119v36.021a5.3,5.3,0,0,0,5.3,5.3h23.308a5.3,5.3,0,0,0,5.3-5.3V99.416a5.3,5.3,0,0,0-5.3-5.3H128.416a5.3,5.3,0,0,0-5.3,5.3v2.119H121V99.416A7.424,7.424,0,0,1,128.416,92h23.308a7.425,7.425,0,0,1,7.416,7.416v40.259A7.425,7.425,0,0,1,151.724,147.091Z" transform="translate(-121 -79.004)"/>
+        <path id="Trazado_720946" data-name="Trazado 720946" d="M191.427,479.8H185.07v-2.119h4.238V474.5h2.119Zm-8.476,0H166v-5.3h2.119v3.178h14.832Z" transform="translate(-159.643 -407.472)"/>
+        <path id="Trazado_720947" data-name="Trazado 720947" d="M191.427,6.357H166V0h25.427ZM168.119,4.238h21.189V2.119H168.119Z" transform="translate(-159.643)"/>
+        <path id="Trazado_720948" data-name="Trazado 720948" d="M202.188,46.258h-2.119V37.5h2.119Zm-4.238,0h-2.119V42.8h-8.04v3.461h-2.119v-5.58h12.278Zm-14.833,0H181V37.5h2.119Z" transform="translate(-172.524 -32.203)"/>
+        <path id="Trazado_720949" data-name="Trazado 720949" d="M165.832,211.665a14.832,14.832,0,1,1,14.832-14.832A14.849,14.849,0,0,1,165.832,211.665Zm0-27.546a12.713,12.713,0,1,0,12.713,12.713A12.728,12.728,0,0,0,165.832,184.119Z" transform="translate(-146.762 -156.291)"/>
+        <path id="Trazado_720950" data-name="Trazado 720950" d="M164.521,233.188h-8.072v-2.119h8.072Zm-27.949,0H128.5v-2.119h8.072Zm27.949-19.07h-8.072V212h8.072Zm-27.949,0H128.5V212h8.072Z" transform="translate(-127.441 -182.052)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="102" viewBox="0 0 420 102">
+  <g id="Grupo_1024408" data-name="Grupo 1024408" transform="translate(6726 -6306)">
+    <g id="Trazado_723786" data-name="Trazado 723786" transform="translate(-6726 6306)" fill="#f6f6f6">
+      <path d="M 419 91 L 1 91 L 1 1 L 419 1 L 419 91 Z" stroke="none"/>
+      <path d="M 2 2 L 2 90 L 418 90 L 418 2 L 2 2 M 0 0 L 420 0 L 420 92 L 0 92 L 0 0 Z" stroke="none" fill="#9b9b9b"/>
+    </g>
+    <g id="Grupo_1019790" data-name="Grupo 1019790" transform="translate(-6689 6331)">
+      <text id="Porcentaje_p_v_:" data-name="Porcentaje (% p/v):" transform="translate(0 11)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Porcentaje (% p/v):</tspan></text>
+      <text id="x100" transform="translate(301 11)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">x100</tspan></text>
+      <text id="g_de_soluto_100_mL_de_solución" data-name="g de soluto
+100 mL de solución" transform="translate(136)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="32.418" y="17">g de soluto</tspan><tspan x="2.754" y="41">100 mL de solución</tspan></text>
+      <line id="Línea_2570" data-name="Línea 2570" x2="160" transform="translate(135.5 23.308)" fill="none" stroke="#12263f" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

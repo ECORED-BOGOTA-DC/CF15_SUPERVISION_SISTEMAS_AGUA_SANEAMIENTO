@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="505" height="211.57" viewBox="0 0 505 211.57">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#008b8a"/>
+      <stop offset="1" stop-color="#004645"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3076b6"/>
+      <stop offset="1" stop-color="#102d48"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_1024426" data-name="Grupo 1024426" transform="translate(-285 -11269)">
+    <rect id="Rectángulo_348076" data-name="Rectángulo 348076" width="505" height="211.57" transform="translate(285 11269)" fill="#e3f4ff"/>
+    <g id="Grupo_1021145" data-name="Grupo 1021145" transform="translate(29.606 -38)">
+      <circle id="Elipse_8540" data-name="Elipse 8540" cx="22.5" cy="22.5" r="22.5" transform="translate(363.394 11409)" fill="url(#radial-gradient)"/>
+      <rect id="Rectángulo_348779" data-name="Rectángulo 348779" width="6" height="36" transform="translate(380.394 11380)"/>
+      <rect id="Rectángulo_348781" data-name="Rectángulo 348781" width="5.519" height="35.876" transform="matrix(-0.53, -0.848, 0.848, -0.53, 342.076, 11460.922)"/>
+      <rect id="Rectángulo_348780" data-name="Rectángulo 348780" width="5" height="36" transform="translate(390.394 11380)"/>
+      <ellipse id="Elipse_8538" data-name="Elipse 8538" cx="22" cy="22.5" rx="22" ry="22.5" transform="translate(305.394 11443)" fill="url(#radial-gradient-2)"/>
+      <circle id="Elipse_8539" data-name="Elipse 8539" cx="22.5" cy="22.5" r="22.5" transform="translate(363.394 11338)" fill="url(#radial-gradient-2)"/>
+    </g>
+    <g id="Grupo_1021148" data-name="Grupo 1021148" transform="translate(-118 -114.185)">
+      <text id="O" transform="translate(626 11533.185)" fill="#205a8f" font-size="46" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+      <text id="O-" transform="translate(837 11533.185)" fill="#205a8f" font-size="46" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">O</tspan><tspan y="0" font-size="26.832" baseline-shift="15.331800263311814">-</tspan></text>
+      <text id="N" transform="translate(735 11477.185)" fill="#008b8a" font-size="46" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">N</tspan></text>
+      <g id="Grupo_1021146" data-name="Grupo 1021146" transform="translate(709.776 11459.05) rotate(56)">
+        <rect id="Rectángulo_348782" data-name="Rectángulo 348782" width="9.158" height="59.527" transform="translate(0 0)"/>
+        <rect id="Rectángulo_348783" data-name="Rectángulo 348783" width="9.158" height="59.527" transform="translate(14.882 0)"/>
+      </g>
+      <g id="Grupo_1021147" data-name="Grupo 1021147" transform="translate(834.83 11500.35) rotate(124)">
+        <rect id="Rectángulo_348782-2" data-name="Rectángulo 348782" width="9.158" height="59.526" transform="translate(0)"/>
+      </g>
+    </g>
+  </g>
+</svg>
