@@ -19,7 +19,7 @@
     #t_4_1.titulo-segundo.color-acento-botones
        h2 4.1 Tipos de microorganismos
 
-    p La microbiología hablando en sentido etimológico, viene del griego «μικρος» mikros "pequeño", «βιος» bios, "vida" y «-λογία» -logía, tratado, estudio, ciencia; se encarga del estudio de los microorganismos que solo son visibles a través del microscopio, sean estos eucariotas o procariotas (Acevedo, R; Severiche, C. y Castillo M. 2013. p. 7).
+    p “La microbiología hablando en sentido etimológico, viene del griego «μικρος» mikros "pequeño", «βιος» bios, "vida" y «-λογία» -logía, tratado, estudio, ciencia; se encarga del estudio de los microorganismos que solo son visibles a través del microscopio, sean estos eucariotas o procariotas” (Acevedo, R; Severiche, C. y Castillo M. 2013. p. 7).
 
     .row.justify-content-center.align-items-center.mt-5
       TabsB.color-primario
